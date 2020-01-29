@@ -1,0 +1,19 @@
+# google project id: csv2tbx
+# url: https://csv2tbx.appspot.com
+
+entrypoint: gunicorn -b :$PORT bot_main:app
+runtime: python37
+
+instance_class: B4_1G
+basic_scaling:
+  max_instances: 1
+  idle_timeout: 5m
+
+#Note: apps that specify an instance_class of B1, B2, B4, B4_1G, or B8 
+#are currently affected by a known issue that renders these apps unable 
+#to serve traffic when using the Python 3.7 runtime. 
+#Adding the following code to your app.yaml file provides a temporary workaround for this issue:
+# and add the following lines to the handlers element:
+handlers:
+ - url: '/.*'
+   script: auto

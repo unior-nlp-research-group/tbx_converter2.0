@@ -1,0 +1,3013 @@
+alamaro,N:ms-+;RA1ABAC
+balteus,N:ms-+;RA1ABAC
+borchia,N:fs-+;RA1ABAC
+bottone,N:ms-+;RA1ABAC
+bottone a calotta,N+NPN:ms-+;RA1ABAC
+brassard,N:ms-+;RA1ABAC
+brassard con custodia,N+NPN:ms-+;RA1ABAC
+brattea,N:fs-+;RA1ABAC
+cingulum,N:ms-+;RA1ABAC
+cintura,N:fs-+;RA1ABAC
+cintura per la sospensione,N+NPDETN:fs-+;RA1ABAC
+cintura a fascia,N+NPN:fs-+;RA1ABAC
+cintura a losanga,N+NPN:fs-+;RA1ABAC
+cintura a placche,N+NPN:fs-+;RA1ABAC
+cintura multipla,N+NA:fs-+;RA1ABAC
+cinturone,N:ms-+;RA1ABAC
+clavus,N:ms-+;RA1ABAC
+falera,N:fs-+;RA1ABAC
+fibbia,N:fs-+;RA1ABAC
+fibbia di aggancio,N+NPN:fs-+;RA1ABAC
+fibula,N:fs-+;RA1ABAC
+fibula a losanga,N+NPN:fs-+;RA1ABAC
+fibula a occhiali,N+NPN:fs-+;RA1ABAC
+fibula a più occhielli e ago diritto,N+NPANCONGNA:fs-+;RA1ABAC
+fibula a placchette,N+NPN:fs-+;RA1ABAC
+fibula a quattro spirali,N+NPAN:fs-+;RA1ABAC
+fibula a 4 spirali,N+NPAN:fs-+;RA1ABAC
+fibula a sanguisuga,N+NPN:fs-+;RA1ABAC
+fibula a sanguisuga con decorazione plastica,N+NPNPNA:fs-+;RA1ABAC
+fibula a tre occhielli e staffa allungata,N+NPANCONGNA:fs-+;RA1ABAC
+fibula a 3 occhielli e staffa allungata,N+NPANCONGNA:fs-+;RA1ABAC
+fibula ad arco semplice,N+NPNA:fs-+;RA1ABAC
+fibula ad arco a coste,N+NPNPN:fs-+;RA1ABAC
+fibula ad arco a dischi,N+NPNPN:fs-+;RA1ABAC
+fibula ad arco a occhielli e spirali coniche,N+NPNPNCONGNA:fs-+;RA1ABAC
+fibula ad arco a ponticello,N+NPNPP:fs-+;RA1ABAC
+fibula ad arco con serie di occhielli,N+NPNPNPN:fs-+;RA1ABAC
+fibula ad arco di violino,N+NPNPN:fs-+;RA1ABAC
+fibula ad arco di violino a doppia foglia,N+NPNPNPAN:fs-+;RA1ABAC
+fibula ad arco di violino con cappi a otto,N+NPNPNPNPA:fs-+;RA1ABAC
+fibula ad arco di violino con cappi a 8,N+NPNPNPNPA:fs-+;RA1ABAC
+fibula ad arco di violino con quattro noduli,N+NPNPNPAN:fs-+;RA1ABAC
+fibula ad arco di violino con 4 noduli,N+NPNPNPAN:fs-+;RA1ABAC
+fibula ad arco di violino asimmetrico,N+NPNPNA:fs-+;RA1ABAC
+fibula ad arco di violino con cappi a otto e staffa a disco,N+NPNPNPNPACONGNPN:fs-+;RA1ABAC
+fibula ad arco di violino con cappi a 8 e staffa a disco,N+NPNPNPNPACONGNPN:fs-+;RA1ABAC
+fibula ad arco di violino foliato,N+NPNPNA:fs-+;RA1ABAC
+fibula ad arco di violino rialzato,N+NPNPNA:fs-+;RA1ABAC
+fibula ad arco foliato,N+NPNA:fs-+;RA1ABAC
+fibula ad arco ingrossato,N+NPNA:fs-+;RA1ABAC
+fibula ad arco quadrangolare,N+NPNA:fs-+;RA1ABAC
+fibula ad arco ingrossato a gomito,N+NPNAPN:fs-+;RA1ABAC
+fibula ad arco ingrossato con staffa a disco,N+NPNAPNPN:fs-+;RA1ABAC
+fibula ad arco leggermente ribassato con sezione romboidale,N+NPNAVVAPNA:fs-+;RA1ABAC
+fibula ad arco ribassato a occhielli,N+NPNAPN:fs-+;RA1ABAC
+fibula ad arco ribassato elicoidale,N+NPNAA:fs-+;RA1ABAC
+fibula ad arco ribassato multiplo,N+NPNAA:fs-+;RA1ABAC
+fibula ad arco ribassato ritorto a cordicella,N+NPNAAPN:fs-+;RA1ABAC
+fibula ad arco rivestito,N+NPNA:fs-+;RA1ABAC
+fibula ad arco semplice rivestito di perline,N+NPNAAPN:fs-+;RA1ABAC
+fibula ad arco rivestito a losanga,N+NPNAPN:fs-+;RA1ABAC
+fibula ad arco rivestito con staffa a disco,N+NPNAPNPN:fs-+;RA1ABAC
+fibula ad arco schiacciato,N+NPNA:fs-+;RA1ABAC
+fibula ad arco schiacciato con bottoni laterali,N+NPNAPNA:fs-+;RA1ABAC
+fibula ad arco semplice,N+NPNA:fs-+;RA1ABAC
+fibula ad arco semplice a gomito,N+NPNAPN:fs-+;RA1ABAC
+fibula ad arco semplice elicoidale,N+NPNAA:fs-+;RA1ABAC
+fibula ad arco scudato,N+NPNA:fs-+;RA1ABAC
+fibula serpeggiante,N+NA:fs-+;RA1ABAC
+fibula serpeggiante a bastoncelli,N+NAPN:fs-+;RA1ABAC
+fibula serpeggiante a due pezzi,N+NAPAN:fs-+;RA1ABAC
+fibula serpeggiante a 2 pezzi,N+NAPAN:fs-+;RA1ABAC
+fibula serpeggiante a gomito,N+NAPN:fs-+;RA1ABAC
+fibula serpeggiante a gomito con ago bifido,N+NAPNPNA:fs-+;RA1ABAC
+fibula serpeggiante a occhiello,N+NAPN:fs-+;RA1ABAC
+fibula serpeggiante con ago elastico bifido,N+NAPNAA:fs-+;RA1ABAC
+fibula serpeggiante con arco a gomito,N+NAPNPN:fs-+;RA1ABAC
+fibula serpeggiante con arco a occhielli,N+NAPNPN:fs-+;RA1ABAC
+fibula serpeggiante con occhiello a contorno quadrangolare,N+NAPNPNA:fs-+;RA1ABAC
+fibula serpeggiante con occhiello e ago curvo,N+NAPNCONGNA:fs-+;RA1ABAC
+fibula serpeggiante con occhiello e ago diritto,N+NAPNCONGNA:fs-+;RA1ABAC
+fibula serpeggiante con occhiello e staffa a disco,N+NAPNCONGNPN:fs-+;RA1ABAC
+fibula serpeggiante in due pezzi,N+NAPAN:fs-+;RA1ABAC
+fibula serpeggiante in 2 pezzi,N+NAPAN:fs-+;RA1ABAC
+lamina,N:fs-+;RA1ABAC
+laticlavus,N:ms-+;RA1ABAC TRECCANI RIPORTA LATICLAVIUM
+nastro,N:ms-+;RA1ABAC
+nastro per capelli,N+NPN:ms-+;RA1ABAC
+passante,N:ms-+;RA1ABAC
+spillone,N:ms-+;RA1ABAC
+spillone a forcina,N+NPN:ms-+;RA1ABAC
+spillone a gancio,N+NPN:ms-+;RA1ABAC
+spillone a rotella,N+NPN:ms-+;RA1ABAC
+calceus
+caliga,N:fs-+;RA1ABCA
+caliga speculatoria,N+NA:fs-+;RA1ABCA
+calzare,N:ms-+;RA1ABCA
+carbatina,RA1ABCA
+sandalo,N:ms-+;RA1ABCA
+parrucca,N:fs-+;RA1ABCO
+petasus,N:ms-+;RA1ABCO
+pileus,N:ms-+;RA1ABCO
+anello,N:ms-+;RA1ABGM
+anello crinale,N+NA:ms-+;RA1ABGM
+anello da caviglia,N+NPN:ms-+;RA1ABGM
+anello digitale,N+NA:ms-+;RA1ABGM
+anello fermatrecce,N+NA:ms-+;RA1ABGM
+anello matrimoniale,N+NA:ms-+;RA1ABGM
+anello portastrigili,N+NA:ms-+;RA1ABGM
+anello pettorale,N+NA:ms-+;RA1ABGM
+anello a capi aperti,N+NPNA:ms-+;RA1ABGM
+anello a capi aperti e accostati,N+NPNACONGA:ms-+;RA1ABGM
+anello a capi ritorti,N+NPNA:ms-+;RA1ABGM
+anello a capi sovrapposti,N+NPNA:ms-+;RA1ABGM
+anello a cerchio semplice,N+NPNA:ms-+;RA1ABGM
+anello a chiave,N+NPN:ms-+;RA1ABGM
+anello a ciambella,N+NPN:ms-+;RA1ABGM
+anello a doppia fascia,N+NPAN:ms-+;RA1ABGM
+anello a doppio castone,N+NPAN:ms-+;RA1ABGM
+anello a doppio castone liscio,N+NPANA:ms-+;RA1ABGM
+anello a fascetta,N+NPN:ms-+;RA1ABGM
+anello a fascetta a capi aperti,N+NPNPNA:ms-+;RA1ABGM
+anello a fascetta a capi sovrapposti,N+NPNPNA:ms-+;RA1ABGM
+anello a fascia,N+NPN:ms-+;RA1ABGM
+anello a fascia a capi aperti,N+NPNPNA:ms-+;RA1ABGM
+anello a fascia aperta,N+NPNA:ms-+;RA1ABGM
+anello a fascia aperta a spirali,N+NPNAPN:ms-+;RA1ABGM
+anello a filo godronato,N+NPNA:ms-+;RA1ABGM
+anello a forma di serpente,N+NPNPN:ms-+;RA1ABGM
+anello a forma di serpente a due teste,N+NPNPNPAN:ms-+;RA1ABGM
+anello a ghirlanda,N+NPN:ms-+;RA1ABGM
+anello a losanga,N+NPN:ms-+;RA1ABGM
+anello a nastro,N+NPN:ms-+;RA1ABGM
+anello a nodi,N+NPN:ms-+;RA1ABGM
+anello a ovuli,N+NPN:ms-+;RA1ABGM
+anello a ovuli e listelli,N+NPNCONGN:ms-+;RA1ABGM
+anello a quattro nodi,N+NPAN:ms-+;RA1ABGM
+anello a 4 nodi,N+NPAN:ms-+;RA1ABGM
+anello a sei nodi,N+NPAN:ms-+;RA1ABGM
+anello a 6 nodi,N+NPAN:ms-+;RA1ABGM
+anello a scarabeo,N+NPN:ms-+;RA1ABGM
+anello a serpente,N+NPN:ms-+;RA1ABGM
+anello a sezione circolare,N+NPNA:ms-+;RA1ABGM
+anello a sezione pianoconvessa,N+NPNA:ms-+;RA1ABGM
+anello a sezione schiacciata,N+NPNA:ms-+;RA1ABGM
+anello a spirale,N+NPN:ms-+;RA1ABGM
+anello a testa di serpe,N+NPNPN:ms-+;RA1ABGM
+anello a testata distinta,N+NPNA:ms-+;RA1ABGM
+anello a tortiglione,N+NPN:ms-+;RA1ABGM
+anello a verga,N+NPN:ms-+;RA1ABGM
+anello a verga aperta,N+NPNA:ms-+;RA1ABGM
+anello a verga continua,N+NPNA:ms-+;RA1ABGM
+anello a verga spiraliforme,N+NPNA:ms-+;RA1ABGM
+anello cavo,N+NA:ms-+;RA1ABGM
+anello chiuso,N+NA:ms-+;RA1ABGM
+anello con apofisi,N+NPN:ms-+;RA1ABGM
+anello con bulle bivalvi,N+NPNA:ms-+;RA1ABGM
+anello con castone,N+NPN:ms-+;RA1ABGM
+anello con castone appiattito,N+NPNA:ms-+;RA1ABGM
+anello con castone con gemma,N+NPNPN:ms-+;RA1ABGM
+anello con castone figurato,N+NPNA:ms-+;RA1ABGM
+anello con castone a occhio,N+NPNPN:ms-+;RA1ABGM
+anello con castone a cartiglio,N+NPNPN:ms-+;RA1ABGM
+anello con castone a losanga,N+NPNPN:ms-+;RA1ABGM
+anello con castone a mandorla,N+NPNPN:ms-+;RA1ABGM
+anello con castone a scarabeo,N+NPNPN:ms-+;RA1ABGM
+anello con castone circolare,N+NPNA:ms-+;RA1ABGM
+anello con castone circolare figurato,N+NPNAA:ms-+;RA1ABGM
+anello con castone ellittico,N+NPNA:ms-+;RA1ABGM
+anello con castone ovale,N+NPNA:ms-+;RA1ABGM
+anello con castone ovale figurato,N+NPNAA:ms-+;RA1ABGM
+anello con castone ovale liscio,N+NPNAA:ms-+;RA1ABGM
+anello con castone ovale piatto,N+NPNAA:ms-+;RA1ABGM
+anello con castone rettangolare,N+NPNA:ms-+;RA1ABGM
+anello con castone romboidale figurato,N+NPNAA:ms-+;RA1ABGM
+anello con catenelle,N+NPN:ms-+;RA1ABGM
+anello con cerchielli incisi,N+NPNA:ms-+;RA1ABGM
+anello con chiave,N+NPN:ms-+;RA1ABGM
+anello con elemento a tre punte,N+NPNPAN:ms-+;RA1ABGM
+anello con elemento plastico,N+NPNA:ms-+;RA1ABGM
+anello con estremità a coda di rondine,N+NPNPNPN:ms-+;RA1ABGM
+anello con fascetta di sospensione,N+NPNPN:ms-+;RA1ABGM
+anello con gancio,N+NPN:ms-+;RA1ABGM
+anello con gemma incastonata,N+NPNA:ms-+;RA1ABGM
+anello con lamina nastriforme,N+NPNA:ms-+;RA1ABGM
+anello con pendente,N+NPN:ms-+;RA1ABGM
+anello con pietra verde,N+NPNA:ms-+;RA1ABGM
+anello con pinzetta,N+NPN:ms-+;RA1ABGM
+anello con scarabeo,N+NPN:ms-+;RA1ABGM
+anello con sigillo,N+NPN:ms-+;RA1ABGM
+anello costolato,N+NA:ms-+;RA1ABGM
+anello cuspidato,N+NA:ms-+;RA1ABGM
+anello discoide,N+NA:ms-+;RA1ABGM
+anello doppio,N+NA:ms-+;RA1ABGM
+anello ellittico,N+NA:ms-+;RA1ABGM
+anello figurato,N+NA:ms-+;RA1ABGM
+anello gemino,N+NA:ms-+;RA1ABGM
+anello gemino cuspidato,N+NAA:ms-+;RA1ABGM
+anello liscio,N+NA:ms-+;RA1ABGM
+anello ovale,N+NA:ms-+;RA1ABGM
+anello piatto,N+NA:ms-+;RA1ABGM
+anello scanalto,N+NA:ms-+;RA1ABGM
+anello spiraliforme,N+NA:ms-+;RA1ABGM
+anello tricuspidato,N+NA:ms-+;RA1ABGM
+amilla,N:fs-+;RA1ABGM
+bracciale,N:ms-+;RA1ABGM
+bracciale omerale,N+NA:ms-+;RA1ABGM
+bracciale a capi aperti,N+NPNA:ms-+;RA1ABGM
+bracciale a capi sovrapposti,N+NPNA:ms-+;RA1ABGM
+bracciale a cinque fili,N+NPAN:ms-+;RA1ABGM
+bracciale a 5 fili,N+NPAN:ms-+;RA1ABGM
+bracciale a cinque spirali,N+NPAN:ms-+;RA1ABGM
+bracciale a 5 spirali,N+NPAN:ms-+;RA1ABGM
+bracciale a corpo di serpente,N+NPNPN:ms-+;RA1ABGM
+bracciale a due avvolgimenti,N+NPAN:ms-+;RA1ABGM
+bracciale a 2 avvolgimenti,N+NPAN:ms-+;RA1ABGM
+bracciale a due fili,N+NPAN:ms-+;RA1ABGM
+bracciale a 2 fili,N+NPAN:ms-+;RA1ABGM
+bracciale a due maglie intersecate,N+NPANA:ms-+;RA1ABGM
+bracciale a 2 maglie intersecate,N+NPANA:ms-+;RA1ABGM
+bracciale a due teste di serpente,N+NPANPN:ms-+;RA1ABGM
+bracciale a 2 teste di serpente,N+NPANPN:ms-+;RA1ABGM
+bracciale a fascia,N+NPN:ms-+;RA1ABGM
+bracciale a fettuccia costolata,N+NPNA:ms-+;RA1ABGM
+bracciale a forma di coda annodata,N+NPNPNA:ms-+;RA1ABGM
+bracciale a larghe perlature,N+NPAN:ms-+;RA1ABGM
+bracciale a nastro con castone,N+NPNPN:ms-+;RA1ABGM
+bracciale a navicella,N+NPN:ms-+;RA1ABGM
+bracciale a nodo intrecciato,N+NPNA:ms-+;RA1ABGM
+bracciale a semisfere,N+NPN:ms-+;RA1ABGM
+bracciale a spirale,N+NPN:ms-+;RA1ABGM
+bracciale a spirale e capi a rotolo,N+NPNCONGNPN:ms-+;RA1ABGM
+bracciale a testa di serpe,N+NPNPN:ms-+;RA1ABGM
+bracciale a tre fili,N+NPAN:ms-+;RA1ABGM
+bracciale a 3 fili,N+NPAN:ms-+;RA1ABGM
+bracciale a verga tonda,N+NPNA:ms-+;RA1ABGM
+bracciale a verga aperta,N+NPNA:ms-+;RA1ABGM
+bracciale con borchia circolare,N+NPNA:ms-+;RA1ABGM
+bracciale con castone a sbalzo,N+NPNPN:ms-+;RA1ABGM
+bracciale con castone inciso,N+NPNA:ms-+;RA1ABGM
+bracciale con castone liscio,N+NPNA:ms-+;RA1ABGM
+bracciale con castone ovale,N+NPNA:ms-+;RA1ABGM
+bracciale con disco,N+NPN:ms-+;RA1ABGM
+bracciale con pendenti a bulla,N+NPNPN:ms-+;RA1ABGM
+bracciale spiraliforme,N+NA:ms-+;RA1ABGM
+pendente,N:ms-+;RA1ABGM
+pendente antropomorfo,N+NA:ms-+;RA1ABGM
+pendente zoomorfo,N+NA:ms-+;RA1ABGM
+pendente a forma di uccello,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di scimmia seduta,N+NPNPNA:ms-+;RA1ABGM
+pendente a forma di anello godronato,N+NPNPNA:ms-+;RA1ABGM
+pendente a forma di brocchetta,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di cippo,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di conchiglia,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di crescente lunare,N+NPNPNA:ms-+;RA1ABGM
+pendente a forma di crisalide,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di maschera di Medusa,N+NPNPNPN:ms-+;RA1ABGM
+pendente a forma di fallo,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di ghianda,N+NPNPN:ms-+;RA1ABGM
+pendente a forma di goccia,N+NPNPN:ms-+;RA1ABGM
+pendente ad anelli annodati,N+NPNA:ms-+;RA1ABGM
+pendente circolare,N+NA:ms-+;RA1ABGM
+pendente emisferico,N+NA:ms-+;RA1ABGM
+pendente esagonale,N+NA:ms-+;RA1ABGM
+braccialetto,N:ms-+;RA1ABGM
+bulla,N:fs-+;RA1ABGM
+bulla da bracciale,N+NPN:fs-+;RA1ABGM
+bulla da collana,N+NPN:fs-+;RA1ABGM
+ciondolo,N:ms-+;RA1ABGM
+ciottolo,N:ms-+;RA1ABGM
+ciottolo forato,N+NA:ms-+;RA1ABGM
+ciottolo pedina,N+NN:ms-+;RA1ABGM
+collana,N:fs-+;RA1ABGM
+collana con chiusura a borchia,N+NPNPN:fs-+;RA1ABGM
+collana con chiusura a forma di ruota,N+NPNPNPN:fs-+;RA1ABGM
+collana con foglie,N+NPN:fs-+;RA1ABGM
+collana con pendente a maschera di Medusa,N+NPNPNPN:fs-+;RA1ABGM
+collana con pendente ad anello godronato,N+NPNPNA:fs-+;RA1ABGM
+collana con pendente configurato,N+NPNA:fs-+;RA1ABGM
+collana con pendente a forma di crescente lunare,N+NPNPNPNA:fs-+;RA1ABGM
+vago,N:ms-+;RA1ABGM
+vago globulare,N+NA:ms-+;RA1ABGM
+collare,N:ms-+;RA1ABGM
+corona,N:fs-+;RA1ABGM
+corona funeraria,N+NA:fs-+;RA1ABGM
+corona aurea,N+NA:fs-+;RA1ABGM
+corona castrensis,N+NA:fs-+;RA1ABGM
+corona civica,N+NA:fs-+;RA1ABGM
+corona graminea o obsidionalis,N+NACONGN:fs-+;RA1ABGM
+corona graminea,N+NA:fs-+;RA1ABGM
+corona obsidionalis,N+NA:fs-+;RA1ABGM
+corona muralis,N+NA:fs-+;RA1ABGM
+corona navalis,N+NA:fs-+;RA1ABGM
+corona ovalis,N+NA:fs-+;RA1ABGM
+corona trumphalis,N+NA:fs-+;RA1ABGM
+corona vallaris,N+NA:fs-+;RA1ABGM
+diadema,N:ms-+;RA1ABGM
+doppio anello,AN:ms-+;RA1ABGM
+gemma,N:fs-+;RA1ABGM
+grano,N:ms-+;RA1ABGM
+orecchino,N:ms-+;RA1ABGM
+orecchino a canestro,N+NPN:ms-+;RA1ABGM
+orecchino a cerchio,N+NPN:ms-+;RA1ABGM
+orecchino a coppia di semisfere,N+NPNPN:ms-+;RA1ABGM
+orecchino a crescente,N+NPN:ms-+;RA1ABGM
+orecchino a fascetta o a navicella semplice,N+NPNCONGPNA:ms-+;RA1ABGM
+orecchino a fascetta,N+NPN:ms-+;RA1ABGM
+orecchino a navicella semplice,N+NPNA:ms-+;RA1ABGM
+orecchino a medaglione,N+NPN:ms-+;RA1ABGM
+orecchino a nastro,N+NPN:ms-+;RA1ABGM
+orecchino a navicella,N+NPN:ms-+;RA1ABGM
+orecchino a spicchio di sfera,N+NPNPN:ms-+;RA1ABGM
+orecchino a spirale,N+NPN:ms-+;RA1ABGM
+orecchino a verga,N+NPN:ms-+;RA1ABGM
+orecchino ad arco,N+NPN:ms-+;RA1ABGM
+orecchino con disco,N+NPN:ms-+;RA1ABGM
+orecchino con pendente,N+NPN:ms-+;RA1ABGM
+orecchino con due pendenti,N+NPAN:ms-+;RA1ABGM
+orecchino con 2 pendenti,N+NPAN:ms-+;RA1ABGM
+pendaglio,N:ms-+;RA1ABGM
+pendente,N:ms-+;RA1ABGM
+pendente terminale,N+NA:ms-+;RA1ABGM
+perlina,N:fs-+;RA1ABGM
+pettorale,N:ms-+;RA1ABGM
+spilla,N:ms-+;RA1ABGM
+torque,N:fs--;RA1ABGM
+vago,N:ms-+;RA1ABGM
+vago goblulare,N+NA:ms-+;RA1ABGM
+bracae,N:fp--;RA1ABVE
+bracae virgatae,N+NA:fp--;RA1ABVE
+chitone,N:ms-+;RA1ABVE
+fascia cruralis,NA:fs-+;RA1ABVE
+focale
+paenula,N:fs-+;RA1ABVE
+paenula gausapina,N+NA:fs-+;RA1ABVE
+paenula scortea,N+NA:fs-+;RA1ABVE
+paludamentum,N:ms-+;RA1ABVE
+perizoma,N:ms-+;RA1ABVE
+sagum,N:ms-+;RA1ABVE
+subligaculum,N:ms-+;RA1ABVE
+subligar,
+tunica,N:fs-+;RA1ABVE
+tunica esomide,N+NA:fs-+;RA1ABVE
+tunica cincta,N+NA:fs-+;RA1ABVE
+tunica talaris,N+NA:fs-+;RA1ABVE
+tunica manicata,N+NA:fs-+;RA1ABVE
+tunica recta,N+NA:fs-+;RA1ABVE
+tunica subucula,N+NA:fs-+;RA1ABVE
+udones,N:ms--;RA1ABVE
+basamento,N:ms-+;RA1AR
+basamento a dado,N+NPN:ms-+;RA1AR
+basamento a prisma,N+NPN:ms-+;RA1AR
+basamento cilindrico,N+NA:ms-+;RA1AR
+base,N:fs-+;RA1AR
+base di sostegno,N+NPN:fs-+;RA1AR
+base onoraria,N+NA:fs-+;RA1AR
+base circolare,N+NA:fs-+;RA1AR
+base con profiloN+NPN:fs-+;RA1AR
+base modanata,N+NA:fs-+;RA1AR
+base triangolare,N+NA:fs-+;RA1AR
+capsella,N:fs-+;RA1AR
+ghianda,N:fs-+;RA1AR
+ghianda funeraria,N+NA:fs-+;RA1AR
+ghianda missile,N+NN:fs-+;RA1AR
+labrum,N:ms-+;RA1AR
+louterion,N:ms--;RA1AR
+mensa,N:fs-+;RA1AR
+mensa funeraria,N+NA:fs-+;RA1AR
+mensa ponderaria,N+NA:fs-+;RA1AR
+piedistallo,N:ms-+;RA1AR
+puteale,N:ms-+;RA1AR
+seggio,N:ms-+;RA1AR
+stemma,N:ms-+;RA1AR
+stufa,N:fs-+;RA1AR
+trapezoforo,N:ms-+;RA1AR
+trapezoforo a lastra,N+NPN:ms-+;RA1AR
+trapezoforo figurato,N+NA:ms-+;RA1AR
+trapezoforo scanalato,N+NA:ms-+;RA1AR
+trapezoforo zoomorfo,N+NA:ms-+;RA1AR
+trono,N:ms-+;RA1AR
+trono regale,N+NA:ms-+;RA1AR
+vasca,N:fs-+;RA1AR
+vasca di decantazione,N+NPN:fs-+;RA1AR
+vera,N:fs-+;RA1AR
+cippo,N:ms-+;RA1AR
+stele,N:fs-+;RA1AR
+cippo sacro,N+NA:ms-+;RA1ARASV
+cippo votivo,N+NA:ms-+;RA1ARASV
+stele votiva,N+NA:fs-+;RA1ARASV
+stele votiva a edicola,N+NAPN:fs-+;RA1ARASV
+stele votiva a pseudoedicola,N+NAPN:fs-+;RA1ARASV
+stele votiva centinata,N+NAA:fs-+;RA1ARASV
+acquasantiera,N:fs-+;RA1ARASV
+ara,N:fs-+;RA1ARASV
+ara bruciaprofumi,N+NA:fs-+;RA1ARASV
+ara bruciaprofumi quadrangolare,N+NNA:fs-+;RA1ARASV
+ara quadrangolare,N+NA:fs-+;RA1ARASV
+ara compitale,N+NA:fs-+;RA1ARASV
+ara funeraria,N+NA:fs-+;RA1ARASV
+ara votiva,N+NA:fs-+;RA1ARASV
+arula,N:fs-+;RA1ARASV
+arula a cassetta,N+NPN:fs-+;RA1ARASV
+arula a clessidra,N+NPN:fs-+;RA1ARASV
+arula a doppio echino,N+NPAN:fs-+;RA1ARASV
+betilo,N:ms-+;RA1ARASV
+betilo conico liscio,N+NAA:ms-+;RA1ARASV
+betilo mammellato,N+NA:ms-+;RA1ARASV
+betilo rastremato,N+NA:ms-+;RA1ARASV
+croce,N:fs-+;RA1ARASV
+croce astile,N+NA:fs-+;RA1ARASV
+croce d'altare,N+NDN:fs-+;RA1ARASV
+croce pensile,N+NA:fs-+;RA1ARASV
+perirrhanterion
+ciborio,N:ms-+;RA1ARASVAA
+modellino votivo,N+NA:ms-+;RA1ARASVM
+modellino votivo di altare,N+NAPN:ms-+;RA1ARASVM
+modellino di altare,N+NPN:ms-+;RA1ARASVM
+modellino di barca,N+NPN:ms-+;RA1ARASVM
+modellino di navicella,N+NPN:ms-+;RA1ARASVM
+modellino di nuraghe,N+NPN:ms-+;RA1ARASVM
+modellino di torre nuragica,N+NPNA:ms-+;RA1ARASVM
+modellino di tempio,N+NPN:ms-+;RA1ARASVM
+modellino di altare,N+NPN:ms-+;RA1ARASVM
+modellino di barca,N+NPN:ms-+;RA1ARASVM
+modellino di navicella,N+NPN:ms-+;RA1ARASVM
+modellino di nuraghe,N+NPN:ms-+;RA1ARASVM
+cippo funerario,NA:ms-+;RA1ARAF
+cippo funerario a forma di cono bombato,NAPNPNA:ms-+;RA1ARAF
+cippo funerario a forma di pigna,NAPNPN:ms-+;RA1ARAF
+sarcofago,N:ms-+;RA1ARAF
+sarcofago a cassa liscia,N+NPNA:ms-+;RA1ARAF
+sarcofago a cassa parallelepipeda,N+NPNA:ms-+;RA1ARAF
+sarcofago a lenos,N+NPN:ms-+;RA1ARAF
+sarcofago a tinozza,N+NPN:ms-+;RA1ARAF
+sarcofago a colonne,N+NPN:ms-+;RA1ARAF
+sarcofago a doppio registro,N+NPAN:ms-+;RA1ARAF
+sarcofago a fregio,N+NPN:ms-+;RA1ARAF
+sarcofago con decorazione a ghirlande,N+NPNPN:ms-+;RA1ARAF
+sarcofago con eroti e vittorie clipeofori o reggenti tabulae o parapetasmata,N+NPNCONGNACONGANCONGN:ms-+;RA1ARAF
+sarcofago con eroti e vittorie clipeofori,N+NPNCONGNA:ms-+; RA1ARAF
+sarcofago con eroti e vittorie reggenti tabulae???,N+NPNCONGNAN:ms-+;RA1ARAF
+sarcofago con eroti e vittorie reggenti parapetasmata,N+NPNCONGNAN:ms-+;RA1ARAF
+sarcofago strigilato,N+NA:ms-+;RA1ARAF
+sarcofago strigilato ad edicola centrale,N+NAPNA:ms-+;RA1ARAF
+sarcofago strigilato con imago clipeata e figure laterali,N+NAPNACONGNA:ms-+;RA1ARAF
+sarcofago strigilato con imago clipeata ed elementi architettonici laterali,N+NAPNACONGNAA:ms-+;RA1ARAF
+sarcofago strigilato con imago clipeata e leoni laterali,N+NAPNACONGNA:ms-+;RA1ARAF
+sarcofago strigilato con tabula centrale,N+NAPNA:ms-+;RA1ARAF
+sarcofago strigilato con pannello centrale,N+NAPNA:ms-+;RA1ARAF
+sarcofago strigilato con protomi leonine o gruppi di leoni laterali,N+NAPNACONGNPNA:ms-+;RA1ARAF
+sarcofago con filosofi, con coniugi e con altre scene di vita umana,N+NPNPNCONGPANPNA:ms-+;RA1ARAF
+sarcofago con coperchio,N+NPN:ms-+;RA1ARAF
+sarcofago milella,N+NN:ms-+;RA1ARAF
+stele a disco,N+NPN:fs-+;RA1ARAF
+stele funeraria a disco,N+NAPN:fs-+;RA1ARAF
+stele funeraria,N+NA:fs-+;RA1ARAF
+urna a capanna,N+NPN:fs-+;RA1ARAF
+urna a cassa,N+NPN:fs-+;RA1ARAF
+urna a tempietto,N+NPN:fs-+;RA1ARAF
+urna a vaso,N+NPN:fs-+;RA1ARAF
+urna ad ara,N+NPN:fs-+;RA1ARAF
+urna biconica,N+NA:fs-+;RA1ARAF
+urna circolare,N+NA:fs-+;RA1ARAF
+urna globulare,N+NA:fs-+;RA1ARAF
+urna quadrangolare,N+NA:fs-+;RA1ARAF
+cippo di acquedotto,NPN:ms-+;RA1ARASU
+cippo di acquedotto con tre pilastri,NPNPAN:ms-+;RA1ARASU
+cippo di acquedotto con 3 pilastri,NPNPAN:ms-+;RA1ARASU
+cippo itinerario-trono,N+NN:ms-+;RA1ARASU
+cippo itinerario,NA:ms-+;RA1ARASU
+cippo miliario,NA:ms-+;RA1ARASU
+cippo segnaletico,NA:ms-+;RA1ARASU
+cippo terminale,NA:ms-+;RA1ARASU
+chiusino,N:ms-+;RA1ARASU
+miliario,N:ms-+;RA1ARASU
+pietra miliare,NA:fs-+;RA1ARASU
+letto,N:ms-+;RA1ARMO
+letto da parata,N+NPN:ms-+;RA1ARMO
+fulcrum,N:ms-+;RA1ARMO
+mobile,N:ms-+;RA1ARMO
+sedia,N:fs-+;RA1ARMO
+seggiola,N:fs-+;RA1ARMO
+sgabello,N:ms-+;RA1ARMO
+tavolo,N:ms-+;RA1ARMO
+tavolo da gioco,N+NPN:ms-+;RA1ARMO
+trapeza,N:fs-+;RA1ARMO
+arazzo,N:ms-+;RA1ARTT
+broccato,N:ms-+;RA1ARTT
+tappeto,N:ms-+;RA1ARTT
+tessuto,N:ms-+;RA1ARTT
+colonnetta,N:fs-+;RA1EDEA
+grondaia,N:fs-+;RA1EDEA
+lacunare,N:ms-+;RA1EDEA
+mensola,N:fs-+;RA1EDEA
+modiglione,N:ms-+;RA1EDEA
+sima,N:fs-+;RA1EDEA
+sima angolare,N+NA:fs-+;RA1EDEA
+sima con gocciolatoio,N+NPN:fs-+;RA1EDEA
+sima frontale,N+NA:fs-+;RA1EDEA
+sima laterale,N+NA:fs-+;RA1EDEA
+colonnetta,N:fs-+;RA1EDEA
+architrave,N:ms-+;RA1EDEAES
+architrave a fasce,N+NPN:ms-+;RA1EDEAES
+architrave angolare,N+NA:ms-+;RA1EDEAES
+architrave con coronamento a gola,N+NPNPN:ms-+;RA1EDEAES
+architrave con ornamento a ovolo,N+NPNPN:ms-+;RA1EDEAES
+architrave con lacunare,N+NPN:ms-+;RA1EDEAES
+architrave dorico,N+NA:ms-+;RA1EDEAES
+architrave di incorniciatura,N+NPN:ms-+;RA1EDEAES
+architrave ionico,N+NA:ms-+;RA1EDEAES
+architrave liscio,N+NA:ms-+;RA1EDEAES
+architrave modanato,N+NA:ms-+;RA1EDEAES
+lacunare,N:ms-+;RA1EDEAES
+archivolto,N:ms-+;RA1EDEAES
+archivolto a fasce,N+NPN:ms-+;RA1EDEAES
+archivolto con acroterio,N+NPN:ms-+;RA1EDEAES
+archivolto dorico,N+NA:ms-+;RA1EDEAES
+archivolto liscio,N+NA:ms-+;RA1EDEAES
+abaco,N:ms-+;RA1EDEAES
+abaco modanato,N+NA:ms-+;RA1EDEAES
+capitello,N:ms-+;RA1EDEAES
+capitello d'anta,N+NDN:ms-+;RA1EDEAES
+capitello d'anta angolare,N+NDNA:ms-+;RA1EDEAES
+capitello angolare,N+NA:ms-+;RA1EDEAES
+capitello di colonna,N+NPN:ms-+;RA1EDEAES
+capitello di lesena,N+NPN:ms-+;RA1EDEAES
+capitello di lesena a calice,N+NPNPN:ms-+;RA1EDEAES
+capitello a calice,N+NPN:ms-+;RA1EDEAES
+capitello di parasta,N+NPN:ms-+;RA1EDEAES
+capitello di parasta a cestoN+NPNPN:ms-+;RA1EDEAES
+capitello a cesto,N+NPN:ms-+;RA1EDEAES
+capitello di pilastro,N+NPN:ms-+;RA1EDEAES
+capitello di pilastro a sofà,N+NPNPN:ms-+;RA1EDEAES
+capitello a sofà,N+NPN:ms-+;RA1EDEAES
+capitello di semicolonna,N+NPN:ms-+;RA1EDEAES
+capitello di semicolonna a stampella,N+NPNPN:ms-+;RA1EDEAES
+capitello a stampella,N+NPN:ms-+;RA1EDEAES
+capitello bizonale,N+NA:ms-+;RA1EDEAES
+capitello composito,N+NA:ms-+;RA1EDEAES
+capitello corinzio,N+NA:ms-+;RA1EDEAES
+capitello corinzieggiante,N+NA:ms-+;RA1EDEAES
+capitello cubico,N+NA:ms-+;RA1EDEAES
+capitello dorico,N+NA:ms-+;RA1EDEAES
+capitello egittizzante,N+NA:ms-+;RA1EDEAES
+capitello ionico,N+NA:ms-+;RA1EDEAES
+capitello lotiforme,N+NA:ms-+;RA1EDEAES
+capitello polilobato,N+NA:ms-+;RA1EDEAES
+capitello teodosiano,N+NA:ms-+;RA1EDEAES
+capitello sferocubico,N+NA:ms-+;RA1EDEAES
+capitello tuscanico,N+NA:ms-+;RA1EDEAES
+cassetta,N:fs-+;RA1EDEAES
+chiave di volta,NPN:fs--;RA1EDEAES
+colonna,N:fs-+;RA1EDEAES
+base,N:fs-+;RA1EDEAES
+base attica,N+NA:fs-+;RA1EDEAES
+base composita,N+NA:fs-+;RA1EDEAES
+base con imoscapo,N+NPN:fs-+;RA1EDEAES
+base con plinto,N+NPN:fs-+;RA1EDEAES
+base con plinto e con piedistallo,N+NPNCONGPN:fs-+;RA1EDEAES
+base decorata,N+NA:fs-+;RA1EDEAES
+base liscia,N+NA:fs-+;RA1EDEAES
+base tuscanica,N+NA:fs-+;RA1EDEAES
+fusto,N:ms-+;RA1EDEAES
+fusto a spirale,N+NPN:ms-+;RA1EDEAES
+fusto binato,N+NA:ms-+;RA1EDEAES
+fusto con tondini,N+NPN:ms-+;RA1EDEAES
+fusto dorico,N+NA:ms-+;RA1EDEAES
+fusto liscio,N+NA:ms-+;RA1EDEAES
+fusto rudentato,N+NA:ms-+;RA1EDEAES
+fusto scanalato,N+NA:ms-+;RA1EDEAES
+fusto tortile,N+NA:ms-+;RA1EDEAES
+rocchio,N:ms-+;RA1EDEAES
+rocchio inferiore,N+NA:ms-+;RA1EDEAES
+rocchio intermedio,N+NA:ms-+;RA1EDEAES
+rocchio superiore,N+NA:ms-+;RA1EDEAES
+colonna votiva,N+NA:fs-+;RA1EDEAES
+crepidine,N:fs-+;RA1EDEAES
+epistilio,N:ms-+;RA1EDEAES
+fregio,N:ms-+;RA1EDEAES
+fregio dorico,N+NA:ms-+;RA1EDEAES
+fregio ionico,N+NA:ms-+;RA1EDEAES
+fregio convesso,N+NA:ms-+;RA1EDEAES
+fregio con coronamento,N+NPN:ms-+;RA1EDEAES
+metopa,N:fs-+;RA1EDEAES
+triglifo,N:ms-+;RA1EDEAES
+frontone,N:ms-+;RA1EDEAES
+ghiera d'arco,NDN:fs-+;RA1EDEAES
+parasta,N:fs-+;RA1EDEAES
+pilastro,N:ms-+;RA1EDEAES
+pilastro a base rettangolare,N+NPNA:ms-+;RA1EDEAES
+pilastro a base triangolare,N+NPNA:ms-+;RA1EDEAES
+plinto,N:ms-+;RA1EDEAES
+pulvino,N:ms-+;RA1EDEAES
+soprassoglio,N:ms-+;RA1EDEAES
+stilobate,N:ms-+;RA1EDEAES
+timpano,N:ms-+;RA1EDEAES
+zoccolatura,N:fs-+;RA1EDEAES
+colonna dorica,N+NA:fs-+;RA1EDEAES
+colonna ionica,N+NA:fs-+;RA1EDEAES
+colonna corinzia,N+NA:fs-+;RA1EDEAES
+acroterio,N:ms-+;RA1EDEAEDA
+acroterio a disco,N+NPN:ms-+;RA1EDEAEDA
+acroterio a palmette,N+NPN:ms-+;RA1EDEAEDA
+acroterio angolare,N+NA:ms-+;RA1EDEAEDA
+acroterio centrale,N+NA:ms-+;RA1EDEAEDA
+acroterio figurato,N+NA:ms-+;RA1EDEAEDA
+acroterio laterale,N+NA:ms-+;RA1EDEAEDA
+acroterio liscio,N+NA:ms-+;RA1EDEAEDA
+antepagmentum --> ANTEPAGMENTA S. NEUTRO !!! CFR. TRECCANI
+atlante,N:ms--;RA1EDEAEDA
+balaustra,N:fs-+;RA1EDEAEDA
+cariatide,N:fs-+;RA1EDEAEDA
+cornice di frontone,N+NPN:fs-+;RA1EDEAEDA
+cornice asiatica,N+NA:fs-+;RA1EDEAEDA
+cornice dorica,N+NA:fs-+;RA1EDEAEDA
+cornice ionica,N+NA:fs-+;RA1EDEAEDA
+cornice con mensola,N+NPN:fs-+;RA1EDEAEDA
+cornice mista,N+NA:fs-+;RA1EDEAEDA
+cornice liscia,N+NA:fs-+;RA1EDEAEDA
+cornice angolare,N+NA:fs-+;RA1EDEAEDA
+cornice inclinata,N+NA:fs-+;RA1EDEAEDA
+cornice modanata,N+NA:fs-+;RA1EDEAEDA
+cornice pendula,N+NA:fs-+;RA1EDEAEDA
+cornice traforata,N+NA:fs-+;RA1EDEAEDA
+cortina pendula,NA:fs-+;RA1EDEAEDA
+fastigio,N:ms-+;RA1EDEAEDA
+fontana,N:fs-+;RA1EDEAEDA
+geison,N:ms--;RA1EDEAEDA
+gocciolatoio,N:ms-+;RA1EDEAEDA
+lesena,N:fs-+;RA1EDEAEDA
+parapetto,N:ms-+;RA1EDEAEDA
+pluteo,N:ms-+;RA1EDEAEDA
+pyramidion,N:ms--;RA1EDEAEDA
+sedile,N:ms-+;RA1EDEAEDA
+semicolonna,N:fs-+;RA1EDEAEDA
+soglia,N:fs-+;RA1EDEAEDA
+telamone,N:ms--;RA1EDEAEDA
+transenna,N:fs-+;RA1EDEAEDA
+transenna a cancello,N+NPN:fs-+;RA1EDEAEDA
+transenna a squame,N+NPN:fs-+;RA1EDEAEDA
+colonna composita,N+NA:fs-+;RA1EDEAEDA
+colonna liscia,N+NA:fs-+;RA1EDEAEDA
+colonna scanalata,N+NA:fs-+;RA1EDEAEDA
+colonna tortile,N+NA:fs-+;RA1EDEAEDA
+blocco,N:ms-+;RA1EDMC
+blocco angolare,N+NA:ms-+;RA1EDMC
+blocco bugnato,N+NA:ms-+;RA1EDMC
+blocco inferiore,N+NA:ms-+;RA1EDMC
+blocco intermedio,N+NA:ms-+;RA1EDMC
+blocco modanato,N+NA:ms-+;RA1EDMC
+blocco superiore,N+NA:ms-+;RA1EDMC
+catena,N:fs-+;RA1EDMC
+cavicchio,N:ms-+;RA1EDMC
+caviglia,N:fs-+;RA1EDMC
+cerchio,N:ms-+;RA1EDMC
+claves muscarii,NA:ms--;RA1EDMC
+concio,N:ms-+;RA1EDMC
+coppo,N:ms-+;RA1EDMC
+coppo a sezione pentagonale,N+NPNA:ms-+;RA1EDMC
+coppo a sezione semicircolare,N+NPNA:ms-+;RA1EDMC
+coppo di colmo,N+NPN:ms-+;RA1EDMC
+antefissa,N:fs-+;RA1EDMC
+antefissa a palmetta,N+NPN:fs-+;RA1EDMC
+antefissa a palmette,N+NPN:fs-+;RA1EDMC
+antefissa a testa di Gorgone,N+NPNPN:fs-+;RA1EDMC
+antefissa a testa di sileno,N+NPNPN:fs-+;RA1EDMC
+antefissa a lastra semicircolare,N+NPNA:fs-+;RA1EDMC
+antefissa a testa femminile,N+NPNA:fs-+;RA1EDMC
+antefissa a testa umana,N+NPNA:fs-+;RA1EDMC
+antefissa liscia,N+NA:fs-+;RA1EDMC
+antefissa figurata,N+NA:fs-+;RA1EDMC
+antefissa radiata,N+NA:fs-+;RA1EDMC
+embrice,N:ms-+;RA1EDMC
+embrice di tipo corinzio,N+NPNA:ms-+;RA1EDMC
+embrice di tipo laconico,N+NPNA:ms-+;RA1EDMC
+ghiera,N:fs-+;RA1EDMC
+graffa,N:fs-+;RA1EDMC
+graffa a doppia gamma,N+NPAN:fs-+;RA1EDMC
+graffa a doppia T,N+NPAN:fs-+;RA1EDMC
+graffa uncinata,N+NA:fs-+;RA1EDMC
+grappa,N:ms-+;RA1EDMC
+mattone,N:ms-+;RA1EDMC
+mattone pavimentale,N+NA:ms-+;RA1EDMC
+mattone bessale,N+NA:ms-+;RA1EDMC
+mattone bipedale,N+NA:ms-+;RA1EDMC
+mattone circolare,N+NA:ms-+;RA1EDMC
+mattone circolare da suspensura,N+NAPN:ms-+;RA1EDMC
+mattone sagomato,N+NA:ms-+;RA1EDMC
+mattone sesquipedale,N+NA:ms-+;RA1EDMC
+perno,N:ms-+;RA1EDMC
+puntazza,N:fs-+;RA1EDMC
+puntazza a quattro alette,N+NPAN:fs-+;RA1EDMC
+putrella,N:fs-+;RA1EDMC
+talatat,N:fs--;RA1EDMC
+tegola,N:fs-+;RA1EDMC
+tegola di gronda,N+NPN:fs-+;RA1EDMC
+tegola rettangolare,N+NA:fs-+;RA1EDMC
+tegola rettangolare bollata,N+NAA:fs-+;RA1EDMC
+tegola trapezoidale,N+NA:fs-+;RA1EDMC
+tegola con lucernarioN+NPN:fs-+;RA1EDMC
+tegola deliciaris,N+NA:fs-+;RA1EDMC
+tegola colliciaris,N+NA:fs-+;RA1EDMC
+tegola fratta,N+NA:fs-+;RA1EDMC
+tegola mammata,N+NA:fs-+;RA1EDMC
+tirante,N:ms-+;RA1EDMC
+crusta,N:ms-+;RA1EDRP
+fornella,N:fs-+;RA1EDRP
+fornella da stufa,N+NPN:fs-+;RA1EDRP
+lastra,N:fs-+;RA1EDRP
+lastra di copertura,N+NPN:fs-+;RA1EDRP
+lastra di coronamento,N+NPN:fs-+;RA1EDRP
+lastra di rivestimento,N+NPN:fs-+;RA1EDRP
+lastra di rivestimento pavimentale,N+NPNA:fs-+;RA1EDRP
+lastra frontonale,N+NA:fs-+;RA1EDRP
+mattonella,N:fs-+;RA1EDRP
+ortostato ORTOSTATA CFR. TRECCANI,N:ms-+;RA1EDRP
+piastrella,N:fs-+;RA1EDRP
+piastrella da caminetto,N+NPN:fs-+;RA1EDRP
+tassello,N:ms-+;RA1EDRP
+tassello pavimentale,N+NA:ms-+;RA1EDRP
+mosaico,N:ms-+;RA1EDRPRM
+tessera,N:fs-+;RA1EDRPRM
+baglio,N:ms-+;RA1EDC
+trave,N:fs-+;RA1EDC
+vallus,N:ms--;RA1EDC
+cardine,N:ms-+;RA1EDSI
+grata,N:fs-+;RA1EDSI
+imposta,N:fs-+;RA1EDSI
+porta,N:fs-+;RA1EDSI
+stipite,N:ms-+;RA1EDSI
+vetro da finestra,NPN:ms-+;RA1EDSI
+comignolo,N:ms-+;RA1EDIR
+fornello,N:ms-+;RA1EDIR
+doccione,N:ms-+;RA1EDII
+fistula,N:fs-+;RA1EDII
+fistula acquaria,N+NA:fs-+;RA1EDII
+gronda,N:fs-+;RA1EDII
+noria,N:fs-+;RA1EDII
+rubinetto,N:ms-+;RA1EDII
+tubo,N:ms-+;RA1EDII
+tubulo,N:ms-+;RA1EDII
+ugello,N:ms-+;RA1EDII
+carro,N:ms-+;RA1MTT
+affresco,N:ms-+;RA1PI
+dipinto,N:ms-+;RA1PI
+icona,N:fs-+;RA1PI
+coronamento,N:ms-+;RA1SC
+imago clipeata,N:fs--;RA1SC
+maschera,N:fs-+;RA1SC
+maschera di fontana,N+NPN:fs-+;RA1SC
+maschera di fontana femminile,N+NPNA:fs-+;RA1SC
+maschera di fontana maschile,N+NPNA:fs-+;RA1SC
+maschera votiva,N+NA:fs-+;RA1SC
+maschera votiva femminile,N+NAA:fs-+;RA1SC
+maschera votiva maschile,N+NAA:fs-+;RA1SC
+maschera femminile,N+NA:fs-+;RA1SC
+maschera maschile,N+NA:fs-+;RA1SC
+maschera comica,N+NA:fs-+;RA1SC
+maschera tragica,N+NA:fs-+;RA1SC
+maschera satiresca,N+NA:fs-+;RA1SC
+oscillum,N:ms--;RA1SC
+puntello,N:ms-+;RA1SC
+rilievo,N:ms-+;RA1SC
+rilievo celebrativo,N+NA:ms-+;RA1SC
+rilievo funerario,N+NA:ms-+;RA1SC
+rilievo onorario,N+NA:ms-+;RA1SC
+rilievo storico,N+NA:ms-+;RA1SC
+rilievo votivo,N+NA:ms-+;RA1SC
+rilievo a fregio,N+NPN:ms-+;RA1SC
+rilievo con scene di genere,N+NPNPN:ms-+;RA1SC
+rilievo con decorazione vegetale,N+NPNA:ms-+;RA1SC
+rilievo con incorniciatura,N+NPN:ms-+;RA1SC
+rilievo frontonale,N+NA:ms-+;RA1SC
+rilievo metopale,N+NA:ms-+;RA1SC
+rilievo Metopa,N+NN:ms-+;RA1SC
+rilievo mitologico,N+NA:ms-+;RA1SC
+rilievo quadrangolare,N+NA:ms-+;RA1SC
+rilievo tondo,N+NA:ms-+;RA1SC
+rilievo milella,N+NN:ms-+;
+acrolito,N:ms-+;RA1SCST
+busto,N:ms-+;RA1SCST
+busto funerario,N+NA:ms-+;RA1SCST
+busto onorario,N+NA:ms-+;RA1SCST
+busto votivo,N+NA:ms-+;RA1SCST
+busto clipeato,N+NA:ms-+;RA1SCST
+imago clipeata,N+NA:fs-+;RA1SCST
+busto femminile,N+NA:ms-+;RA1SCST
+busto maschile,N+NA:ms-+;RA1SCST
+doppia erna,AN:fs-+;RA1SCST
+erna bifronte,NA:fs-+;RA1SCST
+erna quadrifronte,NA:fs-+;RA1SCST
+erna barbata,NA:fs-+;RA1SCST
+gruppo statuario,NA:ms-+;RA1SCST
+gruppo statuario votivo,NAA:ms-+;RA1SCST
+gruppo statuario acroteriale,NAA:ms-+;RA1SCST
+protome,N:fs-+;RA1SCST
+ritratto,N:ms-+;RA1SCST
+scultura,N:fs-+;RA1SCST
+scultura acroteriale,N+NA:fs-+;RA1SCST
+statua,N:fs-+;RA1SCST
+statua funeraria,N+NA:fs-+;RA1SCST
+statua onoraria,N+NA:fs-+;RA1SCST
+statua votiva,N+NA:fs-+;RA1SCST
+statua acroteriale,N+NA:fs-+;RA1SCST
+statua frontonale,N+NA:fs-+;RA1SCST
+statua equestre,N+NA:fs-+;RA1SCST
+statua zoomorfa,N+NA:fs-+;RA1SCST
+statua teriomorfa,N+NA:fs-+;RA1SCST
+statua femminile,N+NA:fs-+;RA1SCST
+statua iconica,N+NA:fs-+;RA1SCST
+statua infantile,N+NA:fs-+;RA1SCST
+statua maschile,N+NA:fs-+;RA1SCST
+statua stante,N+NA:fs-+;RA1SCST
+statua seduta,N+NA:fs-+;RA1SCST
+statua inginocchiata,N+NA:fs-+;RA1SCST
+statua distesa,N+NA:fs-+;RA1SCST
+statua nuda,N+NA:fs-+;RA1SCST
+statua panneggiata,N+NA:fs-+;RA1SCST
+statua togata,N+NA:fs-+;RA1SCST
+statua loricata,N+NA:fs-+;RA1SCST
+statua-menhir,N:fs-+;RA1SCST
+statua menhir,N+NNA:fs-+;RA1SCST
+statuetta,N:fs-+;RA1SCST
+statuetta funeraria,N+NA:fs-+;RA1SCST
+statuetta onoraria,N+NA:fs-+;RA1SCST
+statuetta votiva,N+NA:fs-+;RA1SCST
+statuetta acroteriale,N+NA:fs-+;RA1SCST
+statuetta frontonale,N+NA:fs-+;RA1SCST
+statuetta equestre,N+NA:fs-+;RA1SCST
+statuetta zoomorfa,N+NA:fs-+;RA1SCST
+statuetta teriomorfa,N+NA:fs-+;RA1SCST
+statuetta femminile,N+NA:fs-+;RA1SCST
+statuetta iconica,N+NA:fs-+;RA1SCST
+statuetta infantile,N+NA:fs-+;RA1SCST
+statuetta maschile,N+NA:fs-+;RA1SCST
+statuetta stante,N+NA:fs-+;RA1SCST
+statuetta seduta,N+NA:fs-+;RA1SCST
+statuetta inginocchiata,N+NA:fs-+;RA1SCST
+statuetta distesa,N+NA:fs-+;RA1SCST
+statuetta nuda,N+NA:fs-+;RA1SCST
+statuetta panneggiata,N+NA:fs-+;RA1SCST
+statuetta togata,N+NA:fs-+;RA1SCST
+statuetta loricata,N+NA:fs-+;RA1SCST
+statuetta-menhir,N:fs-+;RA1SCST
+statuetta menhir,N+NN:fs-+;RA1SCST
+testa,N:fs-+;RA1SCST
+testa ritratto,N+NN:fs-+;RA1SCST
+testa votiva,N+NA:fs-+;RA1SCST
+testa animale,N+NNA:fs-+;RA1SCST
+testa bifronte,N+NA:fs-+;RA1SCST
+testa femminile,N+NA:fs-+;RA1SCST
+testa maschile,N+NA:fs-+;RA1SCST
+testa mezza,N+NA:fs-+;RA1SCST
+mezza testa,N+AN:fs-+;RA1SCST
+testa con polos,N+NPN:fs-+;RA1SCST
+torso,N:ms-+;RA1SCST
+torso femminile,N+NA:ms-+;RA1SCST
+torso maschile,N+NA:ms-+;RA1SCST
+bronzetto,N:ms-+;RA1SCSTM
+bronzetto votivo,N+NA:ms-+;RA1SCSTM
+ushabti S.M.F. CFR TRECCANI
+accetta,N:fs-+;RA1SUO
+accetta rituale,N+NA:fs-+;RA1SUO
+accetta a codolo,N+NPN:fs-+;RA1SUO
+accetta biconvessa,N+NA:fs-+;RA1SUO
+accetta bipenne,N+NA:fs-+;RA1SUO
+accetta piano-convessa,N+NA:fs-+;RA1SUO
+acciarino,N:ms-+;RA1SUO
+affilatoio,N:ms-+;RA1SUO
+bastoncino,N:ms-+;RA1SUO
+cesoia,N:fs-+;RA1SUO
+cretula,N:fs-+;RA1SUO
+cuneo,N:ms-+;RA1SUO
+dolabra,N:fs-+;RA1SUO
+filo,N:ms-+;RA1SUO
+forma,N:fs-+;RA1SUO
+fornello,N:ms-+;RA1SUO
+fornello a ferro di cavallo,N+NPNPN:ms-+;RA1SUO
+fune,N:ms-+;RA1SUO
+guaina,N:fs-+;RA1SUO
+lingotto,N:ms-+;RA1SUO
+lingotto ox-hide
+martello,N:ms-+;RA1SUO
+matrice,N:fs-+;RA1SUO
+matrice di fusione,N+NPN:fs-+;RA1SUO
+matrice di lucerna,N+NPN:fs-+;RA1SUO
+matrice di statuetta,N+NPN:fs-+;RA1SUO
+matrice di testina,N+NPN:fs-+;RA1SUO
+matrice per bollo,N+NPN:fs-+;RA1SUO
+matrice per bollo in planta pedis,N+NPNPNA:fs-+;RA1SUO
+matrice focacce,N+NN:fs-+;RA1SUO
+matrice per utensili,N+NPN:fs-+;RA1SUO
+matrice bivalve,N+NA:fs-+;RA1SUO
+matrice monovalve,N+NA:fs-+;RA1SUO
+matrice multipla,N+NA:fs-+;RA1SUO
+panella,N:fs-+;RA1SUO
+pennello,N:ms-+;RA1SUO
+perforatore,N:ms-+;RA1SUO
+peso,N:ms-+;RA1SUO
+peso da lenza,N+NPN:ms-+;RA1SUO
+peso da pozzo,N+NPN:ms-+;RA1SUO
+peso da rete,N+NPN:ms-+;RA1SUO
+peso da telaio,N+NPN:ms-+;RA1SUO
+peso di flio a piombo,N+NPNPN:ms-+;RA1SUO
+peso di stadera,N+NPN:ms-+;RA1SUO
+peso a ciambella,N+NPN:ms-+;RA1SUO
+peso sferico,N+NA:ms-+;RA1SUO
+piccozza,N:fs-+;RA1SUO
+pintadera,N:fs-+;RA1SUO
+pinza,N:fs-+;RA1SUO
+pinza a doppia punta,N+NPAN:fs-+;RA1SUO
+pipa,N:fs-+;RA1SUO
+punteruolo,N:ms-+;RA1SUO
+punteruolo su lama,N+NPN:ms-+;RA1SUO
+raschietto,N:ms-+;RA1SUO
+raspa,N:ms-+;RA1SUO
+scalpello,N:ms-+;RA1SUO
+scalpello a taglio obliquo,N+NPNA:ms-+;RA1SUO
+scalpello a taglio piatto,N+NPNA:ms-+;RA1SUO
+scalpello doppio,N+NA:ms-+;RA1SUO
+scalpello-sgorbia,N:ms-+;RA1SUO
+scalpello triangolare,N+NA:ms-+;RA1SUO
+setaccio,N:ms-+;RA1SUO
+sgorbia,N:fs-+;RA1SUO
+specillo,N:ms-+;RA1SUO
+specillum,N:ms--;RA1SUO
+spiedo,N:ms-+;RA1SUO
+strumento chirurgico,N+NA:ms-+;RA1SUO
+strumento musicale,N+NA:ms-+;RA1SUO
+tappo,N:ms-+;RA1SUO
+tappo piriforme,N+N:ms-+;RA1SUO
+thymiaterion,N_ms--;RA1SUO
+traino,N:ms-+;RA1SUO
+traino su due ruote,N+NPAN:ms-+;RA1SUO
+tridente,N:ms-+;RA1SUO
+tripode,N:ms-+;RA1SUO
+utensile,N:ms-+;RA1SUO
+verga,N:fs-+;RA1SUO
+briglia,N:fs-+;RA1SUOAA
+campanaccio,N:ms-+;RA1SUOAA
+capestro,N:ms-+;RA1SUOAA
+capistrum,N:ms-+;RA1SUOAA
+cavezza,N:fs-+;RA1SUOAA
+cinghia,N:fs-+;RA1SUOAA
+cinghia caudale,N+NA:fs-+;RA1SUOAA
+cinghia pettorale,N+NA:fs-+;RA1SUOAA
+collare,N:ms-+;RA1SUOAA
+falera,N:fs-+;RA1SUOAA
+fermabriglie,N:ms--;RA1SUOAA
+ferro di cavallo,NPN:ms-+;RA1SUOAA
+morso,N:ms-+;RA1SUOAA
+pettorale,N:ms-+;RA1SUOAA
+pettorale da parata,N+NA:ms-+;RA1SUOAA
+pettorale a clessidra,N+NPN:ms-+;RA1SUOAA
+pettorale rettangolare,N+NA:ms-+;RA1SUOAA
+pettorale equino,N+NA:ms-+;RA1SUOAA
+pungolo,N:ms-+;RA1SUOAA
+sella,N:fs-+;RA1SUOAA
+sella a quattro corni,N+NPAN:fs-+;RA1SUOAA
+sella a 4 corni,N+NPAN:fs-+;RA1SUOAA
+arcione,N:ms-+;RA1SUOAA
+staffa,N:fs-+;RA1SUOAA
+sottopancia,N:ms-+;RA1SUOAA
+ascia,N:fs-+;RA1SUOAG
+bidente,N:ms-+;RA1SUOAG
+coltello,N:ms-+;RA1SUOAG
+coltello da macchia,N+NPN:ms-+;RA1SUOAG
+erpice,N:ms-+;RA1SUOAG
+erpice a cima di pino,N+NPNPN:ms-+;RA1SUOAG
+erpice a rami combinati,N+NPNA:ms-+;RA1SUOAG
+erpice a rametti,N+NPN:ms-+;RA1SUOAG
+erpice-aratro,N:ms-+;RA1SUOAG
+aratro,N:ms-+;RA1SUOAG
+carrello,N:ms-+;RA1SUOAG
+bure,N:fs--;RA1SUOAG
+coltro,N:ms-+;RA1SUOAG
+dentale,N:ms-+;RA1SUOAG
+catena di aggancio,N+NPN:fs-+;RA1SUOAG
+orecchio,N:ms-+;RA1SUOAG
+petto,N:ms-+;RA1SUOAG
+stiva,N:fs-+;RA1SUOAG
+vomere,N:ms-+;RA1SUOAG
+vomere a lama quadrangolare,N+NPNA:ms-+;RA1SUOAG
+vomere a lama di pugnale,N+NPNPN:ms-+;RA1SUOAG
+vomere a ferro di lancia,N+NPNPN:ms-+;RA1SUOAG
+vomere a ferro di vanga,N+NPNPN:ms-+;RA1SUOAG
+voemere a pala triangolare,N+NPNA:ms-+;RA1SUOAG
+falce,N:fs-+;RA1SUOAG
+falce arboraria,N+NA:fs-+;RA1SUOAG
+falce fienaia,N+NA:fs-+;RA1SUOAG
+falce messoria,N+NA:fs-+;RA1SUOAG
+falce con codolo rettilineo e lama,N+NPNACONGN:fs-+;RA1SUOAG
+falce curva,N+NA:fs-+;RA1SUOAG
+falce desinente a rostrum,N+NAPN:fs-+;RA1SUOAG
+falce lunga e dritta,N+NAA:fs-+;RA1SUOAG
+falcetto,N:ms-+;RA1SUOAG
+falcetto su lama,N+NPN:ms-+;RA1SUOAG
+forca,N:fs-+;RA1SUOAG
+forcone,N:ms-+;RA1SUOAG
+levigatoio,N:ms-+;RA1SUOAG
+ligo
+macina,N:fs-+;RA1SUOAG
+meta,N:fs-+;RA1SUOAG
+macina da mulino,N+NPN:fs-+;RA1SUOAG
+macina rotatoria,N+NA:fs-+;RA1SUOAG
+catillus,
+pala,N:fs-+;RA1SUOAG
+pala rituale,N+NA:fs-+;RA1SUOAG
+pala votiva,N+NA:fs-+;RA1SUOAG
+pala a cannone,N+NPN:fs-+;RA1SUOAG
+pala a lama arrotondata,N+NPNA:fs-+;RA1SUOAG
+pala a lama rettangolare,N+NPNA:fs-+;RA1SUOAG
+pala a lama triangolare,N+NPNA:fs-+;RA1SUOAG
+pennato,N:ms-+;RA1SUOAG
+piccone,N:ms-+;RA1SUOAG
+protoerpice,N:ms-+;RA1SUOAG
+puntale,N:ms-+;RA1SUOAG
+rastrello,N:ms-+;RA1SUOAG
+roncola,N:fs-+;RA1SUOAG
+roncola arboraria,N+NA:fs-+;RA1SUOAG
+roncola putatoria,N+NA:fs-+;RA1SUOAG
+rullo,N:ms-+;RA1SUOAG
+sarchio,N:ms-+;RA1SUOAG
+scure,N:fs-+;RA1SUOAG
+vanga,N:fs-+;RA1SUOAG
+vanga a lama corta,N+NPNA:fs-+;RA1SUOAG
+vanga a lama rettangolare,N+NPNA:fs-+;RA1SUOAG
+vanga a lama triangolare,N+NPNA:fs-+;RA1SUOAG
+zappa,N:fs-+;RA1SUOAG
+zappa a cannone,N+NPN:fs-+;RA1SUOAG
+zappa con lama a ventaglio,N+NPNPN:fs-+;RA1SUOAG
+zappa con lama cuoriforme,N+NPNA:fs-+;RA1SUOAG
+zappa con lama rettangolare,N+NPNA:fs-+;RA1SUOAG
+zappa con lama trapezoidale,N+NPNA:fs-+;RA1SUOAG
+zappa con lama triangolare,N+NPNA:fs-+;RA1SUOAG
+zappa-bidente,N:fs-+;RA1SUOAG
+zappa bidente,N:fs-+;RA1SUOAG
+amuleto,N:ms-+;RA1SUOAM
+amuleto a forma di anatra,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di ariete,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di colonna,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di conchiglia,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di  corno,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di corona bianca,N+NPNPNA:ms-+;RA1SUOAM
+amuleto a forma di corona rossa,N+NPNPNA:ms-+;RA1SUOAM
+amuleto a forma di gatto,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di leone,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di maiale,N+NPNPN:ms-+;RA1SUOAM
+amuelto a forma di mummia di gatto,N+NPNPNPN:ms-+;RA1SUOAM
+amuleto a forma di nodo,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di occhio,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di pesce,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di piuma,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di pilastro djed,N+NPNPNN:ms-+;RA1SUOAM
+amuleto a forma di poggiatesta,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di rana,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di scarabeo,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di serpe,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di sparviero,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di statuetta,N+NPNPN:ms-+;RA1SUOAM
+amuleto a forma di uccello antropomorfo,N+NPNPNA:ms-+;RA1SUOAM
+amuleto zoomorfo,N+NA:ms-+;RA1SUOAM
+cornetto,N:ms-+;RA1SUOAM
+corona del rosario,N+NPN:ms-+;RA1SUOAM
+croce,N:fs-+;RA1SUOAM
+disco,N:ms-+;RA1SUOAM
+disco votivo,N+NA:ms-+;RA1SUOAM
+disco forato,N+NA:ms-+;RA1SUOAM
+disco ipocefalo,N+NA:ms-+;RA1SUOAM
+ex voto,N:ms--;RA1SUOAM
+ex voto a forma di gamba,N+NPNPN:ms--;RA1SUOAM
+ex voto a forma di mano,N+NPNPN:ms--;RA1SUOAM
+ex voto a forma di occhio,N+NPNPN:ms--;RA1SUOAM
+ex voto anatomico,N+NA:ms--;RA1SUOAM
+ex voto aniconico,N+NA:ms--;RA1SUOAM
+ex voto architettonico,N+NA:ms--;RA1SUOAM
+ex voto vegetale,N+NA:ms--;RA1SUOAM
+ex voto zoomorfo,N+NA:ms--;RA1SUOAM
+gamba votiva,NA:fs-+;RA1SUOAM
+idolo,N:ms-+;RA1SUOAM
+insegna,N:fs-+;RA1SUOAM
+insegna araldica,N+NA:fs-+;RA1SUOAM
+insegna cerimoniale,N+NA:fs-+;RA1SUOAM
+insegna di coorte,N+NPN:fs-+;RA1SUOAM
+insegna votiva,N+NA:fs-+;RA1SUOAM
+insegna legionaria,N+NA:fs-+;RA1SUOAM
+insegna pretoriana,N+NA:fs-+;RA1SUOAM
+lastrina,N:fs-+;RA1SUOAM
+lastrina votiva,N+NA:fs-+;RA1SUOAM
+medaglia,N:fs-+;RA1SUOAM
+medaglia devozionale,N+NA:fs-+;RA1SUOAM
+medaglietta,N:fs-+;RA1SUOAM
+medaglione,N:ms-+;RA1SUOAM
+pinax votivo,NA:ms-+;RA1SUOAM
+scaraboide,N:ms-+;RA1SUOAM
+scettro, N:ms-+;RA1SUOAM
+stendardo,N:ms-+;RA1SUOAM
+votivo,N:ms-+;RA1SUOAM
+filatterio,N:ms-+;RA1SUOAM
+flabello,N:ms-+;RA1SUOAM
+foculo,N:ms-+;RA1SUOAM
+pettorale,N:ms-+;RA1SUOAR
+pettorale da parata,N+NPN:ms-+;RA1SUOAR
+pettorale a clessidra,N+NPN:ms-+;RA1SUOAR
+pettorale rettangolare,N+NA:ms-+;RA1SUOAR
+scure,N:fs-+;RA1SUOAR
+arma a punta,NPN:fs-+;RA1SUOAR
+bombarda,N:fs-+;RA1SUOAR
+dardo,N:ms-+;RA1SUOAR
+paloscio,N:ms-+;RA1SUOAR
+paloscio con fodero,N+NPN:ms-+;RA1SUOAR
+rete,N:fs-+;RA1SUOAR
+ascia da cerimonia,N+NPN:fs-+;RA1SUOARAB
+ascia da battaglia,N+NPN:fs-+;RA1SUOARAB
+ascia votiva,N+NA:fs-+;RA1SUOARAB
+ascia a cannone,N+NPN:fs-+;RA1SUOARAB
+ascia a cannone con alta imboccatura rigonfia,N+NPNPANA:fs-+;RA1SUOARAB
+ascia a cannone con due occhielli laterali,N+NPNPANA:fs-+;RA1SUOARAB
+ascia a cannone con imboccatura non distinta dal fusto,N+NPNPNCONGAPN:fs-+;RA1SUOARAB
+ascia a cannone con costolature,N+NPNPN:fs-+;RA1SUOARAB
+ascia a cannone con un occhiello laterale,N+NPNPDETNA:fs-+;RA1SUOARAB
+ascia a cannone con spalla,N+NPNPN:fs-+;RA1SUOARAB
+ascia a cannone quadrangolare allungata,N+NPNAA:fs-+;RA1SUOARAB
+ascia a cucchiaio con margini rialzati,N+NPNPNA:fs-+;RA1SUOARAB
+ascia a margini rialzati,N+NPNA:fs-+;RA1SUOARAB
+ascia a martello,N+NPN:fs-+;RA1SUOARAB
+ascia a occhio,N+NPN:fs-+;RA1SUOARAB
+ascia a occhio a lama ricurva,N+NPNPNA:fs-+;RA1SUOARAB
+ascia a occhio a lama stretta,N+NPNPNA:fs-+;RA1SUOARAB
+ascia a occhio a lama massiccia,N+NPNPNA:fs-+;RA1SUOARAB
+ascia a occhio con lama asimmetrica,N+NPNPNA:fs-+;RA1SUOARAB
+ascia a occhio con testa a contorno pentagolare,N+NPNPNPNA:fs-+;RA1SUOARAB
+ascia a occhio ovale,N+NPNA:fs-+;RA1SUOARAB
+ascia a occhio ovale con lama asimmetrica,N+NPNAPNA:fs-+;RA1SUOARAB
+ascia a tagli ortogonali,N+NPNA:fs-+;RA1SUOARAB
+ascia a tallone con due occhielli laterali,N+NPNPANA:fs-+;RA1SUOARAB
+ascia a tallone con 2 occhielli laterali,N+NPNPANA:fs-+,RA1SUOARAB
+ascia a tallone con un occhiello laterale,N+NPNPDETNA:fs-+;RA1SUOARAB
+ascia ad alette,N+NPN:fs-+;RA1SUOARAB
+ascia ad alette a tallone distinto,N+NPNPNA:fs-+;RA1SUOARAB
+ascia ad alette a tallone non distinto,N+NPNPNCONA:fs-+;RA1SUOARAB
+ascia ad alette estese,N+NPNA:fs-+;RA1SUOARAB
+ascia ad alette mediane,N+NPNA:fs-+;RA1SUOARAB
+ascia ad alette sviluppate,N+NPNA:fs-+;RA1SUOARAB
+ascia barbuta,N+NA:fs-+;RA1SUOARAB
+ascia bipenne,N+NA:fs-+;RA1SUOARAB
+ascia con immanicatura a cannone quadrangolare,N+NPNPNA:fs-+;RA1SUOARAB
+ascia con immanicatura a cartoccio,N+NPNPN:fs-+;RA1SUOARAB
+ascia con lama asimmetrica,N+NPNA:fs-+;RA1SUOARAB
+ascia con lama ricurva,N+NPNA:fs-+;RA1SUOARAB
+ascia con margini rialzati,N+NPNA:fs-+;RA1SUOARAB
+ascia con percussore,N+NPN:fs-+;RA1SUOARAB
+ascia con setto di divisione,N+NPNPN:fs-+;RA1SUOARAB
+ascia doppia,N+NA:fs-+;RA1SUOARAB
+ascia doppia a tagli ortogonali,N+NAPNA:fs-+;RA1SUOARAB
+ascia doppia a tagli paralleli,N+NAPNA:fs-+;RA1SUOARAB
+ascia-martello
+ascia piatta,N+NA:fs-+;RA1SUOARAB
+ascia piatta a lama espansa,N+NAPNA:fs-+;RA1SUOARAB
+ascia piatta a spuntoni,N+NAPN:fs-+;RA1SUOARAB
+ascia piatta con due occhielli laterali,N+NAPANA:fs-+;RA1SUOARAB
+ascia piatta con 2 occhielli laterlai,N+NAPANA:fs-+;RA1SUOARAB
+ascia piatta a tallone rettilineo,N+NAPNA:fs-+;RA1SUOARAB
+ascia piccone,N+NN:fs-+;RA1SUOARAB
+ascia subrettangolare,N+NA:fs-+;RA1SUOARAB
+ascia subrettangolare allungata,N+NAA:fs-+;RA1SUOARAB
+ascia subtrapezoidale,N+NA:fs-+;RA1SUOARAB
+ascia subtrapezoidale allungata,N+NAA:fs-+;RA1SUOARAB
+ascia subtriangolare,N+NA:fs-+;RA1SUOARAB
+tubolare,N:ms-+;RA1SUOARAB
+phasganon,N:ms--;RA1SUOARAB
+angone,N:ms-+;RA1SUOARAB
+clava,N:fs-+;RA1SUOARAB
+daga,N:fs-+;RA1SUOARAB
+falcata,N:fs-+;RA1SUOARAB
+falcata con fodero,N+NPN:fs-+;RA1SUOARAB
+francisca,
+giavellotto,N:ms-+;RA1SUOARAB
+gladio,N:ms-+;RA1SUOARAB
+gladio con fodero,N+NPN:ms-+;RA1SUOARAB
+gladio di tipo Hispaniensis,N+NPNN:ms-+;RA1SUOARAB
+gladio di tipo Mainz,N+NPNN:ms-+;RA1SUOARAB
+gladio di tipo Pompei,N+NPNN:ms-+;RA1SUOARAB
+gladius,N:ms-+;RA1SUOARAB
+hasta,N:fs-+;RA1SUOARAB
+kopis,N:fs--;RA1SUOARAB
+lancia,N:fs-+;RA1SUOARAB
+sauròter
+lancia-stendardo,N:fs-+;RA1SUOARAB
+lancia stendardo,N+NA:fs-+;RA1SUOARAB
+machaira,N:fs-+;RA1SUOARAB
+mazza ferrata,NA:fs-+;RA1SUOARAB
+picca,N:fs-+;RA1SUOARAB
+pilum,N:ms-+;RA1SUOARAB
+pilum con attacco a codolo largo,N+NPNPN:ms-+;RA1SUOARAB
+pilum con attacco a manicotto,N+NPNPN:ms-+;RA1SUOARAB
+pilum con codolo a punta,N+NPNPN:ms-+;RA1SUOARAB
+pilum con codolo piatto,N+NPNA:ms-+;RA1SUOARAB
+canotto di bloccaggio,NPN:ms-+;RA1SUOARAB
+pugio,N:ms-+;RA1SUOARAB
+pugnale,N:ms-+;RA1SUOARAB
+pugnale a base semplice,N+NPNA:ms-+;RA1SUOARAB
+pugnale a base trapezoidale,N+NPNA:ms-+;RA1SUOARAB
+pugnale a codolo,N+NPN:ms-+;RA1SUOARAB
+pugnale a doppio taglio,N+NPAN:ms-+;RA1SUOARAB
+pugnale a elsa gammata,N+NPNA:ms-+;RA1SUOARAB
+pugnale a lingua da presa,N+NPNPN:ms-+;RA1SUOARAB
+pugnale a manico pieno,N+NPNA:ms-+;RA1SUOARAB
+pugnale con fodero,N+NPN:ms-+;RA1SUOARAB
+pugnale con lama ovale,N+NPNA:ms-+;RA1SUOARAB
+pugnale con lama ovale e impugnatura traforata,N+NPNACONGNA:ms-+;RA1SUOARAB
+pugnale con lama triangolare,N+NPNA:ms-+;RA1SUOARAB
+ronca,N:ms-+;RA1SUOARAB
+roncone,N:ms-+;RA1SUOARAB
+rudis
+scramasax,N:ms--;RA1SUOARAB
+scramasax corto (Kurzsax)
+scramasax corto,N+NA:ms--;RA1SUOARAB
+scramasax Kurzsax,N+NN:ms--;RA1SUOARAB
+Kurzsax,N:ms--;RA1SUOARAB
+scramasax medio-corto,NA:ms--;RA1SUOARAB
+scramasax medio corto,NAA:ms--;RA1SUOARAB
+scramasax medio,N+NA:ms--;RA1SUOARAB
+scramasax lungo (Langasax)
+scramasax lungo,N+NA:ms--;RA1SUOARAB
+scramasax Langasax,N+NN:ms--;RA1SUOARAB
+Langasax,N:ms--;RA1SUOARAB
+spada,N:fs-+;RA1SUOARAB
+spada da parata,N+NPN:fs-+;RA1SUOARAB
+spada votiva,N+NA:fs-+;RA1SUOARAB
+spada a base semplice,N+NPNA:fs-+;RA1SUOARAB
+spada a codolo,N+NPN:fs-+;RA1SUOARAB
+spada a crociera,N+NPN:fs-+;RA1SUOARAB
+spada a lingua da presa,N+NPNPN:fs-+;RA1SUOARAB
+spada a lingua da presa italica,N+NPNPNA:fs-+;RA1SUOARAB
+spada a manico pieno,N+NPNA:fs-+;RA1SUOARAB
+spada a pomo globulare,N+NPNA:fs-+;RA1SUOARAB
+spada a scimitarra,N+NPN:fs-+;RA1SUOARAB
+spada ad anello,N+NPN:fs-+;RA1SUOARAB
+spada ad antenne,N+NPN:fs-+;RA1SUOARAB
+spada ad antenne di tipo ricurvo,N+NPNPNA:fs-+;RA1SUOARAB
+spada con impugnatura fenestrata,N+NPNA:fs-+;RA1SUOARAB
+spada con lama larga a profilo sinuoso,N+NPNAPNA:fs-+;RA1SUOARAB
+spada con lama assottigliata in punta,N+NPNAPN:fs-+;RA1SUOARAB
+spada con costolatura centrale marcata,N+NPNAA:fs-+;RA1SUOARAB
+spada con fodero,N+NPN:fs-+;RA1SUOARAB
+spada vichinga,N+NA:fs-+;RA1SUOARAB
+spada a t,N+NPN:fs-+;RA1SUOARAB
+spada corta,N+NA:fs-+;RA1SUOARAB
+elso,N:ms-+;RA1SUOARAB
+elSo a barretta,N+NPN:ms-+;RA1SUOARAB
+elso appiattito,N+NA:fs-+;RA1SUOARAB
+elso appiattito e incurvato,N+NACONGA:ms-+;RA1SUOARAB
+impugnatura,N:fs-+;RA1SUOARAB
+impugnatura anatomica,N+NA:fs-+;RA1SUOARAB
+impugnatura fenestrata,N+NA:fs-+;RA1SUOARAB
+lama,N:fs-+;RA1SUOARAB
+pomo,N:ms-+;RA1SUOARAB
+pomo a barretta,N+NPN:ms-+;RA1SUOARAB
+pomo a due nastri,N+NPAN:ms-+;RA1SUOARAB
+pomo a 2 nastri,N+NPAN:ms-+;RA1SUOARAB
+pomo a tre lobi,N+NPAN:ms-+;RA1SUOARAB
+pomo a 3 lobi,N+NPAN:ms-+;RA1SUOARAB
+pomo a cinque lobi,N+NPAN:ms-+;RA1SUOARAB
+pomo a 5 lobi,N+NPAN:ms-+;RA1SUOARAB
+pomo a monte,N+NPN:ms-+;RA1SUOARAB
+pomo a tumulo,N+NPN:ms-+;RA1SUOARAB
+spadino,N:ms-+;RA1SUOARAB
+spadone,N:ms-+;RA1SUOARAB
+spatha,N:fs-+;RA1SUOARAB
+spatha di tipo Straubing-Nydam,N+NPNN:fs-+;RA1SUOARAB
+spatha di tipo Lauriacum,N+NPNN:fs-+;RA1SUOARAB
+spatha germanica,N+NA:fs-+;RA1SUOARAB
+spatha franco-alamanna,N+NA:fs-+;RA1SUOARAB
+spatha franco alamanna,N+NAA:fs-+;RA1SUOARAB
+spatha francoalamanna,N+NA:fs-+;RA1SUOARAB
+spatha longobarda,N+NA:fs-+;RA1SUOARAB
+spatha germano-burgunda,N+NA:fs-+;RA1SUOARAB
+spatha germano burgunda,N+NAA:fs-+;RA1SUOARAB
+spatha germanoburgunda,N+NA:fs-+;RA1SUOARAB
+spatha nordica,N+NA:fs-+;RA1SUOARAB
+spatha franca,N+NA:fs-+;RA1SUOARAB
+spiedo,N:ms-+;RA1SUOARAB
+stiletto,N:ms-+;RA1SUOARAB
+xyphos --> xiphos/xyfos cfr. treccani
+xyphos con fodero
+zagaglia,N:fs-+;RA1SUOARAB
+armamento difensivo,NA:ms-+;RA1SUOARAD
+bacinetto con visiera,NPN:ms-+;RA1SUOARAD
+barbuta,N:fs-+;RA1SUOARAD
+barbuta con camaglio,N+NPN:fs-+;RA1SUOARAD
+barbuta di maglia,N+NPN:fs-+;RA1SUOARAD
+braga di maglia,NPN:fs-+;RA1SUOARAD
+braghetta di maglia,NPN:fs-+;RA1SUOARAD
+brunia,
+buffa di maglia,NPN:fs-+;RA1SUOARAD
+calza di maglia,NPN:fs-+;RA1SUOARAD
+camaglio,N:ms-+;RA1SUOARAD
+camicia di maglia,NPN:fs-+;RA1SUOARAD
+cappuccio di maglia,NPN:ms-+;RA1SUOARAD
+casco,N:ms-+;RA1SUOARAD
+casco a nasale,N+NPN:ms-+;RA1SUOARAD
+casco a pseudobandelle,N+NPN:ms-+;RA1SUOARAD
+casco a spicchi a bandelle,N+NPNPN:ms-+;RA1SUOARAD
+casco a visiera,N+NPN:ms-+;RA1SUOARAD
+casco euro-orientale a lamelle
+casco nordgermanico a bandelle,N+NAPN:ms-+;RA1SUOARAD
+casco nordgermanico a maschera,N+NAPN:ms-+;RA1SUOARAD
+casco ostrogoto-franco a spicchi
+casco russo a spicchi,N+NAPN:ms-+;RA1SUOARAD
+casco tardoromano a spicchi,N+NAPN:ms-+;RA1SUOARAD
+catena d'arme,NDN:fs-+;RA1SUOARAD
+cervelliera,N:fs-+;RA1SUOARAD
+coprinuca di maglia,NPN:ms-+;RA1SUOARAD
+corazza,N:fs-+;RA1SUOARAD
+pettorale,N:ms-+;RA1SUOARAD
+anello,N:ms-+;RA1SUOARAD
+anello con chiusura semplice,N+NPNA:ms-+;RA1SUOARAD
+anello saldato,N+NA:ms-+;RA1SUOARAD
+anello rivettato,N+NA:ms-+;RA1SUOARAD
+corazza a corpetto,N+NPN:fs-+;RA1SUOARAD
+corazza anatomica,N+NA:fs-+;RA1SUOARAD
+corazza muscolare,N+NA:fs-+;RA1SUOARAD
+corazza a fasce,N+NPN:fs-+;RA1SUOARAD
+corazza a scaglie,N+NPN:fs-+;RA1SUOARAD
+corazza a tre dischi,N+NPAN:fs-+;RA1SUOARAD
+corazza a 3 dischi,N+NPAN:fs-+;RA1SUOARAD
+corazza ad anelli,N+NPN:fs-+;RA1SUOARAD
+corazza campaniforme,N+NA:fs-+;RA1SUOARAD
+corazza muscolare bivalve,N+NAA:fs-+;RA1SUOARAD
+corazza trilobata,N+NA:fs-+;RA1SUOARAD
+cuffia di maglia,NPN:fs-+;RA1SUOARAD
+disco-corazza
+elmo,N:ms-+;RA1SUOARAD
+elmo da parata,N+NPN:ms-+;RA1SUOARAD
+elmo gladatorio,N+NA:ms-+;RA1SUOARAD
+elmo a bottone (celtico-italico)
+elmo a bottone,N+NPN:ms-+;RA1SUOARAD
+elmo celtico-italico
+elmo a calotta,N+NPN:ms-+;RA1SUOARAD
+elmo a calotta composita,N+NPNA:ms-+;RA1SUOARAD
+elmo a calotta composita a doppia cresta,N+NPNAPAN:ms-+;RA1SUOARAD
+elmo a calotta sagamota,N+NPNA:ms-+;RA1SUOARAD
+elmo a coppa conica,N+NPNA:ms-+;RA1SUOARAD
+elmo a campana allungata,N+NPNA:ms-+;RA1SUOARAD
+elmo a gola con borchie,N+NPNPN:ms-+;RA1SUOARAD
+elmo a lamelle,N+NPN:ms-+;RA1SUOARAD
+elmo a maschera,N+NPN:ms-+;RA1SUOARAD
+elmo a testa di ariete,N+NPNPN:ms-+;RA1SUOARAD
+elmo a pilos,N+NPN:ms-+;RA1SUOARAD
+elmo a pilos ellenistico,N+NPNA:ms-+;RA1SUOARAD
+elmo apulo-corinzio,N+NA:ms-+;RA1SUOARAD
+elmo attivo,N+NA:ms-+;RA1SUOARAD
+elmo beotico,N+NA:ms-+;RA1SUOARAD
+elmo beotico protocorinzio,N+NAA:ms-+;RA1SUOARAD
+elmo beotico-ellenistico,N+NA:ms-+;RA1SUOARAD
+elmo calcidese,N+NA:ms-+;RA1SUOARAD
+elmo celto-italico,N+NA:ms-+;RA1SUOARAD
+elmo conico,N+NA:ms-+;RA1SUOARAD
+elmo corinzio,N+NA:ms-+;RA1SUOARAD
+elmo crestato,N+NA:ms-+;RA1SUOARAD
+elmo da cavalleria,N+NPN:ms-+;RA1SUOARAD
+elmo della fanteria ausiliaria,N+NPNA:ms-+;RA1SUOARAD
+elmo di tipo Agen-Port,N+NPNN:ms-+;RA1SUOARAD
+elmo di tipo Buggenum,N+NPNN:ms-+;RA1SUOARAD
+elmo di tipo Coolus,N+NPNN:ms-+;RA1SUOARAD
+elmo di tipo Montefortino,N+NPNN:ms-+;RA1SUOARAD
+elmo di tipo Negau,N+NPNN:ms-+;RA1SUOARAD
+elmo frigio,N+NA:ms-+;RA1SUOARAD
+elmo frigio alato,N+NAA:ms-+;RA1SUOARAD
+elmo greco-italico,N+NA:ms-+;RA1SUOARAD
+elmo imperiale gallico,N+NAA:ms-+;RA1SUOARAD
+elmo imperiale italico,N+NAA:ms-+;RA1SUOARAD
+elmo piceno-corinzio,N+NA:ms-+;RA1SUOARAD
+elmo pseudo-attico,N+NA:ms-+;RA1SUOARAD
+elmo sud-italico calcidese,N+NA:ms-+;RA1SUOARAD
+elmo tracio,N+NA:ms-+;RA1SUOARAD
+elmo con aperture aurali,N+NPNA:ms-+;RA1SUOARAD
+elmo con paragnatidi,N+NPN:ms-+;RA1SUOARAD
+elmo con paragnatidi a forma di testa di ariete,N+NPNPNPNPN:ms-+;RA1SUOARAD
+elmo con paranuca,N+NPN:ms-+;RA1SUOARAD
+apex,N:ms--;RA1SUOARAD
+reggicresta,N:ms-+;RA1SUOARAD
+falda di maglia,NPN:fs-+;RA1SUOARAD
+farsetto da armare,NPN:ms-+;RA1SUOARAD
+galerus,N:ms-+;RA1SUOARAD
+gambale,N:ms-+;RA1SUOARAD
+gambiera,N:fs-+;RA1SUOARAD
+giaco,N:ms-+;RA1SUOARAD
+gola di maglia,NPN:ms-+;RA1SUOARAD
+gorgiera di maglia,NPN:fs-+;RA1SUOARAD
+gorzarino,N:ms-+;RA1SUOARAD
+guanto,N:ms-+;RA1SUOARAD
+guanto da presa,N+NPN:ms-+;RA1SUOARAD
+kardiophylax,N:ms--;RA1SUOARAD
+linothorax,N:ms--;RA1SUOARAD
+lorica,N:fs-+;RA1SUOARAD
+lorica hamata,N+NA:fs-+;RA1SUOARAD
+lorica muscolare,N+NA:fs-+;RA1SUOARAD
+lorica segmentata,N+NA:fs-+;RA1SUOARAD
+lorica squamata,N+NA:fs-+;RA1SUOARAD
+maglia,N:fs-+;RA1SUOARAD
+maglia chiodata in mezzo,N+NAPN:fs-+;RA1SUOARAD
+maglia chiodata in alto,N+NAPN:fs-+;RA1SUOARAD
+maglia a grano d'orzo,N+NPNDN:fs-+;RA1SUOARAD
+maglia ghiazzerina,N+NA:fs-+;RA1SUOARAD
+manica,N:fs-+;RA1SUOARAD
+mezza calza di maglia,ANPN:fs-+;RA1SUOARAD
+muffola,N:fs-+;RA1SUOARAD
+piastra,N:fs-+;RA1SUOARAD
+piastra dorsale,N+NA:fs-+;RA1SUOARAD
+piastra pettorale,N+NA:fs-+;RA1SUOARAD
+piastra rettangolare,N+NA:fs-+;RA1SUOARAD
+schiniere,N:ms-+;RA1SUOARAD
+schiniere con incavo per il piede,N+NPNPDETN:ms-+;RA1SUOARAD
+schiniere con ginocchio sagomato,N+NPNA:ms-+;RA1SUOARAD
+scudo,N:ms-+;RA1SUOARAD
+scudo da cerimonia,N+NPN:ms-+;RA1SUOARAD
+scudo votivo,N+NA:ms-+;RA1SUOARAD
+scudo ancile,N+NA:ms-+;RA1SUOARAD
+scudo circolare,N+NA:ms-+;RA1SUOARAD
+scudo dypilon
+scudo argivo,N+NA:ms-+;RA1SUOARAD
+scudo alla normanna,N+NPA:ms-+;RA1SUOARAD
+scudo a mandorla,N+NPN:ms-+;RA1SUOARAD
+scudo rettangolare,N+NA:ms-+;RA1SUOARAD
+scutum,N:ms--;RA1SUOARAD
+scudo triangolare,N+NA:ms-+;RA1SUOARAD
+usbergo,N:ms-+;RA1SUOARAD
+onagro,N:ms-+;RA1SUOARAL
+arco,N:ms-+;RA1SUOARAL
+arco di tipo composito,N+NPNA:ms-+;RA1SUOARAL
+arco di tipo orientale,N+NPNA:ms-+;RA1SUOARAL
+arco riflesso,N+NA:ms-+;RA1SUOARAL
+arco a D,N+NPN:ms-+;RA1SUOARAL
+balestra,N:fs-+;RA1SUOARAL
+fionda,N:fs-+;RA1SUOARAL
+gastraphetes
+palla da bombarda,NPN:fs-+;RA1SUOARAL
+proiettile,N:ms-+;RA1SUOARAL
+proiettile di fionda,N+NPN:ms-+;RA1SUOARAL
+proiettile a forma biconica,N+NPNA:ms-+;RA1SUOARAL
+proiettile a forma ovoidale,N+NPNA:ms-+;RA1SUOARAL
+proiettile a forma piramidale,N+NPNA:ms-+;RA1SUOARAL
+proiettile a forma amigdaloide,N+NPNA:ms-+;RA1SUOARAL
+proiettile fusiforme,N+NA:ms-+;RA1SUOARAL
+proiettile glandiforme,N+NA:ms-+;RA1SUOARAL
+scorpio,N:ms--;RA1SUOARAL
+freccia di balestra,N+NPN:fs-+;RA1SUOARAL
+freccia di scorpio,N+NPN:fs-+;RA1SUOARAL
+punta,N:fs-+;RA1SUOARAL
+punta a base assottigliata,N+NPNA:fs-+;RA1SUOARAL
+punta a bulino trasversale,N+NPNA:fs-+;RA1SUOARAL
+punta a coda di rondine,N+NPNPN:fs-+;RA1SUOARAL
+punta a codolo,N+NPN:fs-+;RA1SUOARAL
+punta a cuspide ad alette,N+NPNPN:fs-+;RA1SUOARAL
+punta a cuspide foliata,N+NPNA:fs-+;RA1SUOARAL
+punta a cuspide lanceolata,N+NPNA:fs-+;RA1SUOARAL
+punta a cuspide ovale,N+NPNA:fs-+;RA1SUOARAL
+punta a cuspide piramidale,N+NPNA:fs-+;RA1SUOARAL
+punta a cuspide romboidale,N+NPNA:fs-+;RA1SUOARAL
+punta a cuspide triangolare,N+NPNA:fs-+;RA1SUOARAL
+punta a dorso,N+NPN:fs-+;RA1SUOARAL
+punta a dorso marginale,N+NPNA:fs-+;RA1SUOARAL
+punta a dorso parziale,N+NPNA:fs-+;RA1SUOARAL
+punta a dorso totale,N+NPNA:fs-+;RA1SUOARAL
+punta a foglia allungata,N+NPNA:fs-+;RA1SUOARAL
+punta a foglia d'alloro,N+NPNDN:fs-+;RA1SUOARAL
+punta a foglia d'edera,N+NPNDN:fs-+;RA1SUOARAL
+punta a foglia d'ulivo,N+NPNDN:fs-+;RA1SUOARAL
+punta a foglia di salice,N+NPNPN:fs-+;RA1SUOARAL
+punta a foglia di ulivo,N+NPNPN:fs-+;RA1SUOARAL
+punta a foglia larga ovale,N+NPNAA:fs-+;RA1SUOARAL
+punta a ritocco alternante,N+NPNA:fs-+;RA1SUOARAL
+punta a ritocco foliato,N+NPNA:fs-+;RA1SUOARAL
+punta a sezione circolare,N+NPNA:fs-+;RA1SUOARAL
+punta a sezione ovale,N+NPNA:fs-+;RA1SUOARAL
+punta a sezione piramidale,N+NPNA:fs-+;RA1SUOARAL
+punta a sezione romboidale,N+NPNA:fs-+;RA1SUOARAL
+punta a tranciante,N+NPN:fs-+;RA1SUOARAL
+punta a tranciante trasversale,N+NPNA:fs-+;RA1SUOARAL
+punta ad alette,N+NPN:fs-+;RA1SUOARAL
+punta ad alette molto pronunciate,N+NPNAA:fs-+;RA1SUOARAL
+punta ad alette poco pronunciate,N+NPNAA:fs-+;RA1SUOARAL
+punta a due alette,N+NPAN:fs-+;RA1SUOARAL
+punta a 2 alette,N+NPAN:fs-+;RA1SUOARAL
+punta a tre alette,N+NPAN:fs-+;RA1SUOARAL
+punta a 3 alette,N+NPAN:fs-+;RA1SUOARAL
+punta scitica,N+NA:fs-+;RA1SUOARAL
+punta con immanicatura ad alette,N+NPNPN:fs-+;RA1SUOARAL
+punta denticolata,N+NA:fs-+;RA1SUOARAL
+punta peduncolata,N+NA:fs-+;RA1SUOARAL
+punta peduncolata atipica,N+NAA:fs-+;RA1SUOARAL
+punta su lama,N+NPN:fs-+;RA1SUOARAL
+punta su scheggia,N+NPN:fs-+;RA1SUOARAL
+ariete,N:ms-+;RA1SUOARAA
+musculus,N:ms-+;RA1SUOARAA
+papilio,
+pluteus
+scala d'assalto,NDN:fs-+;RA1SUOARAA
+testuggine,N:fs--;RA1SUOARAA
+testuggine semplice,N+NA:fs--;RA1SUOARAA
+testuggine a rostro,N+NPN:fs-+;RA1SUOARAA
+torre mobile,NP:fs-+;RA1SUOARAA
+vinea,N:fs-+;RA1SUOARAA
+coverta di maglia,NPN:fs-+;RA1SUOARFI
+sprone,N:ms-+;RA1SUOARFI
+sprone a brocco,N+NPN:ms-+;RA1SUOARFI
+sprone a paletto,N+NPN:ms-+;RA1SUOARFI
+sprone a rotella,N+NPN:ms-+;RA1SUOARFI
+sprone a tallone,N+NPN:ms-+;RA1SUOARFI
+paragnatide,N:fs--;RA1SUOARAC
+paragnatide con terminale arrotondato,N+NPNA:fs--;RA1SUOARAC
+paragnatide con terminale avvolgente,N+NPNA:fs--;RA1SUOARAC
+paragnatide con terminale a punto trilobata,N+NPNPNA:fs--;RA1SUOARAC
+paraguancia,N:ms--;RA1SUOARAC
+paranuca,N:ms--;RA1SUOARAC
+proteggidita,N:ms--;RA1SUOARAC
+proteggidita per arco,N+NPN:ms--;RA1SUOARAC
+tendiarco,N:ms--;RA1SUOARAC
+zavorra,N:fs-+;RA1SUOCP
+rete,N:fs-+;RA1SUOCP
+fiocina,N:fs-+;RA1SUOCP
+ago da rete,NPN:ms-+;RA1SUOCP
+amo da pesca,NPN:ms-+;RA1SUOCP
+arpione,N:ms-+;RA1SUOCP
+acquamanile,N:ms-.;RA1SUOCR
+alabastron,N:ms--;RA1SUOCR
+alabastron a fondo appuntito,N+NPNA:ms--;RA1SUOCR
+alabastron a fondo piatto,N+NPNA:ms--;RA1SUOCR
+alabastron con due anse impostate sul corpo,N+NPANAPN:ms--;RA1SUOCR
+alabastron con 2 anse impostate sul corpo,N+NPANAPN:ms--;RA1SUOCR
+alabastron con peduccio,N+NPN:ms--;RA1SUOCR
+alabastron con un'ansa impostata sul collo,N+NPDETNAPN:ms--;RA1SUOCR
+alabastron modanato,N+NA:ms--;RA1SUOCR
+alabastron ovoide,N+NA:ms--;RA1SUOCR
+alabastron piriforme,N+NA:ms--;RA1SUOCR
+albarello,N:ms-+;RA1SUOCR
+albarello a rocchetto,N+NPN:ms-+;RA1SUOCR
+amphoriskos,N:ms--;RA1SUOCR
+ampolla,N:fs-+;RA1SUOCR
+ampolla olearia,N+NA:fs-+;RA1SUOCR
+anfora,N:fs-+;RA1SUOCR
+anfora da mensa,N+NPN:fs-+;RA1SUOCR
+anfora da trasporto,N+NPN:fs-+;RA1SUOCR
+anfora da trasporto/produzione africana
+anfora da trasporto/produzione corinzia
+anfora da trasporto/produzione etrusca
+anfora da trasporto/produzione fenicia
+anfora da trasporto/produzione greco-italica
+anfora da trasporto/produzione locale
+anfora da trasporto/produzione punica
+bucchero,N:ms-+;RA1SUOCR
+bucchero pesante,N+NA:ms-+;RA1SUOCR
+bucchero sottile,N+NA:ms-+;RA1SUOCR
+ceramica a pareti sottili,N+NPNA:fs-+;RA1SUOCR
+ceramica a vernice bianca,N+NPNA:fs-+;RA1SUOCR
+ceramica a vernice bruna,N+NPNA:fs-+;RA1SUOCR
+ceramica a vernice nera,N+NPNA:fs-+;RA1SUOCR
+ceramica a vernice sovradipinta,N+NPNA:fs-+;RA1SUOCR
+ceramica a vernice rossa interna,N+NPNAA:fs-+;RA1SUOCR
+ceramica acroma,N+NA:fs-+;RA1SUOCR
+ceramica argentata,N+NA:fs-+;RA1SUOCR
+ceramica attica,N+NA:fs-+;RA1SUOCR
+ceramica attica a vernice nera,N+NAPNA:fs-+;RA1SUOCR
+ceramica comune,N+NA:fs-+;RA1SUOCR
+ceramica comune da cucina,N+NAPN:fs-+;RA1SUOCR
+ceramica corinzia,N+NA:fs-+;RA1SUOCR
+ceramica da cucina africana,N+NPNA:fs-+;RA1SUOCR
+ceramica daunia,N+NA:fs-+;RA1SUOCR
+ceramica etrusca a figure rosse,N+NAPNA:fs-+;RA1SUOCR
+ceramica iapigia,N+NA:fs-+;RA1SUOCR
+ceramica iberica,N+NA:fs-+;RA1SUOCR
+ceramica invetriata,N+NA:fs-+;RA1SUOCR
+ceramica megarese,N+NA:fs-+;RA1SUOCR
+lucerne
+lucerne a vernice nera
+lucerne/produzione africana
+lucerne/produzione siriana
+terra sigillata africana,NAA:fs-+;RA1SUOCR
+terra sigillata italica,NAA:fs-+;RA1SUOCR
+terra sigillata italica aretina,NAAA:fs-+;RA1SUOCR
+terra ispanica,NA:fs-+;RA1SUOCR
+terra sigillata italica puteolana,NAAA:fs-+;RA1SUOCR
+anfora funeraria,N+NA:fs-+;RA1SUOCR
+anfora vinaria,N+NA:fs-+;RA1SUOCR
+anfora olearia,N+NA:fs-+;RA1SUOCR
+anfora a bariletto,N+NPN:fs-+;RA1SUOCR
+anfora a fondo appuntito,N+NPNA:fs-+;RA1SUOCR
+anfora a fondo piatto,N+NPNA:fs-+;RA1SUOCR
+anfora a siluro,N+NPN:fs-+;RA1SUOCR
+anfora a volute,N+NPN:fs-+;RA1SUOCR
+anfora biansata,N+NA:fs-+,RA1SUOCR
+anfora biconica,N+NA:fs-+;RA1SUOCR
+anfora cilindrica,N+NA:fs-+;RA1SUOCR
+anfora con alto collo,N+NPAN:fs-+;RA1SUOCR
+anfora con alto collo cilindrico,N+NPANA:fs-+;RA1SUOCR
+anfora con alto collo distinto,N+NPANA:fs-+;RA1SUOCR
+anfora con anse a bastoncello,N+NPNPN:fs-+;RA1SUOCR
+anfora con anse a nastro,N+NPNPN:fs-+;RA1SUOCR
+anfora con anse a triplo bastoncello,N+NPNPAN:fs-+;RA1SUOCR
+anfora con breve collo distinto,N+NPANA:fs-+;RA1SUOCR
+anfora con collo a clessidra,N+NPNPN:fs-+;RA1SUOCR
+anfora con collo a imbuto,N+NPNPN:fs-+;RA1SUOCR
+anfora con collo a tromba,N+NPNPN:fs-+;RA1SUOCR
+anfora con collo cilindrico,N+NPNA:fs-+;RA1SUOCR
+anfora con collo concavo,N+NPNA:fs-+;RA1SUOCR
+anfora con collo distinto,N+NPNA:fs-+;RA1SUOCR
+anfora con collo rigonfio e ventre ovoidale,N+NPNACONGNA:fs-+;RA1SUOCR
+anfora con collo troncoconico,N+NPNA:fs-+;RA1SUOCR
+anfora con coperchio,N+NPN:fs-+;RA1SUOCR
+anfora con filtro,N+NPN:fs-+;RA1SUOCR
+anfora con filtro traforato,N+NPNA:fs-+;RA1SUOCR
+anfora con orlo ad anello,N+NPNPN:fs-+;RA1SUOCR
+anfora con orlo arrotondato,N+NPNA:fs-+;RA1SUOCR
+anfora con orlo svasato,N+NPNA:fs-+;RA1SUOCR
+anfora con orlo verticale,N+NPNA:fs-+;RA1SUOCR
+anfora con setto a colino,N+NPNPN:fs-+;RA1SUOCR
+anfora con setto a colino traforato,N+NPNPNA:fs-+;RA1SUOCR
+anfora con versatoio a becco,N+NPNPN:fs-+;RA1SUOCR
+anfora costolata,N+NA:fs-+;RA1SUOCR
+anfora globulare,N+NA:fs-+;RA1SUOCR
+anfora kantharoide,N+NA:fs-+;RA1SUOCR
+anfora monoansata,N+NA:fs-+;RA1SUOCR
+anfora neck-amphora
+neck-amphora
+anfora ovoide,N+NA:fs_+;RA1SUOCR
+anfora quadriansata,N+NA:fs-+;RA1SUOCR
+anfora su piede,N+NPN:fs-+;RA1SUOCR
+anfora tipo Spatheion,N+NPN:fs-+;RA1SUOCR
+anfora trilobata,N+NA:fs-+;RA1SUOCR
+anforetta,N:fs-+;RA1SUOCR
+anforisco,N:ms--;RA1SUOCR
+askos,N:ms--;RA1SUOCR
+askos da parata,N+NPN:ms--;RA1SUOCR
+askos a barilotto,N+NPN:ms--;RA1SUOCR
+askos a corona,N+NPN:ms--;RA1SUOCR
+askos a forma di anatra,N+NPNPN:ms--;RA1SUOCR
+askos a forma di cigno,N+NPNPN:ms--;RA1SUOCR
+askos a forma di cinghiale,N+NPNPN:ms--;RA1SUOCR
+askos a forma di fallo,N+NPNPN:ms--;RA1SUOCR
+askos a forma di leone,N+NPNPN:ms--;RA1SUOCR
+askos a forma di uccellino,N+NPNPN:ms--;RA1SUOCR
+askos ad anello,N+NPN:ms--;RA1SUOCR
+askos con ansa a ponte,N+NPNPN:ms--;RA1SUOCR
+askos con ansa a triplice bastoncello,N+NPNPAN:ms--;RA1SUOCR
+askos con ansa ad anello,N+NPNPN:ms--;RA1SUOCR
+askos con beccuccio a campana,N+NPNPN:ms--;RA1SUOCR
+askos con beccuccio a protome leonina,N+NPNPNA:ms--;RA1SUOCR
+askos con collo con imboccatura a fungo,N+NPNPNPN:ms--;RA1SUOCR
+askos con collo distinto,N+NPNA:ms--;RA1SUOCR
+askos con doppio beccuccio,N+NPAN:ms--;RA1SUOCR
+askos con due colli,N+NPAN:ms--;RA1SUOCR
+askos con 2 colli,N+NPAN:ms--;RA1SUOCR
+askos con filtro,N+NPN:ms--;RA1SUOCR
+askos discoidale,N+NA:ms--;RA1SUOCR
+askos globulare,N+NA:ms--;RA1SUOCR
+askos-guttos
+askos lenticolare,N+NA:ms--;RA1SUOCR
+askos otriforme,N+NA:ms--;RA1SUOCR
+askos a barilotto,N+NPN:ms--;RA1SUOCR
+askos plastico,N+NA:ms--;RA1SUOCR
+astuccio,N:ms-+;RA1SUOCR
+astuccio per filatterio,N+NPN:ms-+;RA1SUOCR
+astuccio portamuleti,N+NA:ms-+;RA1SUOCR
+astuccio portapennelli,N+NN:ms-+;RA1SUOCR
+astuccio a reticolo,N+NPN:ms-+;RA1SUOCR
+attingitoio,N:ms-+;RA1SUOCR
+attingitoio da bagno,N+NPN:ms-+;RA1SUOCR
+attingitoio biansato,N+NA:ms-+;RA1SUOCR
+attingitoio biconico,N+NA:ms-+;RA1SUOCR
+attingitoio carenato,N+NA:ms-+;RA1SUOCR
+attingitoio con ansa sopraelevata,N+NPNA:ms-+;RA1SUOCR
+attingitoio con filtro,N+NPN:ms-+;RA1SUOCR
+attingitoio globulare,N+NA:ms-+;RA1SUOCR
+attingitoio monoansato,N+NA:ms-+;RA1SUOCR
+attingitoio ovoide,N+NA:ms-+;RA1SUOCR
+bacile,N:ms-+;RA1SUOCR
+bacile votivo,N+NA:ms-+;RA1SUOCR
+bacile con versatoio,N+NPN:ms-+;RA1SUOCR
+bacinella,N:fs-+;RA1SUOCR
+bacino,N:ms-+;RA1SUOCR
+bacino a orlo perlato,N+NPNA:ms-+;RA1SUOCR
+bacino con parete leggermente svasata,N+NPNAVVA:ms-+;RA1SUOCR
+bacino con bassa parete svasata,N+NPANA:ms-+;RA1SUOCR
+bacino con fondo arrotondato,N+NPNA:ms-+;RA1SUOCR
+balsamario,N:ms-+;RA1SUOCR
+balsamario a sezione cilindrica,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione conica,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione discoidale,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione lenticolare,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione olliforme,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione ovoiodale,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione piriforme,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione quadrata,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione sferica,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione tronco-conica,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione troncoconica,N+NPNA:ms-+;RA1SUOCR
+balsamario a sezione tubolare,N+NPNA:ms-+;RA1SUOCR
+balsamario con corpo ad anello,N+NPNPN:ms-+;RA1SUOCR
+balsamario con corpo doppio,N+NPNA:ms-+;RA1SUOCR
+bicchiere,N:ms-+;RA1SUOCR
+bicchiere a piede,N+NPN:ms-+;RA1SUOCR
+bicchiere a sacchetto,N+NPN:ms-+;RA1SUOCR
+bicchiere apodo,N+NA:ms-+;RA1SUOCR
+bicchiere campaniforme,N+NA:ms-+;RA1SUOCR
+bicchiere carenato,N+NA:ms-+;RA1SUOCR
+bicchiere cilindrico,N+NA:ms-+;RA1SUOCR
+bicchiere conico,N+NA:ms-+;RA1SUOCR
+bicchiere con corpo a bulbo,N+NPNPN:ms-+;RA1SUOCR
+bicchiere con corpo ovoidale,N+NPNA:ms-+;RA1SUOCR
+bicchiere con corpo parallelepipedo,N+NPNA:ms-+;RA1SUOCR
+bicchiere con decorazione a bugne,N+NPNPN:ms-+;RA1SUOCR
+bicchiere con piede a protuberanze,N+NPNPN:ms-+;RA1SUOCR
+bicchiere monoansato (modolios),
+bicchiere monoansato,N+NA:ms-+;RA1SUOCR
+modiolos,N:ms--;RA1SUOCR
+bicchiere tronconico,N+NA:ms-+;RA1SUOCR
+bicchiere svasato,N+NA:ms-+;RA1SUOCR
+biconico,N:ms-+;RA1SUOCR
+boccale,N:ms-+;RA1SUOCR
+boccale biconico,N+NA:ms-+;RA1SUOCR
+boccale con coperchio,N+NPN:ms-+;RA1SUOCR
+bollitore,N:ms-+;RA1SUOCR
+bombylios,N:ms-+;RA1SUOCR
+borraccia,N:fs-+;RA1SUOCR
+borsa,N:fs-+;RA1SUOCR
+bottiglia,N:fs-+;RA1SUOCR
+bottiglia mercuriale,N+NA:fs-+;RA1SUOCR
+bottiglia a corpo cilindrico,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo conico,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo discoidale,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo esagonale,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo fusiforme,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo globulare,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo piriforme,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo poligonale,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo sferoidale,N+NPNA:fs-+;RA1SUOCR
+bottiglia a corpo tronconico,N+NPNA:fs-+;RA1SUOCR
+bottiglia a doppio ventre,N+NPAN:fs-+;RA1SUOCR
+bottiglia con base o ventre a sezione quadrata,N+NPNCONGNPNA:fs-+;RA1SUOCR
+bottiglia con base a sezione quadrata,N+NPNPNA:fs-+;RA1SUOCR
+bottiglia con ventre a sezione quadrata,N+NPNPNA:fs-+;RA1SUOCR
+bottiglia con base o ventre a sezione rettangolare,N+NPNCONGNPNA:fs-+;RA1SUOCR
+bottiglia con base a sezione rettangolare,N+NPNPNA:fs-+;RA1SUOCR
+bottiglia con ventre a sezione rettangolare,N+NPNPNA:fs-+;RA1SUOCR
+braciere,N:ms-+;RA1SUOCR
+braciere rituale,N+NA:ms-+;RA1SUOCR
+braciere per riscaldamento,N+NPN:ms-+;RA1SUOCR
+braciere per cottura di cibi,N+NPNPN:ms-+;RA1SUOCR
+brocca,N:fs-+;RA1SUOCR
+brocca attingitoio,N+NA:fs-+;RA1SUOCR
+brocca da farmacia,N+NPN:fs-+;RA1SUOCR
+brocca poppatoio,N+NN:fs-+;RA1SUOCR
+brocca a biberon,N+NPN:fs-+;RA1SUOCR
+brocca a bulbo,N+NPN:fs-+;RA1SUOCR
+brocca a filtro,N+NPN:fs-+;RA1SUOCR
+brocca askoide,N+NA:fs-+;RA1SUOCR
+brocca biconica,N+NA:fs-+;RA1SUOCR
+brocca bilobata,N+NA:fs-+;RA1SUOCR
+brocca cilindrica,N+NA:fs-+;RA1SUOCR
+brocca conica,N+NA:fs-+;RA1SUOCR
+brocca con beccuccio,N+NPN:fs-+;RA1SUOCR
+brocca con labbro obliquo,N+NPNA:fs-+;RA1SUOCR
+brocca con orlo a fungo,N+NPNPN:fs-+;RA1SUOCR
+brocca con versatoio,N+NPN:fs-+;RA1SUOCR
+brocca con due versatoi,N+NPAN:fs-+;RA1SUOCR
+brocca con 2 versatoi,N+NPAN:fs-+;RA1SUOCR
+brocca globulare,N+NA:fs-+;RA1SUOCR
+brocca lenticolare,N+NA:fs-+;RA1SUOCR
+brocca monoansata,N+NA:fs-+;RA1SUOCR
+brocca ovoidale,N+NA:fs-+;RA1SUOCR
+brocca piriforme,N+NA:fs-+;RA1SUOCR
+brocca trilobata,N+NA:fs-+;RA1SUOCR
+bruciaprofumi,N:ms--;RA1SUOCR
+caldaia,N:fs-+;RA1SUOCR
+calderone,N:ms-+;RA1SUOCR
+calderone a spalla piatta,N+NPNA:ms-+;RA1SUOCR
+calderone a fondo arrotondato,N+NPNA:ms-+;RA1SUOCR
+calice,N:ms-+;RA1SUOCR
+calice potorio,N+NA:ms-+;RA1SUOCR
+calice con cariatidi,N+NPN:ms-+;RA1SUOCR
+calice con vasca carenata,N+NPNA:ms-+;RA1SUOCR
+calice su basso piede,N+NPAN:ms-+;RA1SUOCR
+calice chiota,N+NN:ms-+;RA1SUOCR
+canopo,N:ms-+;RA1SUOCR
+capeduncola,N:fs--;
+caraffa,N:fs-+;RA1SUOCR
+cassa,N:fs-+;RA1SUOCR
+casseruola,N:fs-+;RA1SUOCR
+cassetta,N:fs-+;RA1SUOCR
+cassetta per ushabti,N+NèN:fs-+;RA1SUOCR
+catino,N:ms-+;RA1SUOCR
+cestino,N:ms-+;RA1SUOCR
+cesto,N:ms-+;RA1SUOCR
+chous
+chyatus
+cinerario,N:ms-+;RA1SUOCR
+ciotola,N:fs-+;RA1SUOCR
+ciotola a fondo piatto,N+NPNA:fs-+;RA1SUOCR
+ciotola biansata,N+NA:fs-+;RA1SUOCR
+ciotola carenata,N+NA:fs-+;RA1SUOCR
+ciotola con coperchio,N+NPN:fs-+;RA1SUOCR
+ciotola con grattuggia,N+NPN:fs-+;RA1SUOCR
+ciotola concavo-convessa
+ciotola emisferica,N+NA:fs-+;RA1SUOCR
+ciotola monoansata,N+NA:fs-+;RA1SUOCR
+ciotola su alto piede,N+NPAN:fs-+;RA1SUOCR
+ciotola su sostegno,N+NPN:fs-+;RA1SUOCR
+ciotola troncoconica,N+NA:fs-+;RA1SUOCR
+cista,N:fs-+;RA1SUOCR
+cofanetto,N:ms-+;RA1SUOCR
+cofanetto da cosmesi,N+NPN:ms-+;RA1SUOCR
+cofanetto antropomorfo,N+NA:ms-+;RA1SUOCR
+cofanetto su quattro piedi,N+NPAN:ms-+;RA1SUOCR
+cofanetto su 4 piedi,N+NPAN:ms-+;RA1SUOCR
+cofanetto su ruote,N+NPN:ms-+;RA1SUOCR
+colatoio,N:ms-+;RA1SUOCR
+colino,N:ms-+;RA1SUOCR
+colino rituale,N+NA:ms-+;RA1SUOCR
+contenitore,N:ms-+;RA1SUOCR
+cooking-pot
+coperchio,N:ms-+;RA1SUOCR
+coperchio ad incastro,N+NPN:ms-+;RA1SUOCR
+coppa,N:fs-+;RA1SUOCR
+coppa a conchiglia,N+NPN:fs-+;RA1SUOCR
+coppa a listello,N+NPN:fs-+;RA1SUOCR
+coppa a parete convessa,N+NPNA:fs-+;RA1SUOCR
+coppa a parete svasata,N+NPNA:fs-+;RA1SUOCR
+coppa a parete verticale,N+NPNA:fs-+;RA1SUOCR
+coppa a superficie costolata,N+NPNA:fs-+;RA1SUOCR
+coppa ad arco di cerchio,N+NPNPN:fs-+;RA1SUOCR
+coppa astile,N+NA:fs-+;RA1SUOCR
+coppa biansata,N+NA:fs-+;RA1SUOCR
+coppa carenata,N+NA:fs-+;RA1SUOCR
+coppa cilindrica,N+NA:fs-+;RA1SUOCR
+coppa con anse ad orecchio,N+NPNPN:fs-+;RA1SUOCR
+coppa con anse pizzicate,N+NPNA:fs-+;RA1SUOCR
+coppa con anse ripiegate,N+NPNA:fs-+;RA1SUOCR
+coppa con bugne tra le anse,N+NPNPDETN:fs-+;RA1SUOCR
+coppa con coperchio,N+NPN:fs-+;RA1SUOCR
+coppa con due scanalature sotto l'orlo,N+NPANPDETN:fs-+;RA1SUOCR
+coppa con 2 scanalature sotto l'orlo,N+NPANPDETN:fs-+;RA1SUOCR
+coppa con fondo a grattuggia,N+NPNPN:fs-+;RA1SUOCR
+coppa con orlo a becco di civetta,N+NPNPNPN:fs-+;RA1SUOCR
+coppa emisferica,N+NA:fs-+;RA1SUOCR
+coppa ionica,N+NA:fs-+;RA1SUOCR
+coppa mastoide,N+NA:fs-+;RA1SUOCR
+coppa monoansata,N+NA:fs-+;RA1SUOCR
+coppa ovoidale,N+NA:fs-+;RA1SUOCR
+coppa piriforme,N+NA:fs-+;RA1SUOCR
+coppa quadriansata,N+NA:fs-+;RA1SUOCR
+coppa skyphoide,N+NA:fs-+;RA1SUOCR
+coppa squat,N+NN:fs-+;RA1SUOCR
+coppa su alto piede,N+NPAN:fs-+;RA1SUOCR
+coppa su basso piede,N+NPAN:fs-+;RA1SUOCR
+coppa trivulzio,N+NA:fs-+;RA1SUOCR
+coppa tronco-conica
+coppa troncoconica,N+NA:fs-+;RA1SUOCR
+coppetta,N:fs-+;RA1SUOCR
+corno potorio,NA:ms-+;RA1SUOCR
+cothon,N:ms--;RA1SUOCR
+cratere,N:ms-+;RA1SUOCR
+cratere a calice,N+NPN:ms-+;RA1SUOCR
+cratere a campana,N+NPN:ms-+;RA1SUOCR
+cratere a colonnette,N+NPN:ms-+;RA1SUOCR
+cratere a volute,N+NPN:ms-+;RA1SUOCR
+cratere con anse a staffa,N+NPNPN:ms-+;RA1SUOCR
+cratere con doppie anse,N+NPAN:ms-+;RA1SUOCR
+cratere-skyphos
+cratere stamnoide,N+NA:ms-+;RA1SUOCR
+craterisco,N:ms-+;RA1SUOCR
+craterisco con orlo a listello,N+NPNPN:ms-+;RA1SUOCR
+craterisco su alto piede,N+NPAN:ms-+;RA1SUOCR
+crogiolo,N:ms-+;RA1SUOCR
+crumena
+custodia,N:fs-+;RA1SUOCR
+deinos,N:ms-+;RA1SUOCR
+deinos con anse ad anello,N+NPNPN:ms-+;RA1SUOCR
+deinos con anse a rocchetto,N+NPNPN:ms-+;RA1SUOCR
+dinos,N:ms-+;RA1SUOCR
+dinos con anse ad anello,N+NPNPN:ms-+;RA1SUOCR
+dinos con anse a rocchetto,N+NPNPN:ms-+;RA1SUOCR
+doglio con coperchio,NPN:ms-+;RA1SUOCR
+epichysis
+faretra,N:fs-+;RA1SUOCR
+fiala,N:fs-+;RA1SUOCR
+fiasca,N:fs-+;RA1SUOCR
+fiasca da pellegrino,N+NPN:fs-+;RA1SUOCR
+fiasca lenticolare,N+NA:fs-+;RA1SUOCR
+fodero,N:ms-+;RA1SUOCR
+fruttiera,N:fs-+;RA1SUOCR
+giara,N:fs-+;RA1SUOCR
+glaux,N:ms--;RA1SUOCR
+glaux potorio,N+NA:ms--;RA1SUOCR
+glaux con due anse orizzontali,N+NPANA:ms--;RA1SUOCR
+glaux con 2 anse orizzontali,N+NPANA:ms--;RA1SUOCR
+glaux con un'ansa orizzontale e una verticale,N+NPDETNACONGDETA
+guttus,N:ms-+;RA1SUOCR
+hydria,N:fs-+;RA1SUOCR
+hydria ceretana,N+NA:fs-+;RA1SUOCR
+hydria trilobata,N+NA:fs-+;RA1SUOCR
+hydria-loutrophoros
+hydriska
+imbuto,N:ms-+;RA1SUOCR
+incensiere,N:ms-+;RA1SUOCR
+kados,N:ms--;RA1SUOCR
+kados attingitoio,N+NN:ms--;RA1SUOCR
+kados a fondo appuntito,N+NPNA:ms--;RA1SUOCR
+kados a fondo arrotondato,N+NPNA:ms--;RA1SUOCR
+kalathos,N:ms--;RA1SUOCR
+kalpis,N:ms--;RA1SUOCR
+kantharos,N:ms--;RA1SUOCR
+kantharos potorio,N+NA:ms--;RA1SUOCR
+kantharos con vasca carenata,N+NPNA:ms--;RA1SUOCR
+kantharos monoansato,N+NA:ms--;RA1SUOCR
+kantharos su basso piede,N+NPAN:ms--;RA1SUOCR
+kelebe,N:fs--;RA1SUOCR
+kernos,N:ms--;RA1SUOCR
+kernos a forma di torricella,N+NPNPN:ms--;RA1SUOCR
+kernos configurato,N+NA:ms--;RA1SUOCR
+cerno,N:ms-+;RA1SUOCR
+cerno a forma di torricella,N+NPNPN:ms-+;RA1SUOCR
+cerno configurato,N+NA:ms-+;RA1SUOCR
+kothon,N:ms--;RA1SUOCR
+kothon con ansa ad anello,N+NPNPN:ms--;RA1SUOCR
+kothon con piede svasato,N+NPNA:ms--;RA1SUOCR
+kothon con tre anse orizzontali a rocchetto laterali,N+NPANAPNA:ms--;RA1SUOCR
+kothon con 3 anse orizzontali a rocchetto laterali,N+NPANAPNA:ms--;RA1SUOCR
+kothon tripode,N+NA:ms--;RA1SUOCR
+kotyle,N:fs--;RA1SUOCR
+kotyle potorio (TRECCANI RIPORTA FEMMINILE),N+NA:fs--;RA1SUOCR
+krateriskos,N:ms--;RA1SUOCR
+craterisco,N:ms-+;RA1SUOCR
+kreagra,N:fs-+;RA1SUOCR
+kyathos,N:ms--;RA1SUOCR
+kyathos attingitoio,N+NN:ms--;RA1SUOCR
+kyathos potorio,N+NA:ms--;RA1SUOCR
+kyathos a rocchetto,N+NPN:ms--;RA1SUOCR
+kyathos con decorazioni plastiche sull'ansa,N+NPNAPN:ms--;RA1SUOCR
+kyathos con vasca carenata,N+NPNA:ms--;RA1SUOCR
+kylix,N:fs--;RA1SUOCR
+kylix potorio (TRECCANI RIPORTA FEMMINILE),N+NA:fs--;RA1SUOCR
+kylix a fascia risparmiata (band cup)
+kylix a fascia risparmiata,N+NPNA:fs--;RA1SUOCR
+kylix band cup,N+NAN:fs--;RA1SUOCR
+band cup,AN:fs--;RA1SUOCR
+kylix a labbro risparmiato,N+NPNA:fs--;RA1SUOCR
+kylix a labbro risparmiato (lip cup)
+kylix lip cup,N+NAN:fs--;RA1SUOCR
+lip cup,AN:fs--;RA1SUOCR
+kylix calcidizzante,N+NA:fs--;RA1SUOCR
+kylix con anse a bottoni,N+NPNPN:fs--;RA1SUOCR
+kylix dei comasti,N+NPADON:fs--;RA1SUOCR
+kylix di Gordion,N+NPN:fs--;RA1SUOCR
+kylix di Siana,N+NPN:fs--;RA1SUOCR
+kylix su basso piede,N+NPAN:fs--;RA1SUOCR
+kylix su basso piede (stemless cup)
+kylix stemless cup,N+NAN:fs--;RA1SUOCR
+stemless cup,AN:fs--;RA1SUOCR
+lacrimatoio,N:ms-+;RA1SUOCR
+lagynos,N:ms--;RA1SUOCR
+lanx,N:fs-+;RA1SUOCR
+lebes gamikos
+lebete,N:ms-+;RA1SUOCR
+lebete nuziale,N+NA:ms-+;RA1SUOCR
+lebete con orlo liscio,N+NPNA:ms-+;RA1SUOCR
+lebete con fondo arrotondato,N+NPNA:ms-+;RA1SUOCR
+lebete con orlo ripiegato,N+NPNA:ms-+;RA1SUOCR
+lekanis,N:fs--;RA1SUOCR
+lekanis carenata,N+NA:fs--;RA1SUOCR
+lekanis con coperchio,N+NPN:fs--;RA1SUOCR
+lekanis con pareti tese,N+NPNA:fs--;RA1SUOCR
+lekythos,N:fs-+;RA1SUOCR
+lekythos rituale,N+NA:fs-+;RA1SUOCR
+lekythos a reticolo,N+NPN:fs-+;RA1SUOCR
+lekythos aryballica,N+NA:fs-+;RA1SUOCR
+lekythos cilindrica,N+NA:fs-+;RA1SUOCR
+lekythos con spalla distinta,N+NPNA:fs-+;RA1SUOCR
+lekythos globulare,N+NA:fs-+;RA1SUOCR
+lekythos samia,N+NA:fs-+;RA1SUOCR
+loculus,N:ms-+;RA1SUOCR
+loutrophoros,N:ms--;RA1SUOCR
+loutrophoros nuziale,N+NA:ms-+;RA1SUOCR
+loutrophoros funerario,N+NA:ms-+;RA1SUOCR
+lydion,N:ms--;RA1SUOCR
+marmitta,N:fs-+;RA1SUOCR
+marsupium,N:ms-+;RA1SUOCR
+mastello,N:ms-+;RA1SUOCR
+mastos,N:ms--;RA1SUOCR
+mastos con un'ansa orizzontale e una verticale,N+NPDETNACONGDETA:ms--;RA1SUOCR
+mortaio,N:ms-+;RA1SUOCR
+mortaio per cereali,N+NPN:ms-+;RA1SUOCR
+mortaio votivo,N+NA:ms-+;RA1SUOCR
+mortaio con colatoio,N+NPN:ms-+;RA1SUOCR
+mortaio con pestello,N+NPN:ms-+;RA1SUOCR
+mortaio con versatoio,N+NPN:ms-+;RA1SUOCR
+nestoris,N:ms--;RA1SUOCR
+oinochoe,N:fs--;RA1SUOCR
+oinochoe a bocca rotonda,N+NPNA:fs--;RA1SUOCR
+oinochoe a bocca trilobata,N+NPNA:fs--;RA1SUOCR
+oinochoe a fondo piano,N+NPNA:fs--;RA1SUOCR
+oinochoe a rotelle,N+NPN:fs--;RA1SUOCR
+rodia
+oinochoe con becco a cartoccio,N+NPNPN:fs--;RA1SUOCR
+oinochoe con corpo biconico,N+NPNA:fs--;RA1SUOCR
+oinochoe con corpo globulare,N+NPNA:fs--;RA1SUOCR
+oinochoe con corpo piriforme,N+NPNA:fs--;RA1SUOCR
+oinochoe con corpo schiacciato,N+NPNA:fs--;RA1SUOCR
+oinochoe con corpo troncoconico,N+NPNA:fs--;RA1SUOCR
+oinochoe tipo cipriota,N+NPA:fs--;RA1SUOCR
+oinochoe a becco,N+NPN:fs--;RA1SUOCR
+Schnabelkanne,N:fs--;RA1SUOCR
+olla,N:fs-+;RA1SUOCR
+olla funeraria,N+NA:fs-+;RA1SUOCR
+olla votiva,N+NA:fs-+;RA1SUOCR
+olla a botte,N+NPN:fs-+;RA1SUOCR
+olla a colletto,N+NPN:fs-+;RA1SUOCR
+olla a corpo ovoide e fondo piano,N+NPNACONGNA:fs-+;RA1SUOCR
+olla a corpo sinuoso,N+NPNA:fs-+;RA1SUOCR
+olla a orlo bifido,N+NPNA:fs-+;RA1SUOCR
+olla a rete,N+NPN:fs-+;RA1SUOCR
+olla apoda,N+NA:fs-+;RA1SUOCR
+olla biansata,N+NA:fs-+;RA1SUOCR
+olla biconica,N+NA:fs-+;RA1SUOCR
+olla con alto piede svasato,N+NPANA:fs-+;RA1SUOCR
+olla con beccuccio,N+NPN:fs-+;RA1SUOCR
+olla con bugne tra le anse,N+NPNPDETN:fs-+;RA1SUOCR
+olla con ciotola di copertura,N+NPNPN:fs-+;RA1SUOCR
+olla con coperchio,N+NPN:fs-+;RA1SUOCR
+olla con labbro a imbuto,N+NPNPN:fs-+;RA1SUOCR
+olla con quattro prese,N+NPAN:fs-+;RA1SUOCR
+olla con 4 prese,N+NPAN:fs-+;RA1SUOCR
+olla con versatoio,N+NPN:fs-+;RA1SUOCR
+olla globulare,N+NA:fs-+;RA1SUOCR
+olla monoansata,N+NA:fs-+;RA1SUOCR
+olla perforata,N+NA:fs-+;RA1SUOCR
+olla poculiforme,N+NA:fs-+;RA1SUOCR
+olla situliforme,N+NA:fs-+;RA1SUOCR
+olla stamnoide,N+NA:fs-+;RA1SUOCR
+olla triansata,N+NA:fs-+;RA1SUOCR
+olla troncoconica,N+NA:fs-+;RA1SUOCR
+olletta,N:fs-+;RA1SUOCR
+olpe,N:fs--;RA1SUOCR
+olpe attigintoio,N+NN:fs--;RA1SUOCR
+olpe a bocca rotonda,N+NPNA:fs--;RA1SUOCR
+olpe a bocca trilobata,N+NPNA:fs--;RA1SUOCR
+olpe a rotelle,N+NPN:fs--;RA1SUOCR
+olpe a trottola,N+NPN:fs--;RA1SUOCR
+olpe a ventre conico,N+NPNA:fs--;RA1SUOCR
+olpe a ventre ovoide,N+NPNA:fs--;RA1SUOCR
+olpe a ventre ribassato,N+NPNA:fs--;RA1SUOCR
+olpe a ventre sferoidale,N+NPNA:fs--;RA1SUOCR
+olpe biconica,N+NA:fs--;RA1SUOCR
+olpe con versatoio,N+NPN:fs--;RA1SUOCR
+olpe globulare,N+NA:fs--;RA1SUOCR
+olpe laghinoide,N+NA:fs--;RA1SUOCR
+olpe monoansata,N+NA:fs--;RA1SUOCR
+olpe piriforme,N+NA:fs--;RA1SUOCR
+orcio,N:ms-+;RA1SUOCR
+owl-skyphos
+padella,N:fs-+;RA1SUOCR
+padella ovale,N+NA:fs-+;RA1SUOCR
+paiolo,N:ms-+;RA1SUOCR
+paiolo a ventre lenticolare,N+NPNA:ms-+;RA1SUOCR
+paiolo a ventre espanso,N+NPNA:ms-+;RA1SUOCR
+patera,N:fs-+;RA1SUOCR
+patera a vasca arrotondata,N+NPNA:fs-+;RA1SUOCR
+patera baccellata,N+NA:fs-+;RA1SUOCR
+patera con coperchio,N+NPN:fs-+;RA1SUOCR
+patera doppia,N+NA:fs-+;RA1SUOCR
+patera mesomphalica,N+NA:fs-+;RA1SUOCR
+patera ombelicata,N+NA:fs-+;RA1SUOCR
+patera su alto piede,N+NPAN:fs-+;RA1SUOCR
+pelike,N:fs-+;RA1SUOCR
+pentola,N:fs-+;RA1SUOCR
+pentola rituale,N+NA:fs-+;RA1SUOCR
+pentola con versatoio,N+NPN:fs-+;RA1SUOCR
+pentola triansata,N+NA:fs-+;RA1SUOCR
+pepiera,N:fs-+;RA1SUOCR
+pera,N:fs-+;RA1SUOCR
+phiale,N:fs--;RA1SUOCR
+phiale ombelicata,N+NA:fs-+;RA1SUOCR
+piattello,N:ms-+;RA1SUOCR
+piatto,N:ms-+;RA1SUOCR
+piatto da frutta,N+NPN:ms-+;RA1SUOCR
+piatto da pesce,N+NPN:ms-+;RA1SUOCR
+piatto di largizione,N+NPN:ms-+;RA1SUOCR
+piatto portauovo,N+NN:ms-+;RA1SUOCR
+piatto a bugia,N+NPN:ms-+;RA1SUOCR
+piatto apodo,N+NA:ms-+;RA1SUOCR
+piatto carenato,N+NA:ms-+;RA1SUOCR
+piatto circolare con piede ad anello,N+NAPNPN:ms-+;RA1SUOCR
+piatto con beccuccio,N+NPN:ms-+;RA1SUOCR
+piatto coperchio,N+NN:ms-+;RA1SUOCR
+piatto ombelicato,N+NA:ms-+;RA1SUOCR
+piatto su stelo,N+NPN:ms-+;RA1SUOCR
+piatto tetrapode,N+NA:ms-+;RA1SUOCR
+piatto tetrapode con protome zoomorfa,N+NAPNA:ms-+;RA1SUOCR
+piatto tripode,N+NA:ms-+;RA1SUOCR
+pignatta,N:fs-+;RA1SUOCR
+pisside,N:fs-+;RA1SUOCR
+pisside a pareti concave,N+NPNA:fs-+;RA1SUOCR
+pisside a pareti convesse,N+NPNA:fs-+;RA1SUOCR
+pisside apoda,N+NA:fs-+;RA1SUOCR
+pisside cilindrica,N+NA:fs-+;RA1SUOCR
+pisside con anse ad anello,N+NPNPN:fs-+;RA1SUOCR
+pisside con anse configurate a protome,N+NPNAPN:fs-+;RA1SUOCR
+pisside con anse verticali,N+NPNA:fs-+;RA1SUOCR
+pisside con coperchio,N+NPN:fs-+;RA1SUOCR
+pisside con peducci,N+NPN:fs-+;RA1SUOCR
+pisside lenticolare,N+NA:fs-+;RA1SUOCR
+pisside ovoide,N+NA:fs-+;RA1SUOCR
+pisside skyphoide,N+NA:fs-+;RA1SUOCR
+pisside nikostenica,N+NA:fs-+;RA1SUOCR
+pisside stamnoide,N+NA:fs-+;RA1SUOCR
+pisside tripode,N+NA:fs-+;RA1SUOCR
+pitale,N:ms-+;RA1SUOCR
+pithos,N:ms--;RA1SUOCR
+pithos triansato,N+NA:ms--;RA1SUOCR
+pixys,N:ms--;RA1SUOCR
+plemochoe,N:fs--;RA1SUOCR
+poculum,N:ms-+;RA1SUOCR
+poculum a botte,N+NPN:ms-+;RA1SUOCR
+portauovo,N:ms-+;RA1SUOCR
+psykter,N:ms--;RA1SUOCR
+psykter con anse ad occhiello,N+NPNPN:ms--;RA1SUOCR
+psykter con coperchio,N+NPN:ms--;RA1SUOCR
+psykter con prese forate,N+NPNA:ms--;RA1SUOCR
+recipiente,N:ms-+;RA1SUOCR
+bocchello,N:ms-+;RA1SUOCR
+recipiente di forma aperta,N+NPNA:ms-+;RA1SUOCR
+recipiente di forma chiusa,N+NPNA:ms-+;RA1SUOCR
+collo,N:ms-+;RA1SUOCR
+collo a clessidra,N+NPN:ms-+;RA1SUOCR
+collo a tromba,N+NPN:ms-+;RA1SUOCR
+collo asimmetrico,N+NA:ms-+;RA1SUOCR
+collo cilindrico,N+NA:ms-+;RA1SUOCR
+collo concavo,N+NA:ms-+;RA1SUOCR
+collo corto,N+NA:ms-+;RA1SUOCR
+collo iperboloidale,N+NA:ms-+;RA1SUOCR
+collo rigonfio,N+NA:ms-+;RA1SUOCR
+collo troncoconico,N+NA:ms-+;RA1SUOCR
+corpo,N:ms-+;RA1SUOCR
+corpo biconico,N+NA:ms-+;RA1SUOCR
+corpo globulare,N+NA:ms-+;RA1SUOCR
+corpo ovoide,N+NA:ms-+;RA1SUOCR
+corpo piriforme,N+NA:ms-+;RA1SUOCR
+fondo,N:ms-+;RA1SUOCR
+fondo a punta,N+NPN:ms-+;RA1SUOCR
+fondo arrotondato,N+NA:ms-+;RA1SUOCR
+fondo concavo,N+NA:ms-+;RA1SUOCR
+fondo concavo profilato,N+NAA:ms-+;RA1SUOCR
+fondo convesso,N+NA:ms-+;RA1SUOCR
+fondo convesso ombelicato,N+NAA:ms-+;RA1SUOCR
+fondo liscio,N+NA:ms-+;RA1SUOCR
+fondo piatto,N+NA:ms-+;RA1SUOCR
+fondo piatto profilato,N+NAA:ms-+;RA1SUOCR
+gola,N:fs-+;RA1SUOCR
+gola ampia,N+NA:fs-+;RA1SUOCR
+labbro,N:ms-+;RA1SUOCR
+labbro a colletto,N+NPN:ms-+;RA1SUOCR
+labbro a tesa,N+NPN:ms-+;RA1SUOCR
+labbro curvilineo,N+NA:ms-+;RA1SUOCR
+labbro rientrante curvilineo,N+NAA:ms-+;RA1SUOCR
+labbro rientrante curvilineo,N+NAA:ms-+;RA1SUOCR
+labbro svasato rettilineo,N+NAA:ms-+;RA1SUOCR
+manico,N:ms-+;RA1SUOCR
+manico a occhiello,N+NPN:ms-+;RA1SUOCR
+manico appuntito,N+NA:ms-+;RA1SUOCR
+manico con terminazione zoomorfa,N+NPNA:ms-+;RA1SUOCR
+manico diritto,N+NA:ms-+;RA1SUOCR
+manico orizzontale,N+NA:ms-+;RA1SUOCR
+manico piatto,N+NA:ms-+;RA1SUOCR
+manico trasversale,N+NA:ms-+;RA1SUOCR
+manico verticale,N:ms-+;RA1SUOCR
+orlo,N:ms-+;RA1SUOCR
+orlo arrotondato,N+NA:ms-+;RA1SUOCR
+orlo assottigliato,N+NA:ms-+;RA1SUOCR
+orlo con carena all'interno,N+NPNPA:ms-+;RA1SUOCR
+orlo distinto,N+NA:ms-+;RA1SUOCR
+orlo estroflesso,N+NA:ms-+;RA1SUOCR
+orlo obliquo all'esterno,N+NAPA:ms-+;RA1SUOCR
+orlo obliquo all'interno,N+NAPA:ms-+;RA1SUOCR
+orlo perlinato,N+NA:ms-+;RA1SUOCR
+orlo piatto,N+NA:ms-+;RA1SUOCR
+pancia,N:fs-+;RA1SUOCR
+parete,N:fs-+;RA1SUOCR
+parete asimmetrica,N+NA:fs-+;RA1SUOCR
+parete concava,N+NA:fs-+;RA1SUOCR
+parete convessa,N+NA:fs-+;RA1SUOCR
+parete svasata,N+NA:fs-+;RA1SUOCR
+piede,N:ms-+;RA1SUOCR
+piede a disco,N+NPN:ms-+;RA1SUOCR
+piede ad anello,N+NPN:ms-+;RA1SUOCR
+piede alto,N+NA:ms-+;RA1SUOCR
+piede basso,N+NA:ms-+;RA1SUOCR
+piede cavo,N+NA:ms-+;RA1SUOCR
+piede distinto,N+NA:ms-+;RA1SUOCR
+piede sporgente,N+NA:ms-+;RA1SUOCR
+piede stretto,N+NA:ms-+;RA1SUOCR
+piede svasato profilato cavo,N+NAAA:ms-+;RA1SUOCR
+piede svasato sagomato cavo,N+NAAA:ms-+;RA1SUOCR
+piede troncoconico,N+NA:ms-+;RA1SUOCR
+piede troncoconico cavo,N+NAA:ms-+;RA1SUOCR
+piede troncoconico cavo finestrato,N+NAAA:ms-+;RA1SUOCR
+pomello,N:ms-+;RA1SUOCR
+presa,N:fs-+;RA1SUOCR
+presa a falso rocchetto,N+NPAN:fs-+;RA1SUOCR
+presa apicale,N+NA:fs-+;RA1SUOCR
+spalla,N:fs-+;RA1SUOCR
+spalla arrotondata,N+NA:fs-+;RA1SUOCR
+spalla sfuggente,N+NA:fs-+;RA1SUOCR
+spalla tesa,N+NA:fs-+;RA1SUOCR
+tesa,N:fs-+;RA1SUOCR
+vasca,N:fs-+;RA1SUOCR
+vasca a calotta,N+NPN:fs-+;RA1SUOCR
+vasca aperta,N+NA:fs-+;RA1SUOCR
+vasca bassa,N+NA:fs-+;RA1SUOCR
+vasca con imboccatura,N+NPN:fs-+;RA1SUOCR
+vasca convessa,N+NA:fs-+;RA1SUOCR
+vasca espansa,N+NA:fs-+;RA1SUOCR
+vasca ombelicata,N+NA:fs-+;RA1SUOCR
+vasca ovale,N+NA:fs-+;RA1SUOCR
+vasca poco profonda,N+NAVVA:fs-+;RA1SUOCR
+vasca profonda,N+NA:fs-+;RA1SUOCR
+vasca rotonda,N+NA:fs-+;RA1SUOCR
+vasca semiellittica,N+NA:fs-+;RA1SUOCR
+ventre,N:ms-+;RA1SUOCR
+ventre arrotondato,N+NA:ms-+;RA1SUOCR
+ventre concavo,N+NA:ms-+;RA1SUOCR
+ventre concavo convesso,N+NAA:ms-+;RA1SUOCR
+ventre convesso,N+NA:ms-+;RA1SUOCR
+ventre rastremato,N+NA:ms-+;RA1SUOCR
+ventre teso,N+N:ms-+;RA1SUOCR
+rhyton,N:ms-+;RA1SUOCR
+sacco,N:ms-+;RA1SUOCR
+salinum,N:ms-+;RA1SUOCR
+salsiera,N:fs-+;RA1SUOCR
+salvadanaio,N:ms-+;RA1SUOCR
+sarcina,N:fs-+;RA1SUOCR
+scatola,N:fs-+;RA1SUOCR
+scodella,N:fs-+;RA1SUOCR
+scodella biansata,N+NA:fs-+;RA1SUOCR
+scodella troncoconica,N+NA:fs-+;RA1SUOCR
+secchia,N:fs-+;RA1SUOCR
+secchiello,N:ms-+;RA1SUOCR
+secchio,N:ms-+;RA1SUOCR
+secchio da pozzo,N+NPN:ms-+;RA1SUOCR
+simpulum,N:ms-+;RA1SUOCR
+situla,N:Fs-+;RA1SUOCR
+situla cilindrica,N+NA:fs-+;RA1SUOCR
+situla con applique,N+NPN:fs-+;RA1SUOCR
+situla doppia,N+NA:fs-+;RA1SUOCR
+situla ovoide,N+NA:fs-+;RA1SUOCR
+situla priva di collarino,N+NAPN:fs-+;RA1SUOCR
+skyphos,N:ms--;RA1SUOCR
+skyphos potorio,N+NA:ms--;RA1SUOCR
+skyphos a fascia risparmiata,N+NPNA:ms--;RA1SUOCR
+skyphos con due anse orizzontali,N+NPANA:ms--;RA1SUOCR
+skyphos con 2 anse orizzontali,N+NPNANA:ms--;RA1SUOCR
+skyphos con un'ansa orizzontale e una verticale,N+NPDETNACONGDETA:ms--;RA1SUOCR
+spiana,N:fs-+;RA1SUOCR
+spiana su peduccio,N+NPN:fs-+;RA1SUOCR
+stamnos,N:ms-+;RA1SUOCR
+stamnos con coperchio,N+NPN:ms-+;RA1SUOCR
+stampo,N:ms-+;RA1SUOCR
+tazza,N:fs-+;RA1SUOCR
+tazza attingitoio,N+NN:fs-+;RA1SUOCR
+tazza a colletto,N+NPN:fs-+;RA1SUOCR
+tazza a maschera umana,N+NPNA:fs-+;RA1SUOCR
+tazza biansata,N+NA:fs-+;RA1SUOCR
+tazza biconica,N+NA:fs-+;RA1SUOCR
+tazza carenata,N+NA:fs-+;RA1SUOCR
+tazza emisferica,N+NA:fs-+;RA1SUOCR
+tazza globulare,N+NA:fs-+;RA1SUOCR
+tazza kantharoide,N+NA:fs-+;RA1SUOCR
+tazza monoansata,N+NA:fs-+;RA1SUOCR
+tazza poliansata,N+NA:fs-+;RA1SUOCR
+tazza situliforme,N+NA:fs-+;RA1SUOCR
+tazza troncoconica,N+NA:fs-+;RA1SUOCR
+tegame,N:ms-+;RA1SUOCR
+tegame coperchio,N+NN:ms-+;RA1SUOCR
+tegame con coperchio,N+NPN:ms-+;RA1SUOCR
+tegame per uova,N+NPN:ms-+;RA1SUOCR
+teglia,N:fs-+;RA1SUOCR
+teglia con ansa mobile,N+NPNA:fs-+;RA1SUOCR
+terrina,N:fs-+;RA1SUOCR
+testello,N:ms-+;RA1SUOCR
+testello da pane,N+NPN:ms-+;RA1SUOCR
+trozzella,N:fs-+;RA1SUOCR
+unguentario,N:ms-+;RA1SUOCR
+unguentario con collo allungato,N+NPNA:ms-+;RA1SUOCR
+unguentario con corto collo,N+NPAN:ms-+;RA1SUOCR
+unguentario con piede allungato,N+NPNA:ms-+;RA1SUOCR
+unguentario fusiforme,N+NA:ms-+;RA1SUOCR
+unguentario globulare,N+NA:ms-+;RA1SUOCR
+unguentario lekythoide,N+NA:ms-+;RA1SUOCR
+unguentario monoansato,N+NA:ms-+;RA1SUOCR
+unguentario ovoide,N+NA:ms-+;RA1SUOCR
+unguentario piriforme,N+NA:ms-+;RA1SUOCR
+unguentario su basso piede,N+NPAN:ms-+;RA1SUOCR
+urceus,N:ms-+;RA1SUOCR
+vaso,N:ms-+;RA1SUOCR
+vaso da fiori,N+NPN:ms-+;RA1SUOCR
+vaso di misurazione,N+NPN:ms-+;RA1SUOCR
+vaso funerario,N+NA:ms-+;RA1SUOCR
+vaso per spezie,N+NPN:ms-+;RA1SUOCR
+vaso portaprofumi,N+NN:ms-+;RA1SUOCR
+vaso potorio,N+NA:-+;RA1SUOCR
+vaso silos,N+NN:ms-+;RA1SUOCR
+vaso a barchetta,N+NPN:ms-+;RA1SUOCR
+vaso a beccuccio,N+NPN:ms-+;RA1SUOCR
+vaso a bicchiere,N+NPN:ms-+;RA1SUOCR
+vaso a bocca ellissoidale,N+NPNA:ms-+;RA1SUOCR
+vaso a bocca quadrata,N+NPNA:ms-+;RA1SUOCR
+vaso a bollilatte,N+NPN:ms-+;RA1SUOCR
+vaso a botticella,N+NPN:ms-+;RA1SUOCR
+vaso a bulla,N+NPN:ms-+;RA1SUOCR
+vaso a calamaio,N+NPN:ms-+;RA1SUOCR
+vaso a cestello,N+NPN:ms-+;RA1SUOCR
+vaso chardon,N+NN:ms-+;RA1SUOCR
+vaso a clessidra,N+NPN:ms-+;RA1SUOCR
+vaso a collo,N+NPN:ms-+;RA1SUOCR
+vaso a doppio corpo,N+NPAN:ms-+;RA1SUOCR
+vaso a fiasco,N+NPN:ms-+;RA1SUOCR
+vaso a filtro,N+NPN:ms-+;RA1SUOCR
+vaso a fornello,N+NPN:ms-+;RA1SUOCR
+vaso a fruttiera,N+NPN:ms-+;RA1SUOCR
+vaso a listello,N+NPN:ms-+;RA1SUOCR
+vaso a paniere,N+NPN:ms-+;RA1SUOCR
+vaso a più colli,N+NPAN:ms-+;RA1SUOCR
+vaso a poppatoio,N+NPN:ms-+;RA1SUOCR
+vaso a quattro beccucci,N+NPAN:ms-+;RA1SUOCR
+vaso a 4 beccucci,N+NPAN:ms-+;RA1SUOCR
+vaso a stivale,N+NPN:ms-+;RA1SUOCR
+vaso a trottola,N+NPN:ms-+;RA1SUOCR
+vaso a ventre ellissoidale,N+NPNA:ms-+;RA1SUOCR
+vaso a ventre ovoidale,N+NPNA:ms-+;RA1SUOCR
+vaso ad anello,N+NPN:ms-+;RA1SUOCR
+vaso antropomorfo,N+NA:ms-+;RA1SUOCR
+vaso biansato,N+NA:ms-+;RA1SUOCR
+vaso buccheroide,N+NA:ms-+;RA1SUOCR
+vaso biconico,N+NA:ms-+;RA1SUOCR
+vaso biconico monoansato,N+NAA:ms-+;RA1SUOCR
+vaso bitroncoconico,N+NA:ms-+;RA1SUOCR
+vaso campaniforme,N+NA:ms-+;RA1SUOCR
+vaso con appendici interne,N+NPNA:ms-+;RA1SUOCR
+vaso configurato,N+NA:ms-+;RA1SUOCR
+vaso con fondo a tacco,N+NPNPN:ms-+;RA1SUOCR
+vaso con versatoio,N+NPN:ms-+;RA1SUOCR
+vaso ellittico,N+NA:ms-+;RA1SUOCR
+vaso figurato,N+NA:ms-+;RA1SUOCR
+vaso globulare,N+NA:ms-+;RA1SUOCR
+vaso monoansato,N+NA:ms-+;RA1SUOCR
+vaso multiplo,N+NA:ms-+;RA1SUOCR
+vaso ovoidale,N+NA:ms-+;RA1SUOCR
+vaso piriforme,N+NA:ms-+;RA1SUOCR
+vaso polipodo,N+NA:ms-+;RA1SUOCR
+vaso plastico,N+NA:ms-+;RA1SUOCR
+vaso quadriansato,N+NA:ms-+;RA1SUOCR
+vaso situliforme,N+NA:ms-+;RA1SUOCR
+vaso triansato,N+NA:ms-+;RA1SUOCR
+vaso tripode,N+NA:ms-+;RA1SUOCR
+vaso troncoconico,N+NA:ms-+;RA1SUOCR
+vassoio,N:ms-+;RA1SUOCR
+vassoio a cuppelle,N+NPN:ms-+;RA1SUOCR
+vassoio circolare,N+NA:ms-+;RA1SUOCR
+vassoio circolare biansato,N+NAA:ms-+;RA1SUOCR
+vassoio trilobato,N+NA:ms-+;RA1SUOCR
+ziro,N:ms-+;RA1SUOCR
+aryballos,N:ms-+;RA1SUOCR
+aryballos a ciambella,N+NPN:ms-+;RA1SUOCR
+aryballos a fondo piatto,N+NPNA:ms-+;RA1SUOCR
+aryballos anulare,N+NA:ms-+;RA1SUOCR
+aryballos biconico,N+NA:ms-+;RA1SUOCR
+aryballos carenato,N+NA:ms-+;RA1SUOCR
+aryballos globulare,N+NA:ms-+;RA1SUOCR
+aryballos globulare su piede,N+NAPN:ms-+;RA1SUOCR
+aryballos ovoidale,N+NA:ms-+;RA1SUOCR
+aryballos piriforme,N+NA:ms-+;RA1SUOCR
+aryballos troncoconico,N+NA:ms-+;RA1SUOCR
+agoraio,N:ms-+;RA1SUOCF
+conocchia,N:fs-+;RA1SUOCF
+corda,N:fs-+;RA1SUOCF
+cordame,N:ms-+;RA1SUOCF
+cordicella,N:fs-+;RA1SUOCF
+ditale,N:ms:+;RA1SUOCF
+fusaiola,N:fs-+;RA1SUOCF
+fusello,N:ms-+;RA1SUOCF
+fuseruola,N:fs-+;RA1SUOCF
+fuseruola a superficie baccellata,N+NPNA:fs-+;RA1SUOCF
+fuseruola a superficie liscia,N+NPNA:fs-+;RA1SUOCF
+fuseruola a superficie sfaccettata,N+NPNA:fs-+;RA1SUOCF
+fuseruola a superficie strigliata,N+NPNA:fs-+;RA1SUOCF
+fuseruola biconica,N+NA:fs-+;RA1SUOCF
+fuseruola biconvessa,N+NA:fs-+;RA1SUOCF
+fuseruola bitroncoconica,N+NA:fs-+;RA1SUOCF
+fuseruola cilindrica,N+NA:fs-+;RA1SUOCF
+fuseruola conica,N+NA:fs-+;RA1SUOCF
+fuseruola discoidale,N+NA:fs-+;RA1SUOCF
+fuseruola lenticolare,N+NA:fs-+;RA1SUOCF
+fuseruola sferica,N+NA:fs-+;RA1SUOCF
+fuseruola troncoconica,N+NA:fs-+;RA1SUOCF
+fuso,N:ms-+;RA1SUOCF
+matassa,N:fs-+;RA1SUOCF
+rocchetto,N:ms-+;RA1SUOCF
+telaio,N:ms-+;RA1SUOCF
+ago da cucito,N+NPN:ms-+;RA1SUOCF
+ago da lana,N+NPN:ms-+;RA1SUOCF
+anello,N:ms-+;RA1SUOFE
+anello apicale,N+NA:ms-+;RA1SUOFE
+anello da presa,N+NPN:ms-+;RA1SUOFE
+anello da sospensione,N+NPN:ms-+;RA1SUOFE
+anello distanziatore,N+NA:ms-+;RA1SUOFE
+anello reggispiedi,N+NN:ms-+;RA1SUOFE
+appiccagnolo,N:ms-+;RA1SUOFE
+applique,N:fs--;RA1SUOFE
+applique a pomello,N+NPN:fs--;RA1SUOFE
+applique a protome bovina,N+NPNA:fs--;RA1SUOFE
+applique con anello di sospensione,N+NPNPN:fs--;RA1SUOFE
+applique con presa ad anello,N+NPNPN:fs--;RA1SUOFE
+applique semilunata,N+NA:fs--;RA1SUOFE
+arpione,N:ms-+;RA1SUOFE
+bandella,N:fs-+;RA1SUOFE
+battacchio,N:ms-+;RA1SUOFE
+borchia,N:fs-+;RA1SUOFE
+catena,N:fs-+;RA1SUOFE
+catena portaspada,N+NN:fs-+;RA1SUOFE
+catena con anelli punzonati,N+NPNA:fs-+;RA1SUOFE
+catena con maglie ad 8,N+NPNPA:fs-+;RA1SUOFE
+catena con maglie ad otto,N+NPNPA:fs-+;RA1SUOFE
+cerniera,N:fs-+;RA1SUOFE
+chiave,N:fs-+;RA1SUOFE
+chiave da mobilio,N+N:fs-+;RA1SUOFE
+chiave templare,N+NA:fs-+;RA1SUOFE
+chiave ad anello,N+NPN:fs-+;RA1SUOFE
+chiave bernarda,N+NA:fs-+;RA1SUOFE
+chiave con maniglia,N+NPN:fs-+;RA1SUOFE
+chiave gotica,N+NA:fs-+;RA1SUOFE
+chiave normanna,N+NA:fs-+;RA1SUOFE
+chiodo,N:ms-+;RA1SUOFE
+chiodo per caligae,N+NPN:ms-+;RA1SUOFE
+chiodo a forma piramidata,N+NPNA:ms-+;RA1SUOFE
+chiodo a T,N+NPN:ms-+;RA1SUOFE
+chiodo a testa schiacciata,N+NPNA:ms-+;RA1SUOFE
+chiodo a testa conica,N+NPNA:ms-+;RA1SUOFE
+chiodo a testa piramidale,N+NPNA:ms-+;RA1SUOFE
+chiodo doppio,N+NA:ms-+;RA1SUOFE
+disco,N:ms-+;RA1SUOFE
+distanziatore,N:ms-+;RA1SUOFE
+lamina,N:fs-+;RA1SUOFE
+lamina di rivestimento,N+NPN:fs-+;RA1SUOFE
+lamina votiva,N+NA:fs-+;RA1SUOFE
+lamina antropomorfa,N+NA:fs-+;RA1SUOFE
+lucchetto,N:ms-+;RA1SUOFE
+maniglia,N:fs-+;RA1SUOFE
+menisco,N:ms-+;RA1SUOFE
+molla,N:fs-+;RA1SUOFE
+nottolino,N:ms-+;RA1SUOFE
+palla,N:fs-+;RA1SUOFE
+placca,N:fs-+;RA1SUOFE
+placca di rivestimento,N+NPN:fs-+;RA1SUOFE
+pomello,N:ms-+;RA1SUOFE
+ribattino,N:ms-+;RA1SUOFE
+rondella,N:fs-+;RA1SUOFE
+rotella,N:fs-+;RA1SUOFE
+saltaleone,N:ms-+;RA1SUOFE
+serratura,N:fs-+;RA1SUOFE
+serratura ad ascia,N+NPN:fs-+;RA1SUOFE
+serratura gotica,N+NA:fs-+;RA1SUOFE
+serratura verticale a pinna,N+NAPN:fs-+;RA1SUOFE
+boncinello,N:ms-+;RA1SUOFE
+sfera,N:fs-+;RA1SUOFE
+sfera con asse,N+NPN:fs-+;RA1SUOFE
+sfera forata,N+NA:fs-+;RA1SUOFE
+tabula ansata,NA:fs-+;RA1SUOFE
+targa,N:fs-+;RA1SUOFE
+uncino,N:ms-+;RA1SUOFE
+vite,N:fs-+;RA1SUOFE
+incudine,N:fs-+;RA1SUOFF
+mantice,N:ms-+;RA1SUOFF
+molla,N:fs-+;RA1SUOFF
+molla da fuoco,N+NPN:fs-+;RA1SUOFF
+paletta,N:fs-+;RA1SUOFF
+paletta da fonditore,N+NPN:fs-+;RA1SUOFF
+astragalo,N:ms-+;RA1SUOGG
+bambola,N:fs-+;RA1SUOGG
+bambola snodabile,N+NA:fs-+;RA1SUOGG
+biglia,N:fs-+;RA1SUOGG
+dado,N:ms-+;RA1SUOGG
+dado da gioco,N+NPN:ms-+;RA1SUOGG
+fritillus,N:ms-+;RA1SUOGG
+giocattolo,N:ms-+;RA1SUOGG
+pedina,N:fs-+;RA1SUOGG
+pedina da gioco,N+NPN:fs-+;RA1SUOGG
+ruota,N:fs-+;RA1SUOGG
+ruota giocattolo,N+NN:fs-+;RA1SUOGG
+segnapunti,N:ms-+;RA1SUOGG
+senet,N:ms--;RA1SUOGG
+tabula lusoria,N+NA:ms-+;RA1SUOGG
+tavoletta,N:fs-+;RA1SUOGG
+tavoletta da gioco,N+NPN:fs-+;RA1SUOGG
+trottola,N:fs-+;RA1SUOGG
+tavoletta per cosmetici,N+NPN:fs-+;RA1SUOIT
+acus discriminalis,NA:ms-+;RA1SUOIT
+auriscalpium,N:ms-+;RA1SUOIT
+fermaglio,N:ms-+;RA1SUOIT
+fermaglio per capelli,N+NPN:ms-+;RA1SUOIT
+nettaorecchie,N:ms--;RA1SUOIT
+nettaunghie,N:ms--;RA1SUOIT
+pettine,N:ms-+;RA1SUOIT
+pettine per lino,N+NPN:ms-+;RA1SUOIT
+pinzetta,N:fs-+;RA1SUOIT
+pinzetta da toeletta,N+NPN:fs-+;RA1SUOIT
+rasoio,N:ms-+;RA1SUOIT
+rasoio bitagliente,N+NA:ms-+;RA1SUOIT
+rasoio bitagliente a lama larga,N+NAPNA:ms-+;RA1SUOIT
+rasoio bitagliente a lama stretta,N+NAPNA:ms-+;RA1SUOIT
+rasoio finestrato,N+NA:ms-+;RA1SUOIT
+rasoio finestrato a doppia lama,N+NAPAN:ms-+;RA1SUOIT
+rasoio lunato,N+NA:ms-+;RA1SUOIT
+rasoio lunato con dorso a sperone e ad angolo,N+NAPNPNCONGPN:ms-+;RA1SUOIT
+rasoio lunato con dorso a curva interrotta,N+NAPNPNA:ms-+;RA1SUOIT
+rasoio lunato con dorso a curva continua,N+NAPNPNA:ms-+;RA1SUOIT
+rasoio lunato con dorso a linguetta,N+NAPNPN:ms-+;RA1SUOIT
+scrigno,N:ms-+;RA1SUOIT
+spatola,N:fs-+;RA1SUOIT
+spatola da toeletta,N+NPN:ms-+;RA1SUOIT
+specchio,N:ms-+;RA1SUOIT
+specchio rituale,N+NA:ms-+;RA1SUOIT
+specchio a codolo,N+NPN:ms-+;RA1SUOIT
+strigile,N:ms++;RA1SUOIT
+ago crinale,N+NA:ms-+;RA1SUOIT
+ago crinale con presa a forma di cratere,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale con presa a forma di gemma,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale con presa a forma di capitello,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale corinzio sovrastato da un erote,N+NAAAPDETN:ms-+;RA1SUOIT
+ago crinale con presa a forma di uccello,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale con presa a forma di piramide esagonale,N+NAPNPNPNA:ms-+;RA1SUOIT
+ago crinale con presa a bozzolo,N+NAPNPN:ms-+;RA1SUOIT
+ago crinale con presa raffigurante Venere,N+NAPNAN:ms-+;RA1SUOIT
+ago crinale con presa a forma di ghianda,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale con presa a forma di mano,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale con presa a forma di pigna,N+NAPNPNPN:ms-+;RA1SUOIT
+ago crinale con presa a forma di busto femminile,N+NAPNPNPNA:ms-+;RA1SUOIT
+ago crinale con presa a goccia piena,N+NAPNPNA:ms-+;RA1SUOIT
+ago crinale con presa a testa cilindrica,N+NAPNPNA:ms-+;RA1SUOIT
+candelabro,N:ms-+;RA1SUOIL
+candeliere,N:ms-+;RA1SUOIL
+fermastoppino,N:ms-+;RA1SUOIL
+lampada,N:fs-+;RA1SUOIL
+ansa a bastoncello,NPN:fs-+;RA1SUOIL
+ansa a bastoncello crestato,NPNA:fs-+;RA1SUOIL
+ansa a bastoncello ritorto,NPNA:fs-+;RA1SUOIL
+ansa a bastoncello sopraelevato,NPNA:fs-+;RA1SUOIL
+ansa a capocchia bilaterale,NPNA:fs-+;RA1SUOIL
+ansa a coda di rondine,NPNPN:fs-+;RA1SUOIL
+ansa a doppio anello,NPAN:fs-+;RA1SUOIL
+ansa a doppio bastoncello,NPAN:fs-+;RA1SUOIL
+ansa a ferro di cavallo,NPNPN:fs-+;RA1SUOIL
+ansa a flabello,NPN:fs-+;RA1SUOIL
+ansa a gomito,NPN:fs-+;RA1SUOIL
+ansa a gomito rovescio,NPNA:fs-+;RA1SUOIL
+ansa a listello,NPN:fs-+;RA1SUOIL
+ansa a listello forato,NPNA:fs-+;RA1SUOIL
+ansa a listello orizzontale,NPNA:fs-+;RA1SUOIL
+ansa a listello verticale,NPNA:fs-+;RA1SUOIL
+ansa a maniglia,NPN:fs-+;RA1SUOIL
+ansa a maniglia a pseudotortiglione,NPNPN:fs-+;RA1SUOIL
+ansa a maniglia a tortiglione,NPNPN:fs-+;RA1SUOIL
+ansa a maniglia bifora,NPNA:fs-+;RA1SUOIL
+ansa a maniglia con apici a corna di lumaca,NPNPNPNPN:fs-+;RA1SUOIL
+ansa a maniglia con apici ingrossati,NPNPNA:fs-+;RA1SUOIL
+ansa a maniglia con appendice a punte divaricate,NPNPNPNA:fs-+;RA1SUOIL
+ansa a maniglia con appendice triangolare,NPNPNA:fs-+;RA1SUOIL
+ansa a maniglia con attacco a piastra,NPNPNPN:fs-+;RA1SUOIL
+ansa a maniglia con bottone triangolare,NPNPNA:fs-+;RA1SUOIL
+ansa a maniglia con decorazione a tacche orizzontali,NPNPNPNA:fs-+;RA1SUOIL
+ansa a maniglia setto mediano,NPNNA:fs-+;RA1SUOIL
+ansa a maniglia con sopraelevazione triangolare,NPNPNA:fs-+;RA1SUOIL
+ansa a maniglia girevole,NPNA:fs-+;RA1SUOIL
+ansa a maniglia girevole con attacco a piastra,NPNAPNPN:fs-+;RA1SUOIL
+ansa a maniglia mobile,NPNA:fs-+;RA1SUOIL
+ansa a maniglia quadrangolare,NPNA:fs-+;RA1SUOIL
+ansa a maniglia rettangolare,NPNA:fs-+;RA1SUOIL
+ansa a maniglia semicircolare a bastoncello,NPNANP:fs-+;RA1SUOIL
+ansa a maniglia semicircolare a nastro,NPNAPN:fs-+;RA1SUOIL
+ansa a maniglia triangolare,NPNA:fs-+;RA1SUOIL
+ansa a margini rilevati,NPNA:fs-+;RA1SUOIL
+ansa a nastro,NPN:fs-+;RA1SUOIL
+ansa a nastro con apici revoluti,NPNPNA:fs-+;RA1SUOIL
+ansa a nastro con apici rilevati a cornetti,NPNPNAPN:fs-+;RA1SUOIL
+ansa a nastro con apofisi,NPNPN:fs-+;RA1SUOIL
+ansa a nastro con appendici a lobi,NPNPNPN:fs-+;RA1SUOIL
+ansa a nastro con breve sopraelevazione,NPNPAN:fs-+;RA1SUOIL
+ansa a nastro con margini appena rilevati,NPNPNAVVA:fs-+;RA1SUOIL
+ansa a nastro con margini rilevati,NPNPNA:fs-+;RA1SUOIL
+ansa a nastro con sopraelevazione a barca solare,NPNPNPNA:fs-+;RA1SUOIL
+ansa a nastro con sopraelevazione a flabello,NPNPNPN:fs-+;RA1SUOIL
+ansa a nastro con sopraelevazione a linguetta,NPNPNPN:fs-+;RA1SUOIL
+ansa a nastro con sopraelevazione cilindrico-retta,
+ansa a nastro con sopraelevazione cornuta,NPNPNA:fs-+;RA1SUOIL
+ansa a nastro con sopraelevazione ornitomorfa,NPNPNA:fs-+;RA1SUOIL
+ansa a nastro con terminazione a bottone,NPNPNPN:fs-+;RA1SUOIL
+ansa a nastro con terminazione a tre bottoni,NPNPNPAN:fs-+;RA1SUOIL
+ansa a nastro con terminazione a 3 bottoni,NPNPNPAN:fs-+;RA1SUOIL
+ansa a nastro forato,NPNA:fs-+;RA1SUOIL
+ansa a nastro forato con lobi sopraelevati,NPNAPNA:fs-+;RA1SUOIL
+ansa a nastro forato con sopraelevazione a punte,NPNAPNPN:fs-+;RA1SUOIL
+ansa a nastro ingrossato,NPNA:fs-+;RA1SUOIL
+ansa a nastro scanalato,NPNA:fs-+;RA1SUOIL
+ansa a nastro verticale,NPNA:fs-+;RA1SUOIL
+ansa a nastro verticale con apofisi,NPNAPN:fs-+;RA1SUOIL
+ansa a presa,NPN:fs-+;RA1SUOIL
+ansa a protome,NPN:fs-+;RA1SUOIL
+ansa a protome silenica,NPNA:fs-+;RA1SUOIL
+ansa a protome zoomorfa,NPNA:fs-+;RA1SUOIL
+ansa a pseudotortiglione,NPN:fs-+;RA1SUOIL
+ansa a rocchetto,NPN:fs-+;RA1SUOIL
+ansa a rocchetto forato,NPNA:fs-+;RA1SUOIL
+ansa a S contrapposte,NPNA:fs-+;RA1SUOIL
+ansa a sopraelevezione cornuta,NPNA:fs-+;RA1SUOIL
+ansa a tortiglione,NPN:fs-+;RA1SUOIL
+ansa a X,NPN:fs-+;RA1SUOIL
+ansa ad anello,NPN:fs-+;RA1SUOIL
+ansa ad anello sopraelevato,NPNA:fs-+;RA1SUOIL
+ansa ad apici revoluti,NPNA:fs-+;RA1SUOIL
+ansa ad ascia,NPN:fs-+;RA1SUOIL
+ansa ad orecchia,NPN:fs-+;RA1SUOIL
+ansa apicata,NA:fs-+;RA1SUOIL
+ansa bifida,NA:fs-+;RA1SUOIL
+ansa canaliculata,NA:fs-+;RA1SUOIL
+ansa cilindrico-retta,NA:fs-+;RA1SUOIL
+ansa complanare,NA:fs-+;RA1SUOIL
+ansa con apofisi,NPN:fs-+;RA1SUOIL
+ansa con appendice a bottone,NPNPN:fs-+;RA1SUOIL
+ansa con cornetti,NPN:fs-+;RA1SUOIL
+ansa con sopraelevazione,NPN:fs-+;RA1SUOIL
+ansa con sopraelevazione a corna di lumaca,NPNPNPN:fs-+;RA1SUOIL
+ansa con sopraelevazione a corna tronche,NPNPNA:fs-+;RA1SUOIL
+ansa con sopraelevazione a flabello,NPNPN:fs-+;RA1SUOIL
+ansa con sopraelevazione a linguetta rettangolare,NPNPNA:fs-+;RA1SUOIL
+ansa con sopraelevazione a protome ornitomorfa,NPNPNA:fs-+;RA1SUOIL
+ansa con sopraelevazione ad ascia,NPNPN:fs-+;RA1SUOIL
+ansa con sopraelevazione cilindrico-retta,NPNA:fs-+;RA1SUOIL
+ansa con sopraelevazione cornuta,NPNA:fs-+;RA1SUOIL
+ansa con sopraelevazione nastriforme,NPNA:fs-+;RA1SUOIL
+ansa con sopraelevazione zoomorfa,NPNA:fs-+;RA1SUOIL
+ansa cornuta,NA:fs-+;RA1SUOIL
+ansa cornuta a manubrio,NAPN:fs-+;RA1SUOIL
+ansa costolata con sopraelevazione,NAPN:fs-+;RA1SUOIL
+ansa doppia,NA:fs-+;RA1SUOIL
+ansa eretta,NA:fs-+;RA1SUOIL
+ansa figurata,NA:fs-+;RA1SUOIL
+anse gemine,NA:fp--;RA1SUOIL
+anse incrociate,NA:fs-+;RA1SUOIL
+ansa insellata,NA:fs-+;RA1SUOIL
+ansa interna,NA:fs-+;RA1SUOIL
+ansa liscia,NA:fs-+;RA1SUOIL
+ansa lunata,NA:fs-+;RA1SUOIL
+ansa mobile,NA:fs-+;RA1SUOIL
+ansa obliqua,NA:fs-+;RA1SUOIL
+ansa orizzontale,NA:fs-+;RA1SUOIL
+ansa orizzontale a maniglia,NAPN:fs-+;RA1SUOIL
+ansa orizzontale bifora,NAA:fs-+;RA1SUOIL
+ansa orizzontale semicircolare a ponticello,NAAPN:fs-+;RA1SUOIL
+ansa orizzontale semicircolare con piattello,NAAPN:fs-+;RA1SUOIL
+ansa orizzontale triangolare,NAA:fs-+;RA1SUOIL
+ansa orizzontale ad anello,NAPN:fs-+;RA1SUOIL
+ansa pervia,NA:fs-+;RA1SUOIL
+ansa plastica,NA:fs-+;RA1SUOIL
+ansa quadrangolare,NA:fs-+;RA1SUOIL
+ansa rastremata,NA:fs-+;RA1SUOIL
+ansa semicircolare a bastoncello,NAPN:fs-+;RA1SUOIL
+ansa semicircolare a ponticello,NAPN:fs-+;RA1SUOIL
+ansa semicircolare con piattello,NAPN:fs-+;RA1SUOIL
+ansa semilunata,NA:fs-+;RA1SUOIL
+ansa sopraelevata,NA:fs-+;RA1SUOIL
+ansa sopraelevata a capocchia bilaterale,NAPNA:fs-+;RA1SUOIL
+ansa sopraelevata a protome ornitomorfa,NAPNA:fs-+;RA1SUOIL
+ansa sopraelevata con apofisi,NAPN:fs-+;RA1SUOIL
+ansa sopraelevata con bugnaNAPN:fs-+;RA1SUOIL
+ansa sormontante,NA:fs-+;RA1SUOIL
+ansa tortile,NA:fs-+;RA1SUOIL
+ansa triangolare,NA:fs-+;RA1SUOIL
+ansa tubolare,NA:fs-+;RA1SUOIL
+ansa tubolare a margini rilevati,NAPNA:fs-+;RA1SUOIL
+ansa tubolare con appendici a cornetti,NAPNPN:fs-+;RA1SUOIL
+ansa tubolare insellata,NAA:fs-+;RA1SUOIL
+ansa tubolare orizzontale,NAA:fs-+;RA1SUOIL
+ansa verticale,NA:fs-+;RA1SUOIL
+ansa verticale a bastoncello,NAPN:fs-+;RA1SUOIL
+ansa verticale a listello,NAPN:fs-+;RA1SUOIL
+ansa verticale a nastro,NAPN:fs-+;RA1SUOIL
+ansa verticale a piattello,NAPN:fs-+;RA1SUOIL
+ansa verticale a pilastrino,NAPN:fs-+;RA1SUOIL
+ansa verticale a pseudotortiglione,NAPN:fs-+;RA1SUOIL
+ansa verticale a tortiglione,NAPN:fs-+;RA1SUOIL
+ansa verticale ad anello,NAPN:fs-+;RA1SUOIL
+ansa verticale ad anello ispessito,NAPNA:fs-+;RA1SUOIL
+ansa verticale bifora,NAA:fs-+;RA1SUOIL
+ansa verticale bifora a pilastrini,NAAPN:fs-+;RA1SUOIL
+ansa verticale canaliculata,NAA:fs-+;RA1SUOIL
+ansa verticale con apofisi,NAPN:fs-+;RA1SUOIL
+ansa verticale con sopraelevazione,NAPN:fs-+;RA1SUOIL
+ansa verticale cornuta,NAA:fs-+;RA1SUOIL
+ansa verticale costolata,NAA:fs-+;RA1SUOIL
+ansa verticale crestata,NAA:fs-+;RA1SUOIL
+ansa verticale insellata,NAA:fs-+;RA1SUOIL
+lampada ad olio,N+NPN:fs-+;RA1SUOIL
+lampada a sospensione con anse,N+NPNPN:fs-+;RA1SUOIL
+lampada conica,N+NA:fs-+;RA1SUOIL
+lampada imbutiforme,N+NA:fs-+;RA1SUOIL
+lanterna,N:fs-+;RA1SUOIL
+lucerna,N:fs-+;RA1SUOIL
+lucerna a barchetta,N+NPN:fs-+;RA1SUOIL
+lucerna a becco arrotondato,N+NPNA:fs-+;RA1SUOIL
+lucerna a becco cuoriforme,N+NPNA:fs-+;RA1SUOIL
+lucerna a becco espanso,N+NPNA:fs-+;RA1SUOIL
+lucerna a becco ogivale,N+NPNA:fs-+;RA1SUOIL
+lucerna a becco rotondo,N+NPNA:fs-+;RA1SUOIL
+lucerna a becco tondo,N+NPNA:fs-+;RA1SUOIL
+lucerna a bugia,N+NPN:fs-+;RA1SUOIL
+lucerna a calamaio,N+NPN:fs-+;RA1SUOIL
+lucerna a canale,N+NPN:fs-+;RA1SUOIL
+lucerna a canale aperto,N+NPNA:fs-+;RA1SUOIL
+lucerna a canale chiuso,N+NPNA:fs-+;RA1SUOIL
+lucerna a conchiglia,N+NPN:fs-+;RA1SUOIL
+lucerna a corpo aperto,N+NPNA:fs-+;RA1SUOIL
+lucerna a corpo aperto bilicne,N+NPNAA:fs-+;RA1SUOIL
+lucerna a corpo cilindrico,N+NPNA:fs-+;RA1SUOIL
+lucerna a corpo globulare,N+NPNA:fs-+;RA1SUOIL
+lucerna a corpo globulare schiacciato,N+NPNAA:fs-+;RA1SUOIL
+lucerna a corpo troncoconico,N+NPNA:fs-+;RA1SUOIL
+lucerna a cucchiaio,N+NPN:fs-+;RA1SUOIL
+lucerna a disco,N+NPN:fs-+;RA1SUOIL
+lucerna a due protomi di toro,N+NPANPN:fs-+;RA1SUOIL
+lucerna a 2 protomi di toro,N+NPANPN:fs-+;RA1SUOIL
+lucerna a navicella,N+NPN:fs-+;RA1SUOIL
+lucerna a pigna,N+NPN:fs-+;RA1SUOIL
+lucerna a prese laterali,N+NPNA:fs-+;RA1SUOIL
+lucerna a semivolute,N+NPN:fs-+;RA1SUOIL
+lucerna a serbatoio biconico,N+NPNA:fs-+;RA1SUOIL
+lucerna a serbatoio cilindrico,N+NPNA:fs-+;RA1SUOIL
+lucerna a serbatoio troncoconico,N+NPNA:fs-+;RA1SUOIL
+lucerna a tazzina,N+NPN:fs-+;RA1SUOIL
+lucerna a vasca aperta,N+NPNA:fs-+;RA1SUOIL
+lucerna a volute,N+NPN:fs-+;RA1SUOIL
+lucerna a volute doppie,N+NPNA:fs-+;RA1SUOIL
+lucerna ad alette laterali,N+NPNA:fs-+;RA1SUOIL
+lucerna bilicne,N+NA:fs-+;RA1SUOIL
+lucerna bilicne a conchiglia,N+NAPN:fs-+;RA1SUOIL
+lucerna con becco ad ancora,N+NPNPN:fs-+;RA1SUOIL
+lucerna con becco a incudine,N+NPNPN:fs-+;RA1SUOIL
+lucerna con becco allungato,N+NPNA:fs-+;RA1SUOIL
+lucerna con presa a lingua,N+NPNPN:fs-+;RA1SUOIL
+lucerna monolicne,N+NA:fs-+;RA1SUOIL
+lucerna pensile,N+NA:fs-+;RA1SUOIL
+lucerna plastica,N+NA:fs-+;RA1SUOIL
+lucerna polilicne,N+NA:fs-+;RA1SUOIL
+lucerna troncoconica,N+NA:fs-+;RA1SUOIL
+torciere,N:ms-+;RA1SUOIL
+ancora,N:fs-+;RA1SUOIM
+ceppo,N:ms-+;RA1SUOIM
+remo,N:ms-+;RA1SUOIM
+remo direzionale,N+NA:ms-+;RA1SUOIM
+timone,N:ms-+;RA1SUOIM
+amigdala,N:fs-+;RA1SUOIL
+becco,N:ms-+;RA1SUOIL
+bifacciale,N:ms-+;RA1SUOIL
+bifacciale piatto,N+NA:ms-+;RA1SUOIL
+bifacciale piatto triangolare,N+NAA:ms-+;RA1SUOIL
+bifacciale piatto triangolare allungato,N+NAAA:ms-+;RA1SUOIL
+bifacciale piatto subtriangolare,N+NAA:ms-+;RA1SUOIL
+bifacciale piatto cordiforme,N+NAA:ms-+;RA1SUOIL
+bifacciale piatto cordiforme allungato,N+NAAA:ms-+;RA1SUOIL
+bifacciale piatto subcondiforme,N+NAA:ms-+;RA1SUOIL
+bifacciale piatto ovalare,N+NAA:ms-+;RA1SUOIL
+bifacciale piatto a mandorla,N+NAPN:ms-+;RA1SUOIL
+bifacciale piatto discoide,N+NAA:ms-+;RA1SUOIL
+bifacciale piatto naviforme,N+NAA:ms-+;RA1SUOIL
+bifacciale spesso,N+NA:ms-+;RA1SUOIL
+bifacciale spesso a cuneo,N+NAPN:ms-+;RA1SUOIL
+bifacciale spesso amigdaloide,N+NAA:ms-+;RA1SUOIL
+bifacciale spesso lageniforme,N+NAA:ms-+;RA1SUOIL
+bifacciale spesso lanceolato,N+NAA:ms-+;RA1SUOIL
+bifacciale spesso micocchiano,N+NAA:ms-+;RA1SUOIL
+bifacciale ad estremità sbiecata,N+NPNA:ms-+;RA1SUOIL
+bifracciale parziale,N+NA:fs-+;RA1SUOIL
+bifacciale misto,N+NA:ms-+;RA1SUOIL
+bifacciale nucleiforme,N+NA:ms-+;RA1SUOIL
+bulino,N:ms-+;RA1SUOIL
+bulino semplice ad uno stacco,N+NAPAN:ms-+;RA1SUOIL
+bulino semplice a 1 stacco,N+NAPAN:ms-+;RA1SUOIL
+bulino semplice a due stacchi laterali,N+NAPANA:ms-+;RA1SUOIL
+bulino semplice a 2 stacchi laterali,N+NAPANA:ms-+;RA1SUOIL
+bulino semplice a due stacchi, laterale e trasversale,N+NAPANACONGA:ms-+;RA1SUOIL
+bulino semplice a 2 stacchi, laterale e trasversale,N+NAPANACONGA:ms-+;RA1SUOIL
+bulino semplice con ritocco di arresto,N+NAPNPN:ms-+;RA1SUOIL
+bulino su frattura,N+NPN:ms-+;RA1SUOIL
+bulino su ritocco trasversale,N+NPNA:ms-+;RA1SUOIL
+bulino su ritocco laterale a stacco laterale,N+NPNAPNA:ms-+;RA1SUOIL
+bulino su ritocco laterale a stacco trasversale,N+NPNAPNA:ms-+;RA1SUOIL
+bulino busqué,N+NA:ms-+;RA1SUOIL
+bulino di Noailles,N+NPN:ms-+;RA1SUOIL
+bulino a becco di pappagallo,N+NPNPN:ms-+;RA1SUOIL
+bulino di Ripabianca,N+NPN:ms-+;RA1SUOIL
+chopper,N:ms-+;RA1SUOIL
+chopper laterale,N+NA:ms-+;RA1SUOIL
+chopper distale,N+NA:ms-+;RA1SUOIL
+chopper doppio,N+NA:ms-+;RA1SUOIL
+chopper a punta,N+NPN:ms-+;RA1SUOIL
+chopping tool,AN:ms-+;RA1SUOIL
+foliato,A:ms++;RA1SUOIL
+foliato a base rettilinea,N+NPNA:ms++;RA1SUOIL
+foliato bifacciale,N+NA:ms++;RA1SUOIL
+freccia foliata,N+NA:fs-+;RA1SUOIL
+freccia peduncolata,N+NA:fs-+;RA1SUOIL
+freccia triangolare,N+NA:fs-+;RA1SUOIL
+geometrico,N:ms-+;RA1SUOIL
+geometrico a segmento di cerchio,N+NPNPN:ms-+;RA1SUOIL
+geometrico a segmento trapezoidale,N+NPNA:ms-+;RA1SUOIL
+geometrico a trapezio isoscele,N+NPNA:ms-+;RA1SUOIL
+geometrico a trapezio rettangolo,N+NPNA:ms-+;RA1SUOIL
+geometrico a trapezio scaleno,N+NPNA:ms-+;RA1SUOIL
+geometrico a triangolo isoscele,N+NPNA:ms-+;RA1SUOIL
+geometrico a triangolo scaleno,N+NPNA:ms-+;RA1SUOIL
+geometrico rettangolare,N+NA:ms-+;RA1SUOIL
+geometrico semilunato,N+NA:ms-+;RA1SUOIL
+grattatoio,N:ms-+;RA1SUOIL
+grattatoio a intaccature,N+NPN:ms-+;RA1SUOIL
+grattatoio a muso,N+NPN:ms-+;RA1SUOIL
+grattatoio carenato,N+NA:ms-+;RA1SUOIL
+grattatoio carenato a muso,N+NAPN:ms-+;RA1SUOIL
+grattatoio denticolato,N+NA:ms-+;RA1SUOIL
+grattatoio frontale,N+NA:ms-+;RA1SUOIL
+grattotoio frontale lungo a ritocco laterale,N+NAAPNA:ms-+;RA1SUOIL
+grattatoio ogivale,N+NA:ms-+;RA1SUOIL
+grattatoio su lama,N+NPN:ms-+;RA1SUOIL
+grattatoio su scheggia,N+NPN:ms-+;RA1SUOIL
+grattatoio tettiforme,N+NA:ms-+;RA1SUOIL
+hachereau,N:ms-+;RA1SUOIL
+lama,N:fs-+;RA1SUOIL
+lama a cran,N+NPN:fs-+;RA1SUOIL
+lama a dorso,N+NPN:fs-+;RA1SUOIL
+lama a dorso e troncatura normale,N+NPNCONGNA:fs-+;RA1SUOIL
+lama a dorso marginale,N+NPNA:fs-+;RA1SUOIL
+lama bitagliente,N+NA:fs-+;RA1SUOIL
+lama su scheggia,N+NPN:fs-+;RA1SUOIL
+lama-raschiatoio,N:ms-+;
+lama-raschiatoio carenoide,N+NA:ms-+;
+lama-raschiatoio inframarginale,N+NA:ms-+;
+lama-raschiatoio marginale,N+NA:ms-+;
+lama-raschiatoio profondo,N+NA:ms-+;
+microbulino,N:ms-+;RA1SUOIL
+nucleo,N:ms-+;RA1SUOIL
+nucleo a due piani di percussione,N+NPANPN:ms-+;RA1SUOIL
+nucleo a 2 piani di percussione,N+NPANPN:ms-+;RA1SUOIL
+nucleo a lame,N+NPN:ms-+;RA1SUOIL
+nucleo a un piano di percussione,N+NPANPN:ms-+;RA1SUOIL
+nucleo discoidale,N+NA:ms-+;RA1SUOIL
+nucleo informe,N+NA:ms-+;RA1SUOIL
+nucleo Levallois,N+NN:ms-+;RA1SUOIL
+nucleo piramidale,N+NA:ms-+;RA1SUOIL
+nucleo prismatico,N+NA:ms-+;RA1SUOIL
+percussore,N:ms-+;RA1SUOIL
+percussore intermedio,N+NA:ms-+;RA1SUOIL
+punta di freccia,N+NPN:fs-+;RA1SUOIL
+punta a spalla,N+NPN:fs-+;RA1SUOIL
+punta carenoide,N+NA:fs-+;RA1SUOIL
+punta curva,N+NA:fs-+;RA1SUOIL
+punta marginale,N+NA:fs-+;RA1SUOIL
+punta a dorso,N+NPN:fs-+;RA1SUOIL
+punta a dorso marginale,N+NPNA:fs-+;RA1SUOIL
+punta a dorso parziale rettilineo o convesso,N+NPNAACONGA:fs-+;RA1SUOIL
+punta a dorso parziale rettilineo,N+NPNAA:fs-+;RA1SUOIL
+punta a dorso parziale convesso,N+NPNAA:fs-+;RA1SUOIL
+punta a dorso parziale concavo,N+NPNAA:fs-+;RA1SUOIL
+punta a dorso totale,N+NPNA:fs-+;RA1SUOIL
+punta a dorso e cran adiacente,N+NPNCONGNA:fs-+;RA1SUOIL
+punta a dorso e cran opposto,N+NPNCONGNA:fs-+;RA1SUOIL
+punta a dorso e peduncolo,N+NPNCONGN:fs-+;RA1SUOIL
+raschiatoio,N:ms-+;RA1SUOIL
+raschiatoio marginale,N+NA:ms-+;RA1SUOIL
+raschiatoio laterale,N+NA:ms-+;RA1SUOIL
+raschiatoio trasversale,N+NA:ms-+;RA1SUOIL
+raschiatoio latero-trasversale,N+NA:ms-+;RA1SUOIL
+raschiatoio carenoide,N+NA:ms-+;RA1SUOIL
+scaglia,N:fs-+;RA1SUOIL
+scheggia,N:fs-+;RA1SUOIL
+scheggia a ritocco erto,N+NPNA:fs-+;RA1SUOIL
+scheggia marginale,N+NA:fs-+;RA1SUOIL
+scheggia pofondo,
+scheggia levallois,N+NN:fs-+;RA1SUOIL
+scheggia non ritoccata,N+NAVVA:fs-+;RA1SUOIL
+tranchet,N:ms-+;RA1SUOIL
+tranchet campignano,N+NA:ms-+;RA1SUOIL
+troncatura,N:fs-+;RA1SUOIL
+troncatura marginale,N+NA:fs-+;RA1SUOIL
+troncatura normale,N+NA:fs-+;RA1SUOIL
+troncatura obliqua,N+NA:fs-+;RA1SUOIL
+lesina,N:fs-+;RA1SUOLC
+lima,N:fs-+;RA1SUOLL
+brunitoio,N:ms-+;RA1SUOLCE
+lisciatoio,N:ms-+;RA1SUOLCE
+lisciatoio con modello di nuraghe,N+NPNPN:ms-+;RA1SUOLCE
+tornio,N:ms-+;RA1SUOLCE
+modiolus
+terebra,N:fs-+;RA1SUOMC
+trapano,N:ms-+;RA1SUOMC
+bisturi,N:ms-+;RA1SUOMC
+ferrum candens,NA:ms-+;RA1SUOMC
+forceps,N:ms-+;RA1SUOMC
+forfex,N:fs-+;RA1SUOMC
+scalpellus,N:ms-+;RA1SUOMC
+spathomele
+spatola,N:fs-+;RA1SUOMC
+vectis,N:ms-+;RA1SUOMC
+bilancia a braccio mobile,NPNA:fs-+;RA1SUOMI
+clessidra,N:fs-+;RA1SUOMI
+clessidra ad acqua,N+NPN:fs-+;RA1SUOMI
+clessidra a sabbia,N+NPN:fs-+;RA1SUOMI
+compasso,N:ms-+;RA1SUOMI
+cubito,N:ms-+;RA1SUOMI
+decempeda,N:fs-+;RA1SUOMI
+groma,N:fs-+;RA1SUOMI
+livella,N:fs-+;RA1SUOMI
+meridiana,N:fs-+;RA1SUOMI
+orologio solare,NA:ms-+;RA1SUOMI
+orologio solare di tipo orizzontale,NAPNA:ms-+;RA1SUOMI
+orologio solare di tipo verticale,NAPNA:ms-+;RA1SUOMI
+orologio solare mobile,NAA:ms-+;RA1SUOMI
+scandaglio,N:ms-+;RA1SUOMI
+stadera,N:fs-+;RA1SUOMI
+calcofono,N:ms-+;RA1SUOMU
+cembalo,N:ms-+;RA1SUOMU
+corno,N:ms-+;RA1SUOMU
+fischietto,N:ms-+;RA1SUOMU
+flauto,N:ms-+;RA1SUOMU
+lituus,N:ms-+;RA1SUOMU
+tibia,N:fs-+;RA1SUOMU
+tromba,N:fs-+;RA1SUOMU
+tuba,N:fs-+;RA1SUOMU
+calamaio,N:ms-+;RA1SUOSC
+dittico,N:ms-+;RA1SUOSC
+lettera alfabetica applicata,NAA:fs-+;RA1SUOSC
+scalprum,N:ms-+;RA1SUOSC
+tavolozza,N:fs-+;RA1SUOSC
+lisciatoio,N:ms-+;RA1SUOSCP
+ostrakon,N:ms--;RA1SUOSCP
+codice,N:ms-+;RA1SUOSCC
+tabula,N:fs-+;RA1SUOSCC
+sigillo,N:ms-+;RA1SUOSF
+sigillo cilindrico,N+NA:ms-+;RA1SUOSF
+alare,N:ms-+;RA1SUOUD
+alare a mattonella,N+NAN:ms-+;RA1SUOUD
+attizzatoio,N:ms-+;RA1SUOUD
+calefattoio,N:ms-+;RA1SUOUD
+campanello,N:ms-+;RA1SUOUD
+cochlear,N:ms-+;RA1SUOUD
+coltello,N:ms-+;RA1SUOUD
+coltello da sacrificio,N+NPN:ms-+;RA1SUOUD
+coltello da toiletta,N+NPN:ms-+;RA1SUOUD
+coltello a base semplice,N+NPNA:ms-+;RA1SUOUD
+coltello a cannone,N+NPN:ms-+;RA1SUOUD
+coltello a codolo,N+NPN:ms-+;RA1SUOUD
+coltello a dorso,N+NPN:ms-+;RA1SUOUD
+coltello a lama diritta,N+NPNA:ms-+;RA1SUOUD
+coltello a lingua da presa,N+NPNPN:ms-+;RA1SUOUD
+coltello a manico pieno,N+NPNA:ms-+;RA1SUOUD
+coltello a mezzaluna,N+NPN:ms-+;RA1SUOUD
+coltello a scomparsa,N+NPN:ms-+;RA1SUOUD
+coltello a serramanico,N+NPN:ms-+;RA1SUOUD
+coltello con fodero,N+NPN:ms-+;RA1SUOUD
+coltello con manico a giorno,N+NPNPN:ms-+;RA1SUOUD
+coltello con manico ad anello,N+NPNPN:ms-+;RA1SUOUD
+cucchiaio,N:ms-+;RA1SUOUD
+cucchiaio da tavola,N+NPN:ms-+;RA1SUOUD
+cucchiaio con manico diritto,N+NPNA:ms-+;RA1SUOUD
+cucchiaio con manico ad occhiello,N+NPNPN:ms-+;RA1SUOUD
+forbice,N:fs-+;RA1SUOUD
+forbice da pastore,N+NPN:fs-+;RA1SUOUD
+forchetta,N:fs-+;RA1SUOUD
+forcone,N:ms-+;RA1SUOUD
+graffione,N:ms-+;RA1SUOUD
+grattugia,N:fs-+;RA1SUOUD
+ligula,N:fs-+;RA1SUOUD
+macinello,N:ms-+;RA1SUOUD
+mestolo,N:ms-+;RA1SUOUD
+pestello,N:ms-+;RA1SUOUD
+pestello da mortaio,N+NPN:ms-+;RA1SUOUD
+pestello sferico,N+NA:ms-+;RA1SUOUD
+poggiatesta,N:ms-+;RA1SUOUD
+posata,N:fs-+;RA1SUOUD
+scaldamani,N:ms--;RA1SUOUD
+scolatoio,N:ms-+;RA1SUOUD
+sonaglio,N:ms-+;RA1SUOUD
+tagliere,N:ms-+;RA1SUOUD
+tintinnabolo,N:ms-+;RA1SUOUD
+treppiede,N:ms--;RA1SUOUD
+frammento,N:ms-+;RA1TG
+frammento architettonico,N+NA:ms-+;RA1TG
+frammento non identificato,N+NAVVA:ms-+;RA1TG
+oggetto non identificato,N+NAVVA:ms-+;RA1TG
+scarto,N:ms-+;RA1TG
+scarto di fornace,N+NPN:ms-+;RA1TG
+scarto di fusione,N+NPN:ms-+;RA1TG
+scarto di lavorazione,N+NDPN:ms-+;RA1TG
+scoria,N:fs-+;RA1TG
+sostegno,N:ms-+;RA1TG
+supporto,N:ms-+;RA1TG
+supporto cavo e traforato,N+NACONGA:ms-+;RA1TG

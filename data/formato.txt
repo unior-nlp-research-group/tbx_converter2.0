@@ -1,0 +1,67 @@
+dinos con anse ad anello;N;NPNPN;ms-+;dynos con anse ad anello,déinos con anse ad anello;;; RA1SUOCR;E22
+cinturone;N;;ms-+;;;;RA1ABAC;E22
+
+
+
+
+1. termine
+2. pos: N (noun), A (adjective), ...
+3. pos interni (nel caso di mw) - potrebbe essere vuota se non mw
+4. flessione (4 entries msfp - e + per indicare presenza o meno delle altre forme flesse)
+    1 genere del termine specificato
+    2 numero del termine specificato
+    3 + (il termine specificato è invariate nel genere per l'altro genere non specificato)
+    3 - (il termine specificato varia nel genere per l'altro genere non specificato)
+    4 + (il termine specificato è invariate nel numer per l'altro numero non specificato)
+    4 - (il termine specificato varia nel numero per l'altro numero non specificato)
+    ms-+ -> la forma specificata e masc. sing e invariate per plurale (non femminile)
+    fs-+ -> ...
+    fp-- -> ...
+5. varianti divise da virgola
+6. sinonimi divisi da virgola
+7. descrizione (opzionale)
+8. classificazione tassonomica / lista iperonimi
+9. classe ontologica
+
+
+termEntry id - autogenerata prime due lettere rappresentano il dominio (in input)
+    descripGrp -
+        subjectField - dominio definito in input dall'utente (obbligatorio)
+        definition - 7. (opzionale)
+        date - opzionale
+        <xref type="URI" target= "http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+            -> input (opzionale): target e value (aggiungere Ontology)
+    <langSet xml:lang="it"> -> lang in input
+        ntig (multiword)
+            termGrp
+                <term>dinos con anse ad anello</term>
+                <termNote type="termType">fullForm</termNote> (sempre full form)
+                <termNote type="partOfSpeech">noun</termNote> -> 2. (se presente nel csv)
+                termNote (opzionale anche più di una) - type="partOfSpeech", ...
+                <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
+                    -> appendere 9. all'url sopra
+                    -> aggiungere Class invece di Ontology
+                <termCompList type="lemma">
+                    <termCompGrp>
+                        <termComp>dinos</termComp>
+                        <termNote type="partOfSpeech">noun</termNote> -> 3. 
+                    </termCompGrp>
+                    <termCompGrp>
+                        <termComp>con</termComp>
+                        <termNote type="partOfSpeech">other</termNote> -> 3. 
+                    </termCompGrp>
+                    ...
+                </termCompList>
+                <termNote type="variant01">déinos con anse ad anello</termNote> -> 5.
+                <termNote type="variant02">déinos con anse ad anello</termNote> -> 5.
+                <termNote type="synonym">déinos con anse ad anello</termNote> -> 6.
+                <termNote type="hypernyms01">Contenitori e recipienti</termNote> -> 6.
+
+    langSet - lang y
+        <tig> (single word)
+            <term>cinturone</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">noun</termNote> -> 2. (se presente nel csv)
+        </tig>
+
+

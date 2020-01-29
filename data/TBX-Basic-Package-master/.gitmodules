@@ -1,0 +1,3 @@
+[submodule "TBX-Basic_dialect"]
+	path = TBX-Basic_dialect
+	url = https://github.com/LTAC-Global/TBX-Basic_dialect.git

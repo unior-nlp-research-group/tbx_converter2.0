@@ -1,0 +1,48 @@
+<termEntry id="RA_286">
+  <descripGrp>
+    <descrip type="subjectField">Archaeology</descrip> 
+    <descrip type="definition">Recipiente a larga bocca rotonda, sagomata da un basso orlo verticale 
+      derivato da prototipi bronzei; essendo privo di piede, aveva bisogno di essere collocato su un tripode 
+      o su un sostegno sagomato. Serviva per mescere vino e acqua.</descrip>
+    <xref type="URI" target= "http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+  </descripGrp>
+</termEntry>
+<langSet xml:lang="it">
+  <ntig>
+    <termGrp>
+      <term>dinos con anse ad anello</term>
+      <termNote type="termType">fullForm</termNote>
+      <termNote type="partOfSpeech">noun</termNote>
+      <termNote type="grammaticalGender">masculine</termNote>
+      <termNote type="grammaticalNumber">singular</termNote>
+      <descrip type="reliabilityCode">10</descrip>
+      <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object">CIDOC CRM Class</xref>
+      <termCompList type="lemma">
+        <termCompGrp>
+          <termComp>dinos</termComp>
+          ...
+        </termCompGrp>
+        <termCompGrp>
+          <termComp>con</termComp>
+          ...
+        </termCompGrp>
+        <termCompGrp>
+          <termComp>anse</termComp>
+          ...
+        </termCompGrp>
+        <termCompGrp>
+          <termComp>ad</termComp>
+          ...
+        </termCompGrp>
+        <termCompGrp>
+          <termComp>anello</termComp>
+          ...
+        </termCompGrp>
+      </termCompList>
+      <termNote type="variant01">déinos con anse ad anello</termNote>
+      <termNote type="variant02">déinos con anse ad anello</termNote>
+      <termNote type="hypernyms01">Contenitori e recipienti</termNote>
+      <termNote type="hypernyms02">Strumenti - utensili - oggetti d'uso</termNote>
+    </termGrp>
+  </ntig>
+</langSet>
