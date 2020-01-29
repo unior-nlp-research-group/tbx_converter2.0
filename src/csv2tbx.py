@@ -17,7 +17,7 @@ POS_MAPPING = {
     'VERB': 'verb',
 }
 
-def csv2tbx(lines, lang, subjectField, id_prefix, uri_target=None, uri_name=None):
+def csv2tbx(lines, lang, subjectField, id_prefix, ontology_name=None, ontology_link=None):
 
     parser = etree.XMLParser(remove_blank_text=True)
     root_xml = \
@@ -93,7 +93,8 @@ def csv2tbx(lines, lang, subjectField, id_prefix, uri_target=None, uri_name=None
             # <descrip type="definition">Definition Text</descrip>
             etree.SubElement(descripGrp_struct, "descrip", type="definition").text = field_7_desc
         # <xref type="URI" target= "http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
-        etree.SubElement(descripGrp_struct, "xref", type="URI", target=uri_target).text = '{} {}'.format(uri_name, 'Ontology')                
+        if ontology_name:
+            etree.SubElement(descripGrp_struct, "xref", type="URI", target=ontology_link).text = '{} {}'.format(ontology_name, 'Ontology')                
         # <langSet xml:lang="it">
         langSet_struct = etree.SubElement(body_struct, "langSet") #attrib={'xml:lang':lang}
         attr = langSet_struct.attrib
@@ -124,8 +125,9 @@ def csv2tbx(lines, lang, subjectField, id_prefix, uri_target=None, uri_name=None
             # <termNote type="grammaticalNumber">singular</termNote>
             etree.SubElement(parent_node, 'termNote', type="grammaticalNumber").text = number_full
         # <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
-        uri_target_term = '{}/{}'.format(uri_target, field_9_class)
-        etree.SubElement(parent_node, "xref", type="URI", target=uri_target_term).text = '{} {}'.format(uri_name, 'Class')                
+        if ontology_link and ontology_name:
+            ontology_link_term = '{}/{}'.format(ontology_link, field_9_class)
+            etree.SubElement(parent_node, "xref", type="URI", target=ontology_link_term).text = '{} {}'.format(ontology_name, 'Class')                
 
         if use_ntig:
             # <termCompList type="lemma">
@@ -169,8 +171,8 @@ if __name__ == '__main__':
         lang = 'it',
         subjectField="Archaeology", 
         id_prefix = 'RA',
-        uri_target='http://www.cidoc-crm.org/cidoc-crm', 
-        uri_name='CIDOC CRM'
+        ontology_link='http://www.cidoc-crm.org/cidoc-crm', 
+        ontology_name='CIDOC CRM'
     )
 
     with open("../data/output.tbx", "wb") as f_out:

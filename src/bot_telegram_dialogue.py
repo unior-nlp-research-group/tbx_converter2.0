@@ -109,7 +109,8 @@ def state_CONVERT_ASK_SUBJECT(user, message_obj=None, **kwargs):
 def state_CONVERT_ASK_ID_PREFIX(user, message_obj=None, **kwargs):    
     if message_obj is None:
         kb = [[ux.BUTTON_BACK]]
-        send_message(user, ux.MSG_ASK_ID_PREFIX, kb)
+        subject_upper_2_char = user.get_tmp_variable('SUBJECT').upper()[:2]
+        send_message(user, ux.MSG_ASK_ID_PREFIX.format(subject_upper_2_char), kb)
     else: 
         text_input = message_obj.text
         if text_input:            
@@ -119,14 +120,14 @@ def state_CONVERT_ASK_ID_PREFIX(user, message_obj=None, **kwargs):
                     redirect_to_state(user, state_CONVERT_ASK_SUBJECT)
             else:
                 user.set_tmp_variable('ID_PREFIX', text_input)
-                redirect_to_state(user, state_CONVERT_ASK_URI_TARGET)
+                redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_YES_NO)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)
 
-def state_CONVERT_ASK_URI_TARGET(user, message_obj=None, **kwargs):    
+def state_CONVERT_ASK_ONTOLOGY_YES_NO(user, message_obj=None, **kwargs):    
     if message_obj is None:
-        kb = [[ux.BUTTON_BACK]]
-        send_message(user, ux.MSG_ASK_URI_TARGET, kb)
+        kb = [[ux.BUTTON_YES, ux.BUTTON_NO],[ux.BUTTON_BACK]]
+        send_message(user, ux.MSG_ASK_ONTOLOGY_YES_NO, kb)
     else: 
         text_input = message_obj.text
         if text_input:            
@@ -134,25 +135,47 @@ def state_CONVERT_ASK_URI_TARGET(user, message_obj=None, **kwargs):
             if text_input in utility.flatten(kb):
                 if text_input == ux.BUTTON_BACK:
                     redirect_to_state(user, state_CONVERT_ASK_ID_PREFIX)
+                elif text_input == ux.BUTTON_YES:
+                    redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_NAME)
+                elif text_input == ux.BUTTON_NO:
+                    user.set_tmp_variable('ONTOLOGY_NAME', None)
+                    user.set_tmp_variable('ONTOLOGY_LINK', None)
+                    redirect_to_state(user, state_CONVERT_ASK_DOC)                    
             else:
-                user.set_tmp_variable('URI_TARGET', text_input)
-                redirect_to_state(user, state_CONVERT_ASK_URI_NAME)
+                send_message(user, ux.MSG_WRONG_INPUT)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)
 
-def state_CONVERT_ASK_URI_NAME(user, message_obj=None, **kwargs):    
+def state_CONVERT_ASK_ONTOLOGY_NAME(user, message_obj=None, **kwargs):    
     if message_obj is None:
         kb = [[ux.BUTTON_BACK]]
-        send_message(user, ux.MSG_ASK_URI_NAME, kb)
+        send_message(user, ux.MSG_ASK_ONTOLOGY_NAME, kb)
     else: 
         text_input = message_obj.text
         if text_input:            
             kb = user.get_keyboard()
             if text_input in utility.flatten(kb):
                 if text_input == ux.BUTTON_BACK:
-                    redirect_to_state(user, state_CONVERT_ASK_URI_TARGET)
+                    redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_YES_NO)
             else:
-                user.set_tmp_variable('URI_NAME', text_input)
+                user.set_tmp_variable('ONTOLOGY_NAME', text_input)
+                redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_LINK)
+        else:
+            send_message(user, ux.MSG_WRONG_INPUT)
+
+def state_CONVERT_ASK_ONTOLOGY_LINK(user, message_obj=None, **kwargs):    
+    if message_obj is None:
+        kb = [[ux.BUTTON_BACK]]
+        send_message(user, ux.MSG_ASK_ONTOLOGY_LINK, kb)
+    else: 
+        text_input = message_obj.text
+        if text_input:            
+            kb = user.get_keyboard()
+            if text_input in utility.flatten(kb):
+                if text_input == ux.BUTTON_BACK:
+                    redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_NAME)
+            else:
+                user.set_tmp_variable('ONTOLOGY_LINK', text_input)
                 redirect_to_state(user, state_CONVERT_ASK_DOC)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)
@@ -167,7 +190,11 @@ def state_CONVERT_ASK_DOC(user, message_obj=None, **kwargs):
             kb = user.get_keyboard()
             if text_input in utility.flatten(kb):
                 if text_input == ux.BUTTON_BACK:
-                    redirect_to_state(user, state_CONVERT_ASK_ID_PREFIX)
+                    ontology_enabled = user.get_tmp_variable('ONTOLOGY_NAME') is not None
+                    if ontology_enabled:
+                        redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_LINK)
+                    else:
+                        redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_YES_NO)
             else:
                 send_message(user, ux.MSG_SEND_FILE_NO_TEXT)
         elif message_obj.document:
@@ -329,11 +356,11 @@ def convert_csv_to_tbx(user, file_id, file_name):
         lines = file_text.splitlines()
         tbx_string = csv2tbx.csv2tbx(
             lines = lines,
-            lang = user.tmp_variables['LANG'],
-            subjectField = user.tmp_variables['SUBJECT'], 
-            id_prefix = user.tmp_variables['ID_PREFIX'], 
-            uri_target = user.tmp_variables['URI_TARGET'], 
-            uri_name = user.tmp_variables['URI_NAME'], 
+            lang = user.get_tmp_variable('LANG'),
+            subjectField = user.get_tmp_variable('SUBJECT'), 
+            id_prefix = user.get_tmp_variable('ID_PREFIX'), 
+            ontology_name = user.get_tmp_variable('ONTOLOGY_NAME'),
+            ontology_link = user.get_tmp_variable('ONTOLOGY_LINK')
         )
         
     except csv2tbx.CsvFormatError as e:
@@ -341,6 +368,7 @@ def convert_csv_to_tbx(user, file_id, file_name):
     except Exception as e:
         error_msg = "🤯 Encountered problem to segment file {}. Please contact @kercos."
         send_message(user, error_msg, markdown=False)
+    send_message(user, ux.MSG_FILE_READY, sleep=1)
     send_text_document(user, new_file_name, tbx_string)  
     restart(user)
 
