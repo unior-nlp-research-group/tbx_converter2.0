@@ -21,7 +21,7 @@ MSG_SEND_CSV = (
     "7. definition - OPTIONAL\n"
     "8. hypernyms (comma separated) - OPTIONAL\n"
     "9. ontology class - OPTIONAL\n\n"
-    "*Important*: optional fields can be left empty but make sure there are 8 semicolons per lines."
+    "*Important*: optional fields can be left empty but make sure there are 8 semicolons per line."
 )
 
 MSG_WRONG_EXTENSION = 'File extension not valid: it should end with ".csv"'
@@ -29,7 +29,7 @@ MSG_WRONG_EXTENSION = 'File extension not valid: it should end with ".csv"'
 MSG_WRONG_INPUT = 'Wrong input'
 
 MSG_ASK_LANGUAGE = 'Please insert *langauge* (e.g., en for English)'
-MSG_ASK_SUBJECT = 'Please insert *subject* (e.g., Archeology)'
+MSG_ASK_SUBJECT = 'Please insert *subject* (e.g., Archaeology)'
 MSG_ASK_ID_PREFIX = 'Please insert the *id prefix* (e.g., {})'
 MSG_ASK_ONTOLOGY_YES_NO = 'Do you want to insert an ontology reference?'
 MSG_ASK_ONTOLOGY_LINK = 'Please insert the *ontology link* (e.g., http://www.cidoc-crm.org/cidoc-crm)'
