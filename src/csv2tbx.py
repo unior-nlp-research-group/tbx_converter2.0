@@ -96,7 +96,7 @@ def csv2tbx(lines, lang, subjectField, id_prefix, ontology_name=None, ontology_l
         if ontology_name:
             etree.SubElement(descripGrp_struct, "xref", type="URI", target=ontology_link).text = '{} {}'.format(ontology_name, 'Ontology')                
         # <langSet xml:lang="it">
-        langSet_struct = etree.SubElement(body_struct, "langSet") #attrib={'xml:lang':lang}
+        langSet_struct = etree.SubElement(termEntry_struct, "langSet") #attrib={'xml:lang':lang}
         attr = langSet_struct.attrib
         attr['{http://www.w3.org/XML/1998/namespace}lang'] = lang
         

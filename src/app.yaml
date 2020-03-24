@@ -1,4 +1,5 @@
 # google project id: csv2tbx
+# version: production
 # url: https://csv2tbx.appspot.com
 
 entrypoint: gunicorn -b :$PORT bot_main:app

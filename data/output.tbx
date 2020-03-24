@@ -18,61 +18,61 @@
           <descrip type="subjectField">Archaeology</descrip>
           <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
         </descripGrp>
+        <langSet xml:lang="it">
+          <ntig>
+            <termGrp>
+              <term>dinos con anse ad anello</term>
+              <termNote type="termType">fullForm</termNote>
+              <termNote type="partOfSpeech">noun</termNote>
+              <termNote type="grammaticalGender">masculine</termNote>
+              <termNote type="grammaticalNumber">singular</termNote>
+              <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
+              <termCompList type="lemma">
+                <termCompGrp>
+                  <termComp>dinos</termComp>
+                  <termNote type="partOfSpeech">noun</termNote>
+                </termCompGrp>
+                <termCompGrp>
+                  <termComp>con</termComp>
+                  <termNote type="partOfSpeech">other</termNote>
+                </termCompGrp>
+                <termCompGrp>
+                  <termComp>anse</termComp>
+                  <termNote type="partOfSpeech">noun</termNote>
+                </termCompGrp>
+                <termCompGrp>
+                  <termComp>ad</termComp>
+                  <termNote type="partOfSpeech">other</termNote>
+                </termCompGrp>
+                <termCompGrp>
+                  <termComp>anello</termComp>
+                  <termNote type="partOfSpeech">noun</termNote>
+                </termCompGrp>
+              </termCompList>
+              <termNote type="variant01">dynos con anse ad anello</termNote>
+              <termNote type="variant02">déinos con anse ad anello</termNote>
+              <termNote type="hypernyms01">RA1SUOCR</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
       </termEntry>
-      <langSet xml:lang="it">
-        <ntig>
-          <termGrp>
-            <term>dinos con anse ad anello</term>
-            <termNote type="termType">fullForm</termNote>
-            <termNote type="partOfSpeech">noun</termNote>
-            <termNote type="grammaticalGender">masculine</termNote>
-            <termNote type="grammaticalNumber">singular</termNote>
-            <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
-            <termCompList type="lemma">
-              <termCompGrp>
-                <termComp>dinos</termComp>
-                <termNote type="partOfSpeech">noun</termNote>
-              </termCompGrp>
-              <termCompGrp>
-                <termComp>con</termComp>
-                <termNote type="partOfSpeech">other</termNote>
-              </termCompGrp>
-              <termCompGrp>
-                <termComp>anse</termComp>
-                <termNote type="partOfSpeech">noun</termNote>
-              </termCompGrp>
-              <termCompGrp>
-                <termComp>ad</termComp>
-                <termNote type="partOfSpeech">other</termNote>
-              </termCompGrp>
-              <termCompGrp>
-                <termComp>anello</termComp>
-                <termNote type="partOfSpeech">noun</termNote>
-              </termCompGrp>
-            </termCompList>
-            <termNote type="variant01">dynos con anse ad anello</termNote>
-            <termNote type="variant02">déinos con anse ad anello</termNote>
-            <termNote type="hypernyms01">RA1SUOCR</termNote>
-          </termGrp>
-        </ntig>
-      </langSet>
       <termEntry id="RA_2">
         <descripGrp>
           <descrip type="subjectField">Archaeology</descrip>
           <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
         </descripGrp>
+        <langSet xml:lang="it">
+          <tig>
+            <term>cinturone</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">singular</termNote>
+            <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
+            <termNote type="hypernyms01">RA1ABAC</termNote>
+          </tig>
+        </langSet>
       </termEntry>
-      <langSet xml:lang="it">
-        <tig>
-          <term>cinturone</term>
-          <termNote type="termType">fullForm</termNote>
-          <termNote type="partOfSpeech">noun</termNote>
-          <termNote type="grammaticalGender">masculine</termNote>
-          <termNote type="grammaticalNumber">singular</termNote>
-          <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
-          <termNote type="hypernyms01">RA1ABAC</termNote>
-        </tig>
-      </langSet>
     </body>
   </text>
 </martif>
