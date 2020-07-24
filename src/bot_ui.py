@@ -28,7 +28,7 @@ MSG_WRONG_EXTENSION = 'File extension not valid: it should end with ".csv"'
 
 MSG_WRONG_INPUT = 'Wrong input'
 
-MSG_ASK_LANGUAGE = 'Please insert *langauge* (e.g., en for English)'
+MSG_ASK_LANGUAGE = 'Please insert *language* (e.g., en for English)'
 MSG_ASK_SUBJECT = 'Please insert *subject* (e.g., Archaeology)'
 MSG_ASK_ID_PREFIX = 'Please insert the *id prefix* (e.g., {})'
 MSG_ASK_ONTOLOGY_YES_NO = 'Do you want to insert an ontology reference?'
