@@ -4,7 +4,8 @@
   <martifHeader>
     <fileDesc>
       <sourceDesc>
-        <p>This is a TBX file generated via .... Address any enquiries to ....</p>
+        <p>This is a TBX file generated via .... Address any
+    enquires to ....</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -15,61 +16,96 @@
     <body>
       <termEntry id="RA_1">
         <descripGrp>
-          <descrip type="subjectField">Archaeology</descrip>
+          <descrip type="subjectField">Archeology</descrip>
           <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+          <langSet xml:lang="it">
+            <descrip type="definition">descr_1_it</descrip>
+          </langSet>
+          <langSet xml:lang="en">
+            <descrip type="definition">descr_1_en</descrip>
+          </langSet>
+          <langSet xml:lang="ru">
+            <descrip type="definition">descr_1_ru</descrip>
+          </langSet>
         </descripGrp>
         <langSet xml:lang="it">
-          <ntig>
-            <termGrp>
-              <term>dinos con anse ad anello</term>
-              <termNote type="termType">fullForm</termNote>
-              <termNote type="partOfSpeech">noun</termNote>
-              <termNote type="grammaticalGender">masculine</termNote>
-              <termNote type="grammaticalNumber">singular</termNote>
-              <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
-              <termCompList type="lemma">
-                <termCompGrp>
-                  <termComp>dinos</termComp>
-                  <termNote type="partOfSpeech">noun</termNote>
-                </termCompGrp>
-                <termCompGrp>
-                  <termComp>con</termComp>
-                  <termNote type="partOfSpeech">other</termNote>
-                </termCompGrp>
-                <termCompGrp>
-                  <termComp>anse</termComp>
-                  <termNote type="partOfSpeech">noun</termNote>
-                </termCompGrp>
-                <termCompGrp>
-                  <termComp>ad</termComp>
-                  <termNote type="partOfSpeech">other</termNote>
-                </termCompGrp>
-                <termCompGrp>
-                  <termComp>anello</termComp>
-                  <termNote type="partOfSpeech">noun</termNote>
-                </termCompGrp>
-              </termCompList>
-              <termNote type="variant01">dynos con anse ad anello</termNote>
-              <termNote type="variant02">déinos con anse ad anello</termNote>
-              <termNote type="hypernyms01">RA1SUOCR</termNote>
-            </termGrp>
-          </ntig>
+          <tig>
+            <term>term_1_it</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_1_it</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>term_1_en</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_1_en</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>term_1_ru</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_1_ru</termNote>
+          </tig>
         </langSet>
       </termEntry>
       <termEntry id="RA_2">
         <descripGrp>
-          <descrip type="subjectField">Archaeology</descrip>
+          <descrip type="subjectField">Archeology</descrip>
           <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+          <langSet xml:lang="it">
+            <descrip type="definition">descr_2_it</descrip>
+          </langSet>
+          <langSet xml:lang="ru">
+            <descrip type="definition">descr_2_ru</descrip>
+          </langSet>
         </descripGrp>
         <langSet xml:lang="it">
           <tig>
-            <term>cinturone</term>
+            <term>term_2_it</term>
             <termNote type="termType">fullForm</termNote>
-            <termNote type="partOfSpeech">noun</termNote>
-            <termNote type="grammaticalGender">masculine</termNote>
-            <termNote type="grammaticalNumber">singular</termNote>
-            <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM Class</xref>
-            <termNote type="hypernyms01">RA1ABAC</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_2_it</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>term_2_ru</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_2_ru</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="RA_3">
+        <descripGrp>
+          <descrip type="subjectField">Archeology</descrip>
+          <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+          <langSet xml:lang="it">
+            <descrip type="definition">descr_3_it</descrip>
+          </langSet>
+          <langSet xml:lang="en">
+            <descrip type="definition">descr_3_en</descrip>
+          </langSet>
+        </descripGrp>
+        <langSet xml:lang="it">
+          <tig>
+            <term>term_3_it</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_3_it</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>term_3_en</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="variant00">descr_3_en</termNote>
           </tig>
         </langSet>
       </termEntry>

@@ -1,5 +1,6 @@
 from lxml import etree
 import csv
+import pandas as pd
 
 class CsvFormatError(Exception):
     def __init__(self, message):
@@ -42,24 +43,44 @@ def csv2tbx(lines, lang, subjectField, id_prefix, ontology_name=None, ontology_l
     text_struct = etree.SubElement(root, "text")
     body_struct = etree.SubElement(text_struct, "body")
 
-    csv_reader = csv.reader(lines, delimiter=';')        
-    for n,row in enumerate(csv_reader,1):
-        if len(row) == 2:
-            # assume first field term and second pos and the other empty
-            row.extend(['']*7)
+    csv_reader = pd.read_csv('../data/prova2 glossario tbx.csv', delimiter=';')
+    for n,row in csv_reader.iterrows():
         if len(row) != 9:
             error_msg = "Error in input CSV: line {} has {} fields instead of 9".format(n, len(row))
             raise CsvFormatError(error_msg)
-        row = [x.strip() for x in row]
+       # row = [x.strip() for x in row if type(x) == str]
         field_1_term = row[0]
         field_2_pos_upper = row[1].upper()
-        field_3_mw_pos_upper = row[2].upper()
-        field_4_flex_lower = row[3].lower()
-        field_5_variants = [x.strip() for x in row[4].split(',') if x]
-        field_6_synonyms = [x.strip() for x in row[5].split(',') if x]
-        field_7_desc = row[6]
-        field_8_hyper = [x.strip() for x in row[7].split(',') if x]
-        field_9_class = row[8]
+        if type(row[2]) != float :
+            field_3_mw_pos_upper = row[2].upper()
+        else:
+            field_3_mw_pos_upper = ''
+        if type(row[3]) != float :
+            field_4_flex_lower = row[3].lower()
+        else:
+            field_4_flex_lower = ''
+        if type(row[4]) != float :
+            field_5_variants = [x.strip() for x in row[4].split(',') if type(x) ==
+        str]
+        else:
+            field_5_variants = ''
+        if type(row[5]) != float:
+            field_6_synonyms = [x.strip() for x in row[5].split(',') if type(x) ==
+        str]
+        else:
+            field_6_synonyms = ''
+        if type(row[6]) != float:
+            field_7_desc = row[6]
+        else:
+            field_7_descr = ''
+        if type(row[7]) != float:
+            field_8_hyper = [x.strip() for x in row[7].split(',') if type(x) == str]
+        else:
+            field_8_hyper = ''
+        if type(row[8]) != float:
+            field_9_class = row[8]
+        else:
+            field_9_class = ''
         use_ntig = field_3_mw_pos_upper
 
         pos_full = POS_MAPPING.get(field_2_pos_upper, POS_MAPPING_OTHER)
@@ -83,7 +104,7 @@ def csv2tbx(lines, lang, subjectField, id_prefix, ontology_name=None, ontology_l
         # term is multi word if first field has spaces and third field (interal structure) is present
         use_ntig = ' ' in field_1_term and field_3_mw_pos_upper 
 
-        id_str = "{}_{}".format(id_prefix, n)
+        id_str = "{}_{}".format(id_prefix, n+1)
         # <termEntry id="RA_286">
         termEntry_struct = etree.SubElement(body_struct, "termEntry", id=id_str)
         descripGrp_struct = etree.SubElement(termEntry_struct, "descripGrp")
@@ -163,7 +184,7 @@ def csv2tbx(lines, lang, subjectField, id_prefix, ontology_name=None, ontology_l
     return tbx_string
 
 if __name__ == '__main__':
-    with open('../data/input.csv') as f_in:
+    with open('../data/prova2 glossario tbx.csv') as f_in:
         lines = f_in.readlines()
 
     tbx_string = csv2tbx(
