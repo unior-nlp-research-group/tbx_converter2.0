@@ -26,7 +26,9 @@ MSG_SEND_CSV_MULTI = (
     """*Important*: optional fields can be left empty but make sure there are 8
     semicolons per line.\n"""
     """*Important*: the order of these files has to follow the order of the
-    input languages: """
+    input languages. """
+    """*Important*: because they are used as separator, no semicolon might be
+    used in the descriptions."""
 )
 
 MSG_SEND_CSV = (
@@ -62,6 +64,10 @@ MSG_ASK_ONTOLOGY_NAME = 'Please insert the *ontology name* (e.g., CIDOC CRM)'
 MSG_WARNING_SAME_ID= 'You have already entered this file'
 MSG_SEND_FILE_NO_TEXT = 'Please send me a *file* not a text in the chat.'
 MSG_FILE_READY = 'Your TBX file is ready.'
+
+MSG_WRONG_ISO_CODE = """You entered a wrong ISO Code, please check your language
+code at http://www.lingoes.net/en/translator/langcode.htm"""
+
 
 def wrong_input(text):
     reply = "Invalid input: {}"

@@ -12,6 +12,12 @@ import csv2tbxmultil
 import utility
 from ndb_utils import client_context
 
+
+
+iso_list = ['bh', 'ab', 'mr', 'ln', 'id', 'ps', 'tk', 'ce', 'ha', 'ba', 'os', 'el', 'gn', 'mt', 'ms', 'io', 'tn', 'ug', 'si', 'ff', 'ts', 'iu', 'fy', 'kk', 'be', 'nv', 'sr', 'or', 'rm', 'cv', 'de', 'cy', 'gu', 'pt', 'nd', 'lv', 'ie', 'cu', 'kl', 'et', 'tl', 'wa', 'xh', 'li', 'lb', 'kv', 'zh', 'sm', 'ho', 'qu', 'sn', 'fo', 'fj', 'sw', 'ti', 'kj', 'mi', 'ar', 'ko', 'za', 'aa', 'es', 'ta', 'oc', 'my', 'ja', 'lo', 'ne', 'kw', 'oj', 'eu', 'sa', 'wo', 'co', 'te', 'cs', 'ss', 'dv', 'lu', 'ay', 'bm', 'ga', 'nb', 'fi', 'hy', 'ru', 'af', 'sg', 'so', 'bo', 'nl', 'yo', 'mk', 'vi', 'uk', 'ng', 'da', 'ky', 'zu', 'ca', 'ht', 'ur', 'kr', 'bg', 'no', 'av', 'fr', 'bn', 'ig', 'tr', 'ki', 'om', 'uz', 'bs', 'nn', 'th', 'az', 'ks', 'gd', 'la', 'st', 'ia', 'cr', 'tg', 'am', 'ml', 'se', 'he', 'vo', 'to', 'eo', 'su', 'ee', 'kn', 'ku', 'hi', 'fa', 'ny', 'sl', 'br', 'kg', 'pi', 'lt', 'en', 'ak', 'rw', 'sc', 'gv', 'nr', 'sk', 'tw', 'gl', 'mg', 'sd', 'ik', 'as', 'hz', 've', 'pa', 'ch', 'dz', 'hr', 'jv', 'na', 'lg', 'rn', 'bi', 'is', 'ka', 'it', 'sq', 'ii', 'hu', 'ty', 'an', 'mh', 'pl', 'yi', 'ae', 'tt', 'sv', 'km', 'mn', 'ro']
+
+
+
 BOT = telegram.Bot(token=key.TELEGRAM_API_TOKEN)
 
 DISABLED = False
@@ -113,11 +119,17 @@ def state_CONVERT_ASK_LANG_MULTI(user, message_obj=None, **kwargs):
                 if text_input == ux.BUTTON_BACK:
                     redirect_to_state(user, state_ASK_IF_MULTILINGUAL)
             else:
-                user.set_tmp_variable('LANG_LIST', [i.lower() for i in
-                text_input.split(',')])
-                user.set_tmp_variable('COUNTER',
-                0)
-                redirect_to_state(user, state_CONVERT_ASK_SUBJECT)
+                input_list = text_input.replace(' ', '')
+                input_list = [i.lower() for i in input_list.split(',')]
+                check_list = all(elem in iso_list for elem in input_list)
+                if check_list:
+                    user.set_tmp_variable('LANG_LIST', input_list)
+                    user.set_tmp_variable('COUNTER',
+                    0)
+                    redirect_to_state(user, state_CONVERT_ASK_SUBJECT)
+                else:
+                    send_message(user, ux.MSG_WRONG_ISO_CODE)
+                    redirect_to_state(user, state_ASK_IF_MULTILINGUAL)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)
 
@@ -135,8 +147,15 @@ def state_CONVERT_ASK_LANG_MONO(user, message_obj=None, **kwargs):
                 if text_input == ux.BUTTON_BACK:
                     redirect_to_state(user, state_ASK_IF_MULTILINGUAL)
             else:
-                user.set_tmp_variable('LANG', text_input)
-                redirect_to_state(user, state_CONVERT_ASK_SUBJECT)
+                input_list = text_input.replace(' ', '')
+                input_list = [i.lower() for i in input_list.split(',')]
+                check_list = all(elem in iso_list for elem in input_list)
+                if check_list:
+                    user.set_tmp_variable('LANG', text_input)
+                    redirect_to_state(user, state_CONVERT_ASK_SUBJECT)
+                else:
+                    send_message(user, ux.MSG_WRONG_ISO_CODE)
+                    redirect_to_state(user, state_ASK_IF_MULTILINGUAL)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)
 
@@ -151,7 +170,7 @@ def state_CONVERT_ASK_SUBJECT(user, message_obj=None, **kwargs):
             if text_input in utility.flatten(kb):
                 if text_input == ux.BUTTON_BACK:
                     if user.get_tmp_variable('IF_MULTI') == False:
-                        redirect_to_state(user, state_CONVERT_ASK_LANG)
+                        redirect_to_state(user, state_CONVERT_ASK_LANG_MONO)
                     else:
                         redirect_to_state(user, state_CONVERT_ASK_LANG_MULTI)
             else:
@@ -433,11 +452,12 @@ def deal_with_document_request_multi(user, document_obj):
     #    reply_text = "File too big."
     #    send_message(user, reply_text)    
     #    return
-    if file_name.endswith('.csv'):
-        return file_id, file_name
-    else:
-        send_message(user, ux.MSG_WRONG_EXTENSION)
-        return
+    #if file_name.endswith('.csv'):
+    return file_id, file_name
+    #else:
+    #    send_message(user, ux.MSG_WRONG_EXTENSION)
+    #    return
+    #    redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI) 
     
 def deal_with_document_request(user, document_obj):          
     if DISABLED:
@@ -527,9 +547,6 @@ def convert_csv_to_tbx_multi(user, lang_list):
         redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI) 
     
 
-
-
-
 def convert_csv_to_tbx(user, file_id, file_name):
     import codecs
     from utility import check_file_encoding
@@ -544,25 +561,26 @@ def convert_csv_to_tbx(user, file_id, file_name):
         send_message(user, error_msg, markdown=False)
     try:
         # import CsvFormatError, csv2tbx
-        lines = file_text.splitlines()
+        #lines = file_text.splitlines()
         tbx_string = csv2tbx.csv2tbx(
-            lines = lines,
+            lines = file_text,
             lang = user.get_tmp_variable('LANG'),
             subjectField = user.get_tmp_variable('SUBJECT'), 
             id_prefix = user.get_tmp_variable('ID_PREFIX'), 
             ontology_name = user.get_tmp_variable('ONTOLOGY_NAME'),
             ontology_link = user.get_tmp_variable('ONTOLOGY_LINK')
         )
-        
+    
+        send_message(user, ux.MSG_FILE_READY, sleep=1)
+        send_text_document(user, new_file_name, tbx_string)  
+        restart(user)
     except csv2tbx.CsvFormatError as e:
         send_message(user, e.message, markdown=False)
     except Exception as e:
-        error_msg = "🤯 Encountered problem to segment file {}. Please contact @kercos."
+        error_msg = """🤯 Encountered problem to segment file {}. Please contact
+        @kercos.""".format(e)
         send_message(user, error_msg, markdown=False)
-    send_message(user, ux.MSG_FILE_READY, sleep=1)
-    send_text_document(user, new_file_name, tbx_string)  
-    restart(user)
-
+        restart(user)
 
 possibles = globals().copy()
 possibles.update(locals())

@@ -10,6 +10,7 @@ class CsvFormatError(Exception):
 
 POS_MAPPING_OTHER = 'other'
 
+iso_codes = ['aw', 'af', 'ao', 'ai', 'ax', 'al', 'ad', 'ae', 'ar', 'am', 'as', 'aq', 'tf', 'ag', 'au', 'at', 'az', 'bi', 'be', 'bj', 'bq', 'bf', 'bd', 'bg', 'bh', 'bs', 'ba', 'bl', 'by', 'bz', 'bm', 'bo', 'br', 'bb', 'bn', 'bt', 'bv', 'bw', 'cf', 'ca', 'cc', 'ch', 'cl', 'cn', 'ci', 'cm', 'cd', 'cg', 'ck', 'co', 'km', 'cv', 'cr', 'cu', 'cw', 'cx', 'ky', 'cy', 'cz', 'de', 'dj', 'dm', 'dk', 'do', 'dz', 'ec', 'eg', 'er', 'eh', 'es', 'ee', 'et', 'fi', 'fj', 'fk', 'fr', 'fo', 'fm', 'ga', 'gb', 'ge', 'gg', 'gh', 'gi', 'gn', 'gp', 'gm', 'gw', 'gq', 'gr', 'gd', 'gl', 'gt', 'gf', 'gu', 'gy', 'hk', 'hm', 'hn', 'hr', 'ht', 'hu', 'id', 'im', 'in', 'io', 'ie', 'ir', 'iq', 'is', 'il', 'it', 'jm', 'je', 'jo', 'jp', 'kz', 'ke', 'kg', 'kh', 'ki', 'kn', 'kr', 'kw', 'la', 'lb', 'lr', 'ly', 'lc', 'li', 'lk', 'ls', 'lt', 'lu', 'lv', 'mo', 'mf', 'ma', 'mc', 'md', 'mg', 'mv', 'mx', 'mh', 'mk', 'ml', 'mt', 'mm', 'me', 'mn', 'mp', 'mz', 'mr', 'ms', 'mq', 'mu', 'mw', 'my', 'yt', 'na', 'nc', 'ne', 'nf', 'ng', 'ni', 'nu', 'nl', 'no', 'np', 'nr', 'nz', 'om', 'pk', 'pa', 'pn', 'pe', 'ph', 'pw', 'pg', 'pl', 'pr', 'kp', 'pt', 'py', 'ps', 'pf', 'qa', 're', 'ro', 'ru', 'rw', 'sa', 'sd', 'sn', 'sg', 'gs', 'sh', 'sj', 'sb', 'sl', 'sv', 'sm', 'so', 'pm', 'rs', 'ss', 'st', 'sr', 'sk', 'si', 'se', 'sz', 'sx', 'sc', 'sy', 'tc', 'td', 'tg', 'th', 'tj', 'tk', 'tm', 'tl', 'to', 'tt', 'tn', 'tr', 'tv', 'tw', 'tz', 'ug', 'ua', 'um', 'uy', 'us', 'uz', 'va', 'vc', 've', 'vg', 'vi', 'vn', 'vu', 'wf', 'ws', 'ye', 'za', 'zm', 'zw']
 
 POS_MAPPING = {
     'N': 'noun',
@@ -87,15 +88,12 @@ ontology_link = None):
         
         id_str = "{}_{}".format(id_prefix, i+1)
         
-        
         termEntry_struct = etree.SubElement(body_struct, "termEntry", \
         id=id_str)
-        descriptGrp_struct = etree.SubElement(termEntry_struct,
-        "descripGrp")
-
-        etree.SubElement(descriptGrp_struct, "descrip", \
+        #descriptGrp_struct = etree.SubElement(termEntry_struct,
+        #"descripGrp")
+        etree.SubElement(termEntry_struct, "descrip", \
         type="subjectField").text = subjectField
-
 
         if ontology_name:
             etree.SubElement(descriptGrp_struct, "xref", type="URI", \
@@ -117,23 +115,25 @@ ontology_link = None):
 
 
                 if type(row[0]) == str:
-                    
-                    langSet_struct_descr = etree.SubElement(descriptGrp_struct,
-                    "langSet")
-                    attr_lang_descr = langSet_struct_descr.attrib
-                    attr_lang_descr['{http://www.w3.org/XML/1998/namespace}lang'] = \
-                    languages[file_index]
-
-
+                   
                     langSet_struct = etree.SubElement(termEntry_struct, "langSet")
                     attr = langSet_struct.attrib
                     attr['{http://www.w3.org/XML/1998/namespace}lang'] = \
                     languages[file_index]
                     
-                    if type(row[6]) != float:
-                        etree.SubElement(langSet_struct_descr, "descrip",
+                    if type(row[6]) != float and len(row[6]) >= 1:
+                        #descriptGrp_struct = etree.SubElement(langSet_struct,
+                        #"descripGrp")
+                        #langSet_struct_descr = etree.SubElement(descriptGrp_struct,
+                        #"langSet")
+                        #attr_lang_descr = langSet_struct_descr.attrib
+                        #attr_lang_descr['{http://www.w3.org/XML/1998/namespace}lang'] = \
+                        #languages[file_index]
+                        
+                        etree.SubElement(langSet_struct, "descrip",
                         type="definition").text = row[6]
 
+                    
                     if type(row[2]) ==  str:
                         field_3_mw_pos_upper = row[2].upper()
                             
@@ -146,20 +146,20 @@ ontology_link = None):
 
                     gender_full, number_full = None, None
 
-                    if row[5] == str:
-                        if len(row[5]) != 4:
+                    if row[3] == str:
+                        if len(row[3]) != 4:
                             error_msg = """Error in input CSV: line {} in
                             document {} is supposed to be 4 characters long
                             (e.g. 'ms+-')""".format(i, filename)
                             raise CsvFormatError(error_msg)
                         
-                        if row[5][0] not in ['m','f']:
+                        if row[3][0] not in ['m','f']:
                             error_msg = """Error in input CSV: line {} in
                             document {} :
                                 first character should be m (masculine) or f
                                 (feminine)""".format(n,filename) 
                             raise CsvFormatError(error_msg)
-                        if row[5][1] not in ['s','p']:
+                        if row[3][1] not in ['s','p']:
                             error_msg = """Error in input CSV: line {} in
                             document {}:
                                 second character should be s (singular) or p
@@ -224,19 +224,19 @@ ontology_link = None):
 
                             etree.SubElement(termCompGrp_struct, "termNote", \
                             type = "partOfSpeech").text = pos_internal[o]
-                    if type(row[6]) == str:
-                        for n, v in enumerate(row[6].split()):
+                    if type(row[4]) == str:
+                        for n, v in enumerate(row[4].split()):
                             v_num = str(n).zfill(2)
                             etree.SubElement(parent_node, "termNote", \
                             type="variant{}".format(v_num)).text = v
-                    if type(row[7]) == str:
-                        for n, s in enumerate(row[7].split()):
+                    if type(row[5]) == str:
+                        for n, s in enumerate(row[5].split()):
                             s_num = str(n).zfill(2)
                             etree.SubElement(parent_node, "termNote", \
                             type="synonym{}".format(s_num)).text = s
 
-                    if type(row[9]) == str:
-                        for n, h in enumerate(row[9].split()):
+                    if type(row[7]) == str:
+                        for n, h in enumerate(row[7].split()):
                             h_num = str(n).zfill(2)
                             etree.SubElement(parent_node, "termNote", \
                             type="hypernyms{}".format(h_num)).text = h

@@ -43,7 +43,7 @@ def csv2tbx(lines, lang, subjectField, id_prefix, ontology_name=None, ontology_l
     text_struct = etree.SubElement(root, "text")
     body_struct = etree.SubElement(text_struct, "body")
 
-    csv_reader = pd.read_csv('../data/prova2 glossario tbx.csv', delimiter=';')
+    csv_reader = pd.read_csv(lines, delimiter=';')
     for n,row in csv_reader.iterrows():
         if len(row) != 9:
             error_msg = "Error in input CSV: line {} has {} fields instead of 9".format(n, len(row))
