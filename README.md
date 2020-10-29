@@ -5,12 +5,15 @@ This tool is available on Telegram as a ChatBot under the name [CSV2TBX](https:/
 **CSV2TBX** fully supports multilingual datasets, as it takes as input one CSV file per language and gives as output a TBX file, the standard TermBase eXchange format for terminology management and sharing. The converter also supports the integration of ontology references.
 
 # Conversion process
-At the start of the process, the converter will ask whether the user is working with one or more languages. In case the user is working with more than one languages, it will ask to enter the [**ISO Language Code**](http://www.lingoes.net/en/translator/langcode.htm) for each language separated by a comma using (e.g. ‘it, en’). 
-After that, the user can upload the .csv file to be converted into TBX.
+At the start of the process, the converter will ask whether the user is working with one or more languages. In case the user is working with more than one languages, it will ask to enter the [**ISO Language Code**](http://www.lingoes.net/en/translator/langcode.htm) for each language separated by a comma using (e.g. ‘it, en’). \
+
+After that, the user can upload the .csv file to be converted into TBX.\
+
 **Please remember that the order in which the CSV files are sent has to be the same order in which the languages were typed (e.g if the input for the selected languages was ‘it, en’, the user should send the Italian CSV file first, then the English one)**.
-#Input File
-Each monolingual CSV file should contain 9 fields separated by 8 semicolons (;) per line. 
-In case of multiple multilingual CSV files, each row should refer to the same item. 
+
+# Input File
+Each monolingual CSV file should contain 9 fields separated by 8 semicolons (;) per line.\
+In case of multiple multilingual CSV files, each row should refer to the same item.\
 In case one language doesn’t have an entry for that specific item, be careful to leave the row for that item empty in the CSV file for that language.
 
 1. **Term*** is mandatory and must contain the term (which could be a single word or a multiword expression (MWE), e.g., column krater, antefixes, etc.
@@ -127,7 +130,7 @@ The converter output is a TBX file as defined by the ISO 30042:2008 standard (TB
 
 
 # License and Citation
-The tool has been developed by the [**UNIOR NLP Research Group**] (https://sites.google.com/view/unior-nlp-research-group) L'Orientale University of Naples.
+The tool has been developed by the [**UNIOR NLP Research Group**](https://sites.google.com/view/unior-nlp-research-group) L'Orientale University of Naples.
  **Contact**: uniornlp@gmail.com\
 The tool is released under **CC license**.\
 To cite this work, please use:
