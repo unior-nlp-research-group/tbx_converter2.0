@@ -16,8 +16,8 @@ Each monolingual CSV file should contain 9 fields separated by 8 semicolons (;) 
 In case of multiple multilingual CSV files, each row should refer to the same item.\
 In case one language doesn’t have an entry for that specific item, be careful to leave the row for that item empty in the CSV file for that language.
 
-1. **Term*** is mandatory and must contain the term (which could be a single word or a multiword expression (MWE), e.g., column krater, antefixes, etc.
-1. **POS tag***, is mandatory and must contain the Part of Speech tag of the entry, e.g., N, P, A, etc.
+1. **Term**<sup>*</sup> is mandatory and must contain the term (which could be a single word or a multiword expression (MWE), e.g., column krater, antefixes, etc.
+1. **POS tag**<sup>*</sup>, is mandatory and must contain the Part of Speech tag of the entry, e.g., N, P, A, etc.
 1. **Internal POS** tags can contain the POS of MWE’s single components, e.g., NN etc.
 1. **Grammatical info** should contain the gender and number of the term, in the format ns-+
 1. **Variants** can host all orthographic variants of a term, e.g., column krater,column-krater
@@ -26,7 +26,7 @@ In case one language doesn’t have an entry for that specific item, be careful 
 1. **Hypernyms** can contain hierarchically higher and more general lexical entries comprising the term e.g., architectural elements.
 1. **Ontology class** reference can host the term’s corresponding ontology class in a reference domain ontology such as CIDOC CRM Ontology for Cultural Heritage domain e.g., E22_Man-Made_Object
 
-*Mandatory fields. If some of the optional fields are missing, the separator has to be inserted to preserve the number of expected fields.
+<sup>*</sup>Mandatory fields. If some of the optional fields are missing, the separator has to be inserted to preserve the number of expected fields.
 
 **Example of CSV input file**
 ```csv
