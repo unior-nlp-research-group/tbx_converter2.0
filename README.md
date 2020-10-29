@@ -35,7 +35,7 @@ antefix;N;;ns-+;antefixae;Ornaments at the ridge or eaves of a roof, in classica
 ```
 
 # Output file
-The converter output is a TBX file as defined by the ISO 30042:2008 standard (TBX v2), employing the DatCatInfo categories in the DCA style. Note that TBX v2 allows the use of the <ntig> element for MWE decomposition.
+The converter output is a TBX file as defined by the ISO 30042:2008 standard (TBX v2), employing the DatCatInfo categories in the DCA style. Note that TBX v2 allows the use of the \<ntig\> element for MWE decomposition.
 
 **Example of monolingual TBX output file**
 ```
