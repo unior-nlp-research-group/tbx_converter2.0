@@ -95,7 +95,8 @@ The converter output is a TBX file as defined by the ISO 30042:2008 standard (TB
         </tig>
       </langSet>
     </body>
-  </text>```
+  </text>
+```
 
 **Example of bilingual TBX output file**
 ```  <text>
