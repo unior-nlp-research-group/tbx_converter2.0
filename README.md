@@ -1,7 +1,7 @@
 # General information
 
 In this repository we provide **CSV2TBX** a tool for **converting CSV Linguistic Resources into TBX format**.\
-This tool is available on Telegram as a ChatBot under the name [CSV2TBX](https://t.me/CSV2TBX_bot).
+This tool is available on Telegram as a ChatBot under the name [CSV2TBX](https://t.me/CSV2TBX_bot). \
 **CSV2TBX** fully supports multilingual datasets, as it takes as input one CSV file per language and gives as output a TBX file, the standard TermBase eXchange format for terminology management and sharing. The converter also supports the integration of ontology references.
 
 # Conversion process
