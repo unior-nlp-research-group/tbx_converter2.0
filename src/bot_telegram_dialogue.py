@@ -250,11 +250,11 @@ def state_CONVERT_ASK_ONTOLOGY_LINK(user, message_obj=None, **kwargs):
             if text_input in utility.flatten(kb):
                 if text_input == ux.BUTTON_BACK:
                     redirect_to_state(user, state_CONVERT_ASK_ONTOLOGY_NAME)
-                elif user.get_tmp_variable('IF_MULTI') == True:
-                    user.set_tmp_variable('ONTOLOGY_LINK', text_input)
+            else:
+                user.set_tmp_variable('ONTOLOGY_LINK', text_input)
+                if user.get_tmp_variable('IF_MULTI') == True:
                     redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI)
                 elif user.get_tmp_variable('IF_MULTI') == False:
-                    user.set_tmp_variable('ONTOLOGY_LINK', text_input)
                     redirect_to_state(user, state_CONVERT_ASK_DOC_MONO)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)

@@ -92,13 +92,20 @@ ontology_link = None):
         id=id_str)
         #descriptGrp_struct = etree.SubElement(termEntry_struct,
         #"descripGrp")
-        etree.SubElement(termEntry_struct, "descrip", \
-        type="subjectField").text = subjectField
 
         if ontology_name:
+            descriptGrp_struct = etree.SubElement(termEntry_struct, \
+            "descripGrp")
+            etree.SubElement(descriptGrp_struct, "descrip", \
+            type="subjectField").text = subjectField
             etree.SubElement(descriptGrp_struct, "xref", type="URI", \
             target=ontology_link).text = '{} {}'.format(ontology_name, \
             'Ontology')
+        else:
+            etree.SubElement(termEntry_struct, "descrip", \
+            type="subjectField").text = subjectField
+
+
 
         for filename in list_filenames:
             file_index = list_filenames.index(filename)
@@ -169,7 +176,7 @@ ontology_link = None):
                         number_full = 'singular' if row[5][1]=='s' else 'plural'
 
 
-                    use_ntig = ' ' in row[0] and row[4] 
+                    use_ntig = ' ' in row[0] and row[2] 
 
                     ntig_tig_struct_tag = "ntig" if use_ntig else """tig"""
                     ntig_tig_struct = etree.SubElement(langSet_struct,
@@ -202,7 +209,7 @@ ontology_link = None):
 
 
 
-                    if ontology_link and ontology_name and type(row[8]) == str:
+                    if ontology_link and ontology_name and len(row[8]) >= 1:
                         ontology_link_term = '{}/{}'.format(ontology_link, \
                         row[8])
                         etree.SubElement(parent_node, "xref", type="URI",
