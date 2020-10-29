@@ -7,7 +7,7 @@ This tool is available on Telegram as a ChatBot under the name [CSV2TBX](https:/
 # Conversion process
 At the start of the process, the converter will ask whether the user is working with one or more languages. In case the user is working with more than one languages, it will ask to enter the [**ISO Language Code**](http://www.lingoes.net/en/translator/langcode.htm) for each language separated by a comma using (e.g. ‘it, en’). \
 
-After that, the user can upload the .csv file to be converted into TBX.\
+After that, the user can upload the .csv file to be converted into TBX.
 
 **Please remember that the order in which the CSV files are sent has to be the same order in which the languages were typed (e.g if the input for the selected languages was ‘it, en’, the user should send the Italian CSV file first, then the English one)**.
 
