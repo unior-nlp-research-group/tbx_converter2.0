@@ -39,20 +39,6 @@ The converter output is a TBX file as defined by the ISO 30042:2008 standard (TB
 
 **Example of monolingual TBX output file**
 ```
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
-<martif type="TBX-Default" xml:lang="en">
-  <martifHeader>
-    <fileDesc>
-      <sourceDesc>
-        <p>This is a TBX file generated via .... Address any
-    enquires to ....</p>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <p type="XCSURI">TBXXCS.xcs</p>
-    </encodingDesc>
-  </martifHeader>
   <text>
     <body>
       <termEntry id="AR_1">
@@ -104,11 +90,11 @@ The converter output is a TBX file as defined by the ISO 30042:2008 standard (TB
       </termEntry>
     </body>
   </text>
-</martif>
 ```
 
 **Example of bilingual TBX output file**
-```  <text>
+```  
+<text>
     <body>
       <termEntry id="AR_1">
         <descripGrp>
