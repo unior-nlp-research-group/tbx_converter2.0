@@ -101,7 +101,7 @@ def state_ASK_IF_MULTILINGUAL(user, message_obj=None, **kwargs):
                     redirect_to_state(user, state_CONVERT_ASK_LANG_MULTI)
                 elif text_input == ux.BUTTON_NO:
                     user.set_tmp_variable('IF_MULTI', False)
-                    redirect_to_state(user, state_CONVERT_ASK_LANG_MONO)
+                    redirect_to_state(user, state_CONVERT_ASK_LANG_MULTI)
             else:
                 send_message(user, ux.MSG_WRONG_INPUT)
         else:
@@ -110,7 +110,10 @@ def state_ASK_IF_MULTILINGUAL(user, message_obj=None, **kwargs):
 def state_CONVERT_ASK_LANG_MULTI(user, message_obj=None, **kwargs):
     if message_obj is None:
         kb = [[ux.BUTTON_BACK]]
-        send_message(user, ux.MSG_ASK_LANGUAGE_MULTI, kb)
+        if user.get_tmp_variable('IF_MULTI') == True:
+            send_message(user, ux.MSG_ASK_LANGUAGE_MULTI, kb)
+        else:
+            send_message(user, ux.MSG_ASK_LANGUAGE_MONO, kb)
     else: 
         text_input = message_obj.text
         if text_input:            
@@ -170,7 +173,7 @@ def state_CONVERT_ASK_SUBJECT(user, message_obj=None, **kwargs):
             if text_input in utility.flatten(kb):
                 if text_input == ux.BUTTON_BACK:
                     if user.get_tmp_variable('IF_MULTI') == False:
-                        redirect_to_state(user, state_CONVERT_ASK_LANG_MONO)
+                        redirect_to_state(user, state_CONVERT_ASK_LANG_MULTI)
                     else:
                         redirect_to_state(user, state_CONVERT_ASK_LANG_MULTI)
             else:
@@ -216,7 +219,7 @@ def state_CONVERT_ASK_ONTOLOGY_YES_NO(user, message_obj=None, **kwargs):
                     if user.get_tmp_variable('IF_MULTI') == True:
                         redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI)
                     if user.get_tmp_variable('IF_MULTI') == False:
-                        redirect_to_state(user, state_CONVERT_ASK_DOC_MONO)                    
+                        redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI)                    
                 else:
                     send_message(user, ux.MSG_WRONG_INPUT)
         else:
@@ -255,7 +258,7 @@ def state_CONVERT_ASK_ONTOLOGY_LINK(user, message_obj=None, **kwargs):
                 if user.get_tmp_variable('IF_MULTI') == True:
                     redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI)
                 elif user.get_tmp_variable('IF_MULTI') == False:
-                    redirect_to_state(user, state_CONVERT_ASK_DOC_MONO)
+                    redirect_to_state(user, state_CONVERT_ASK_DOC_MULTI)
         else:
             send_message(user, ux.MSG_WRONG_INPUT)
 

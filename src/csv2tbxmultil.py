@@ -15,7 +15,7 @@ iso_codes = ['aw', 'af', 'ao', 'ai', 'ax', 'al', 'ad', 'ae', 'ar', 'am', 'as', '
 POS_MAPPING = {
     'N': 'noun',
     'NP': 'noun',
-    'NOUN': 'noun',
+    'NOUt': 'noun',
     'A': 'adjective',
     'ADJ': 'adjective',
     'V': 'verb',
@@ -231,18 +231,19 @@ ontology_link = None):
 
                             etree.SubElement(termCompGrp_struct, "termNote", \
                             type = "partOfSpeech").text = pos_internal[o]
-                    if type(row[4]) == str:
-                        for n, v in enumerate(row[4].split()):
+                    if type(row[4]) == str and len(row[4]) >= 1:
+                        for n, v in enumerate(row[4].split(',')):
                             v_num = str(n).zfill(2)
                             etree.SubElement(parent_node, "termNote", \
                             type="variant{}".format(v_num)).text = v
-                    if type(row[5]) == str:
-                        for n, s in enumerate(row[5].split()):
+                    
+                    if type(row[5]) == str and len(row[5]) >= 1:
+                        for n, s in enumerate(row[5].split(',')):
                             s_num = str(n).zfill(2)
                             etree.SubElement(parent_node, "termNote", \
                             type="synonym{}".format(s_num)).text = s
 
-                    if type(row[7]) == str:
+                    if type(row[7]) == str and len(row[7]) >= 1:
                         for n, h in enumerate(row[7].split()):
                             h_num = str(n).zfill(2)
                             etree.SubElement(parent_node, "termNote", \
