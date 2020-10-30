@@ -39,63 +39,71 @@ The converter output is a TBX file as defined by the ISO 30042:2008 standard (TB
 
 **Example of monolingual TBX output file**
 ```
-<text>
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX-Default" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <sourceDesc>
+        <p>This is a TBX file generated via .... Address any
+    enquires to ....</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCS.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
     <body>
       <termEntry id="AR_1">
         <descripGrp>
           <descrip type="subjectField">Archaeology</descrip>
-          <descrip type="definition">Kraters with columnlike handles extending from the shoulders to the rim. The feet are echinus shaped. This vessel type was especially popular in black-figure.</descrip>
-          <xref type="URI"target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+          <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
         </descripGrp>
+        <langSet xml:lang="en">
+          <descrip type="definition">Kraters with columnlike handles extending from the shoulders to the rim. The feet are echinus shaped. This vessel type was especially popular in black-figure.vessel and containers,furnishings and equipment</descrip>
+          <ntig>
+            <termGrp>
+              <term>column crater</term>
+              <termNote type="termType">fullForm</termNote>
+              <termNote type="partOfSpeech">noun</termNote>
+              <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM 
+                        Class</xref>
+              <termCompList type="lemma">
+                <termCompGrp>
+                  <termComp>column</termComp>
+                  <termNote type="partOfSpeech">noun</termNote>
+                </termCompGrp>
+                <termCompGrp>
+                  <termComp>crater</termComp>
+                  <termNote type="partOfSpeech">noun</termNote>
+                </termCompGrp>
+              </termCompList>
+              <termNote type="variant00">column crater</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
       </termEntry>
-      <langSet xml:lang="en">
-        <ntig>
-          <termGrp>
-            <term>column krater</term>
-            <termNote type="termType">fullForm</termNote>
-            <termNote type="partOfSpeech">noun</termNote>
-            <termNote type="grammaticalGender">neuter</termNote>
-            <termNote type="grammaticalNumber">singular</termNote>
-            <xref type="URI"target="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object">CIDOC CRM Class</xref>
-            <termCompList type="lemma">
-              <termCompGrp>
-                <termComp>column</termComp>
-                <termNote type="partOfSpeech">noun</termNote>
-              </termCompGrp>
-              <termCompGrp>
-                <termComp>krater</termComp>
-                <termNote type="partOfSpeech">noun</termNote>
-              </termCompGrp>
-            </termCompList>
-            <termNote type="variant01">column crater</termNote>
-            <termNote type="variant02">column-krater</termNote>
-            <termNote type="hypernyms01">vessel and containers</termNote>            
-           <termNote type="hypernyms02">furnishings and equipment</termNote>
-          </termGrp>
-        </ntig>
-      </langSet>
       <termEntry id="AR_2">
         <descripGrp>
           <descrip type="subjectField">Archaeology</descrip>
-          <descrip type="definition">Ornaments at the ridge or eaves of a roof, in classical architecture and derivatives, that close or conceal the open end of a row of cover tiles.</descrip>
-          <xref type="URI" 
-           target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
+          <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm">CIDOC CRM Ontology</xref>
         </descripGrp>
+        <langSet xml:lang="en">
+          <descrip type="definition">Ornaments at the ridge or eaves of a roof, in classical architecture and derivatives, that close or conceal the open end of a row of cover tiles.</descrip>
+          <tig>
+            <term>antefix</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="partOfSpeech">noun</termNote>
+            <xref type="URI" target="http://www.cidoc-crm.org/cidoc-crm/E22">CIDOC CRM 
+                        Class</xref>
+            <termNote type="variant00">antefixae</termNote>
+          </tig>
+        </langSet>
       </termEntry>
-      <langSet xml:lang="en">
-        <tig>
-          <term>antefix</term>
-          <termNote type="termType">fullForm</termNote>
-          <termNote type="partOfSpeech">noun</termNote>
-          <termNote type="grammaticalGender">neuter</termNote>
-          <termNote type="grammaticalNumber">singular</termNote>
-          <xref type="URI"target="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"> CIDOC CRM Class</xref>
-          <termNote type="variant01">antefixae</termNote>
-          <termNote type="hypernyms01">architectural elements</termNote>
-        </tig>
-      </langSet>
     </body>
   </text>
+</martif>
 ```
 
 **Example of bilingual TBX output file**
