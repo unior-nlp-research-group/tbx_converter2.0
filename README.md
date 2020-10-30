@@ -80,6 +80,7 @@ The converter output is a TBX file as defined by the ISO 30042:2008 standard (TB
                 </termCompGrp>
               </termCompList>
               <termNote type="variant00">column crater</termNote>
+              <termNote type="variant01"> column-krater</termNote>
             </termGrp>
           </ntig>
         </langSet>
