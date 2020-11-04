@@ -63,8 +63,8 @@ ontology_link = None):
         <martifHeader>
             <fileDesc> 
             <sourceDesc>
-               <p>This is a TBX file generated via .... Address any
-    enquires to ....</p>
+               <p>This is a TBX file generated via csv2tbx. Address any
+    enquires to UniOr NLP Research Group at uniornlp@gmail.com </p>
             </sourceDesc> 
             </fileDesc>
             <encodingDesc>
